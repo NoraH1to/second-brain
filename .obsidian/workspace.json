@@ -1,0 +1,163 @@
+{
+  "main": {
+    "id": "228483edb18f333f",
+    "type": "split",
+    "children": [
+      {
+        "id": "86a0d79669d49778",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a06a2e08ad719148",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "yuè - Web 阅读器.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6e58ea7f9f3b3215",
+    "type": "split",
+    "children": [
+      {
+        "id": "30029cbb6d301fea",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e1df2e0187875336",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9eb80db11c8d94ea",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1226012babd3ccf5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "53cf5748408e4c74",
+    "type": "split",
+    "children": [
+      {
+        "id": "907e3e94fa460c7f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3054686891240236",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "yuè - Web 阅读器.md"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "c7393d657c95ca70",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b1dabdd38583d26d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "yuè - Web 阅读器.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f9c782995bc11819",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "yuè - Web 阅读器.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "30b520a7b29358d4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "e1df2e0187875336",
+  "lastOpenFiles": [
+    "yuè - Web 阅读器.md",
+    "未命名",
+    "Test.md",
+    "未命名.canvas"
+  ]
+}
