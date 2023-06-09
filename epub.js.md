@@ -242,7 +242,7 @@ section = this.book.spine.get(target);
 
 它会根据 `idhref`，在 rootfile 中的 manifest 找到对应的 `href`:
 
-![](./rootfile_manifest_xml.png)
+![]()
 
 生成这样数据结构的 spine:
 
