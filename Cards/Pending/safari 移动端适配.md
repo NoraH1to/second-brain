@@ -180,19 +180,13 @@ const book = new Blob([origin.arrayBuffer], { type: origin.type });
 
 > 子元素应用 CSS3 动画属性后，会无视祖先元素的 `border-radius` 溢出
 
-举个例子，当你在写如下页面时
-
-<iframe height="300" style="width: 100%;" scrolling="no" title="safari child overflow" src="https://codepen.io/norah1to/embed/wvYEoGg?default-tab=js%2Cresult&editable=true" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true">
-  See the Pen <a href="https://codepen.io/norah1to/pen/wvYEoGg">
-  safari child overflow</a> by NoraH1to (<a href="https://codepen.io/norah1to">@norah1to</a>)
-  on <a href="https://codepen.io">CodePen</a>.
-</iframe>
+举个例子，当你需要写一个[[带边框且子元素触发了硬件加速的元素]]
 
 你会不会觉得，“诶，完全没问题啊？”
 
-但是
+但是在 SM 中的实际表现却是
 
-![在 SM 中的实际表现](./child_overflow.png)
+![在 SM 中的实际表现](https://vercel-proxy.norah1to.com/proxy/raw.githubusercontent.com/NoraH1to/cdn/master/img/child_overflow.png)
 
 我圆角呢？我不到啊？
 
