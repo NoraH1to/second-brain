@@ -2,7 +2,7 @@
   "accentColor": "",
   "interfaceFontFamily": "苹方",
   "textFontFamily": "苹方",
-  "monospaceFontFamily": "Consolas",
+  "monospaceFontFamily": "Consolas,苹方",
   "baseFontSize": 17,
   "theme": "obsidian",
   "cssTheme": "Minimal",
