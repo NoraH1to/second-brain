@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Atlas/MOCs/进度看板.md",
+                "file": "Home.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Atlas/MOCs/进度看板.md"
+                "file": "Home.md"
               }
             }
           },
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Atlas/MOCs/进度看板.md",
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Atlas/MOCs/进度看板.md",
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -169,10 +169,10 @@
   },
   "active": "2eb6f524456069a8",
   "lastOpenFiles": [
+    "Atlas/MOCs/进度看板.md",
     "Home.md",
     "我.md",
     "Inbox/Cooling Pad/带圆角且子元素触发了硬件加速的元素.md",
-    "Atlas/MOCs/进度看板.md",
     "Cards/永久笔记/🤖epub.js.md",
     "Cards/永久笔记/🤖pdf.js.md",
     "Cards/永久笔记/🤖safari 移动端适配.md",
