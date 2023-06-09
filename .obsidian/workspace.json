@@ -19,14 +19,6 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "3e79c05b0bb160d3",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
           }
         ]
       }
@@ -161,12 +153,12 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "a06a2e08ad719148",
+  "active": "e1df2e0187875336",
   "lastOpenFiles": [
-    "未命名.canvas",
-    "2023-06-09.md",
-    "epub.js 踩坑、实践.md",
     "yuè - Web 阅读器.md",
+    "2023-06-09.md",
+    "未命名.canvas",
+    "epub.js 踩坑、实践.md",
     "未命名",
     "Test.md"
   ]
