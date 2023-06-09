@@ -85,9 +85,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Atlas/TOCs/Obsidian.md"
-              }
+              "state": {}
             }
           },
           {
@@ -100,8 +98,7 @@
               "pinned": true
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "c7393d657c95ca70",
@@ -113,7 +110,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Atlas/TOCs/Obsidian.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +126,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Atlas/TOCs/Obsidian.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -164,11 +159,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "2abb36175a1c17b4",
+  "active": "3054686891240236",
   "lastOpenFiles": [
+    "Atlas/TOCs/Obsidian.md",
     "Atlas/TOCs",
     "Home.md",
-    "Atlas/TOCs/Obsidian.md",
     "Inbox/Cooling Pad/Obsi.md",
     "Calendar/日记/2023-06-10.md",
     "Calendar/日记/2023-06-06.md",
@@ -191,7 +186,6 @@
     "Inbox",
     "Spaces",
     "Sources",
-    "Extras",
     "Cards/Pending/epub.md",
     "rootfile_manifest_xml.png.md",
     "[.md",
