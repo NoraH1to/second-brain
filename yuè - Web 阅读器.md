@@ -1,7 +1,7 @@
 ---
 title: yuè - Web 阅读器
-date created: 星期四, 06-01-2023, 15:38
-date modified: 星期五, 06-09-2023, 14:18
+date created: 06/01-2023, 15:38, 星期四
+date modified: 06/09-2023, 14:20, 星期五
 ---
 
 ## 前言
@@ -16,7 +16,7 @@ date modified: 星期五, 06-09-2023, 14:18
 
 ![看起来还行](https://vercel-proxy.norah1to.com/proxy/raw.githubusercontent.com/NoraH1to/cdn/master/img/20230601155432.png)
 
-中间踩了非常多的坑，具体可以看这两篇文章：
+中间踩了非常多的坑，尤其是[[epub.js]]具体可以看这两篇文章：
 
 - [Epub.js 实践、踩坑](https://www.norah1to.com/2023/05/18/lib-usage/epub.js/)
 - [让人头大的 Safari mobile 适配](https://www.norah1to.com/2023/04/18/mobile/web/shit-mobile-safari/)

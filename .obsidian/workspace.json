@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "86a0d79669d49778",
+        "id": "ba3ab707df7dbb97",
         "type": "tabs",
         "children": [
           {
-            "id": "a06a2e08ad719148",
+            "id": "9f176546abd7960e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -155,10 +155,11 @@
   },
   "active": "e1df2e0187875336",
   "lastOpenFiles": [
+    "EPUB.md",
     "yuè - Web 阅读器.md",
+    "epub.js.md",
     "2023-06-09.md",
     "未命名.canvas",
-    "epub.js 踩坑、实践.md",
     "未命名",
     "Test.md"
   ]
