@@ -1,7 +1,7 @@
 ---
-title: 前言
-date created: 06/09-2023, 13:55, 星期五
-date modified: 06/09-2023, 14:27, 星期五
+title: epub.js
+date created: 05/18-2023, 12:51, 星期四
+date modified: 06/09-2023, 15:45, 星期五
 ---
 
 ## 前言
@@ -9,8 +9,8 @@ date modified: 06/09-2023, 14:27, 星期五
 [`epub.js`](https://github.com/futurepress/epub.js) 是一个强大的库，算是浏览器这块 epub 文件处理的大哥
 
 它能够做到：
-- 解析 [[epub]] 文件
-- 渲染 epu
+- 解析 [[epub 文件]]
+- 在浏览器中渲染 [[epub 文件]]
 
 但是由于项目时间线跨度大（7 年），API 不友好（相对现在的环境来说），再加上只进行了寥寥几次效果不理想的重构，导致这个库的问题非常多，文档非常简陋，类型声明文件更是一塌糊涂
 
@@ -522,7 +522,7 @@ const getCurrentProcess = async () => {
 
 频繁的更改窗口尺寸，会导致无法翻页，具体表现如下:
 
-![无法翻页](./resize_cant_turnpage.gif)
+![无法翻页](https://vercel-proxy.norah1to.com/proxy/raw.githubusercontent.com/NoraH1to/cdn/master/img/resize_cant_turnpage.gif)
 
 原因有两点:
 
