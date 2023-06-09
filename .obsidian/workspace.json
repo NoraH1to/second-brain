@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "56cb08ced075e514",
+        "id": "967ba2a8bd5c5f0c",
         "type": "tabs",
         "children": [
           {
-            "id": "2abb36175a1c17b4",
+            "id": "a531f96ad5f0082f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -85,7 +85,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Atlas/TOCs/Obsidian.md"
+              }
             }
           },
           {
@@ -110,6 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Atlas/TOCs/Obsidian.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,6 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Atlas/TOCs/Obsidian.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -159,9 +163,13 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "3054686891240236",
+  "active": "a531f96ad5f0082f",
   "lastOpenFiles": [
+    "Inbox/Cooling Pad/Markdown.md",
     "Atlas/TOCs/Obsidian.md",
+    "Inbox/Cooling Pad/发布.md",
+    "Inbox/Cooling Pad/第三方插件.md",
+    "Inbox/Cooling Pad/同步.md",
     "Atlas/TOCs",
     "Home.md",
     "Inbox/Cooling Pad/Obsi.md",
