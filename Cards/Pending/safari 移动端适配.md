@@ -10,15 +10,15 @@ date modified: 06/09-2023, 15:45, 星期五
 
 首先是浏览器高度，在 SM 中，`vh` 在计算时会包括顶部的导航栏
 
-![圈中的部位，包括系统状态栏的高度也会计算](./vh_include_nav.png)
+![圈中的部位，包括系统状态栏的高度也会计算](https://vercel-proxy.norah1to.com/proxy/raw.githubusercontent.com/NoraH1to/cdn/master/img/vh_include_nav.png)
 
 也就是说，如果你想让内容填满整个可视区域，用 `height: 100vh` 会溢出一大截，解决的方式很简单，用 `height: 100%` 或者别的方式替代（比如 `flex` 布局）
 
 ### 为什么
 
-在我们滚动页面的时候，导航栏可以透过毛玻璃看到滚动到后面的内容，所以 SM 的实际可视区域还包括了导航栏
+在我们滚动页面的时候，导航栏可以透过毛玻璃看到滚动到后面的内容，所以 SM 的实际可视区域还包括了状态栏
 
-![状态栏毛玻璃](./nav_render.gif)
+![状态栏毛玻璃](https://vercel-proxy.norah1to.com/proxy/raw.githubusercontent.com/NoraH1to/cdn/master/img/nav_render.gif)
 
 经过测试，iOS 平台的 Chrome 也能复现高度问题，可以推测出 iOS 平台上的浏览器都需要注意这点，因为 iOS 限制了第三方浏览器只能使用系统内置的 `WebKit` 内核
 
@@ -26,7 +26,7 @@ date modified: 06/09-2023, 15:45, 星期五
 
 这个问题就比较重量级了，通过触屏长按目标触发 `contextmenu` 事件在 SM 上直接不支持
 
-![不支持 contextmenu](./contextmenu_not_work.gif)
+![不支持 contentmenu](https://vercel-proxy.norah1to.com/proxy/raw.githubusercontent.com/NoraH1to/cdn/master/img/contextmenu_not_work.gif)
 
 从图中也可以看出，应该是为了 iOS 中的[跨应用拽托功能](https://zhuanlan.zhihu.com/p/429768878)做出了让步（在以前是为[无障碍功能-放大镜](https://bugs.webkit.org/show_bug.cgi?id=213953)让步）
 
@@ -36,7 +36,7 @@ date modified: 06/09-2023, 15:45, 星期五
 
 算了，又不是不能用，最后我在 `touch` 和 `pointer` 事件中选择 `pointer` 来实现，理由很简单，它兼容性更好
 
-![一片绿](./pointer_enable.png)
+![绿油油](https://vercel-proxy.norah1to.com/proxy/raw.githubusercontent.com/NoraH1to/cdn/master/img/pointer_enable.png)
 
 最后贴一下 `react` 中的实现，先是一个 hook
 
