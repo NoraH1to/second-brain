@@ -1,12 +1,6 @@
 ---
 title: yuè - Web 阅读器
 date: 2023-06-01 15:38:00
-authors: NoraH1to
-categories:
-  - [项目]
-tags:
-  - 前端
-cover: https://raw.githubusercontent.com/NoraH1to/cdn/master/img/20230601153753.png
 ---
 
 # 前言
