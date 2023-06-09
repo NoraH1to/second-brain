@@ -19,8 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3e79c05b0bb160d3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "epub.js 踩坑、实践.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +100,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "yuè - Web 阅读器.md"
+                "file": "epub.js 踩坑、实践.md"
               }
             }
           }
@@ -102,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "yuè - Web 阅读器.md",
+                "file": "epub.js 踩坑、实践.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "yuè - Web 阅读器.md",
+                "file": "epub.js 踩坑、实践.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,9 +167,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "e1df2e0187875336",
+  "active": "3e79c05b0bb160d3",
   "lastOpenFiles": [
     "yuè - Web 阅读器.md",
+    "epub.js 踩坑、实践.md",
     "未命名",
     "Test.md",
     "未命名.canvas"

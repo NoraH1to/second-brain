@@ -24,7 +24,7 @@ date: 2023-06-01 15:38:00
 
 经过将近一个月的迭代，版本号也来到了 `v1.4.0`，这是它现在的样子：
 
-![好像没多大变化](https://raw.githubusercontent.com/NoraH1to/cdn/master/img/20230601160459.png)
+![好像没多大变化](https://vercel-proxy.norah1to.com/proxy/raw.githubusercontent.com/NoraH1to/cdn/master/img/20230601160459.png)
 
 线上地址：[yue.norah1to.com](https://yue.norah1to.com)
 
@@ -34,7 +34,7 @@ date: 2023-06-01 15:38:00
 
 支持本地导入和从 webDAV 导入，webDAV 需要配置自己的服务：
 
-![配置自己的服务](https://raw.githubusercontent.com/NoraH1to/cdn/master/img/20230601164325.png)
+![配置自己的服务](https://vercel-proxy.norah1to.com/proxy/raw.githubusercontent.com/NoraH1to/cdn/master/img/20230601164325.png)
 
 ### 格式
 
@@ -48,7 +48,7 @@ Web 应用最大的问题就是使用第三方服务时的**跨域问题**，不
 
 假设你要使用坚果云的 webDAV 服务，它的地址为 `https://dav.jianguoyun.com/dav`，你使用该地址进行配置，是行不通的：
 
-![oops](https://raw.githubusercontent.com/NoraH1to/cdn/master/img/20230601165043.png)
+![oops](https://vercel-proxy.norah1to.com/proxy/raw.githubusercontent.com/NoraH1to/cdn/master/img/20230601165043.png)
 
 为了解决该问题，我通过 vercel 的[路由功能](https://vercel.com/docs/concepts/projects/project-configuration#rewrites)实现了**反向代理**：
 
@@ -74,7 +74,7 @@ Web 应用最大的问题就是使用第三方服务时的**跨域问题**，不
 
 我们项目的地址为 `yue.norah1to.com`，如果服务地址为坚果云 `dav.jianguoyun.com/dav`，此时我们填入 `https://yue.norah1to.com/proxy/dav.jianguoyun.com/dav` 即可：
 
-![完美](https://raw.githubusercontent.com/NoraH1to/cdn/master/img/20230601165448.png)
+![完美](https://vercel-proxy.norah1to.com/proxy/raw.githubusercontent.com/NoraH1to/cdn/master/img/20230601165448.png)
 
 #### 注意！
 
@@ -88,7 +88,7 @@ Web 应用最大的问题就是使用第三方服务时的**跨域问题**，不
 
 它的真实服务地址为 `dav.jianguoyun.com/dav`，所以它的根路径为 `/dav`：
 
-![](https://raw.githubusercontent.com/NoraH1to/cdn/master/img/20230601202358.png)
+![](https://vercel-proxy.norah1to.com/proxy/raw.githubusercontent.com/NoraH1to/cdn/master/img/20230601202358.png)
 
 ### 文件管理
 
@@ -98,21 +98,21 @@ Web 应用最大的问题就是使用第三方服务时的**跨域问题**，不
 
 第一种是标签的形式，你可以在侧边栏中添加标签，例如我这样的：
 
-![](https://raw.githubusercontent.com/NoraH1to/cdn/master/img/C1F9CAA2BCF8DD1FBB9FB1660E255FB5.png)
+![](https://vercel-proxy.norah1to.com/proxy/raw.githubusercontent.com/NoraH1to/cdn/master/img/C1F9CAA2BCF8DD1FBB9FB1660E255FB5.png)
 
 可以通过长按图书的方式呼出菜单，通过菜单中的选项编辑标签：
 
-![](https://raw.githubusercontent.com/NoraH1to/cdn/master/img/66BD01EF1D24B039138A2E5BBDA5A6FF.png)
+![](https://vercel-proxy.norah1to.com/proxy/raw.githubusercontent.com/NoraH1to/cdn/master/img/66BD01EF1D24B039138A2E5BBDA5A6FF.png)
 
 也可以多选批量编辑标签：
 
-![](https://raw.githubusercontent.com/NoraH1to/cdn/master/img/DA4265821A2CC88082E0D68A771638D0.png)
+![](https://vercel-proxy.norah1to.com/proxy/raw.githubusercontent.com/NoraH1to/cdn/master/img/DA4265821A2CC88082E0D68A771638D0.png)
 
 #### webDAV 目录
 
 第二种就是 webDAV 中的目录结构了，需要设置自己的 webDAV 服务才能使用：
 
-![](https://raw.githubusercontent.com/NoraH1to/cdn/master/img/20230601170730.png)
+![](https://vercel-proxy.norah1to.com/proxy/raw.githubusercontent.com/NoraH1to/cdn/master/img/20230601170730.png)
 
 ### 阅读器
 
@@ -120,7 +120,7 @@ Web 应用最大的问题就是使用第三方服务时的**跨域问题**，不
 
 阅读器大致长这样：
 
-![](https://raw.githubusercontent.com/NoraH1to/cdn/master/img/20230601171104.png)
+![](https://vercel-proxy.norah1to.com/proxy/raw.githubusercontent.com/NoraH1to/cdn/master/img/20230601171104.png)
 
 很简单，但是够用
 
@@ -140,7 +140,7 @@ Web 应用最大的问题就是使用第三方服务时的**跨域问题**，不
 
 点击屏幕中心可以呼出工具栏（键盘敲空格也行）：
 
-![](https://raw.githubusercontent.com/NoraH1to/cdn/master/img/20230601171953.png)
+![](https://vercel-proxy.norah1to.com/proxy/raw.githubusercontent.com/NoraH1to/cdn/master/img/20230601171953.png)
 
 上面显示标题，并提供了返回的操作按钮
 
@@ -150,7 +150,7 @@ Web 应用最大的问题就是使用第三方服务时的**跨域问题**，不
 
 - 目录：
 
-  ![](https://raw.githubusercontent.com/NoraH1to/cdn/master/img/20230601172148.png)
+  ![](https://vercel-proxy.norah1to.com/proxy/raw.githubusercontent.com/NoraH1to/cdn/master/img/20230601172148.png)
 
 - 切换深色模式
 
@@ -158,7 +158,7 @@ Web 应用最大的问题就是使用第三方服务时的**跨域问题**，不
 
 - 设置：
 
-  ![](https://raw.githubusercontent.com/NoraH1to/cdn/master/img/20230601172238.png)
+  ![](https://vercel-proxy.norah1to.com/proxy/raw.githubusercontent.com/NoraH1to/cdn/master/img/20230601172238.png)
 
 ## 最后
 
