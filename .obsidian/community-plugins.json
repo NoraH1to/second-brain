@@ -1,5 +1,6 @@
 [
   "plugin-proxy",
   "obsidian-git",
-  "obsidian-linter"
+  "obsidian-linter",
+  "obsidian-minimal-settings"
 ]

@@ -1,8 +1,10 @@
 {
-  "accentColor": "",
+  "accentColor": "#78349d",
   "interfaceFontFamily": "苹方",
   "textFontFamily": "苹方",
   "monospaceFontFamily": "Consolas",
-  "baseFontSize": 18,
-  "theme": "obsidian"
+  "baseFontSize": 17,
+  "theme": "obsidian",
+  "cssTheme": "Minimal",
+  "translucency": false
 }
