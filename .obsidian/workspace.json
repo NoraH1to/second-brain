@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cards/永久笔记/🤖pdf.js.md",
+                "file": "Calendar/日记/2023-06-06.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -85,7 +85,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Calendar/日记/2023-06-06.md"
+              }
             }
           },
           {
@@ -111,6 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Calendar/日记/2023-06-06.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,6 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Calendar/日记/2023-06-06.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -160,8 +164,9 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "e91a7ff224e7afcc",
+  "active": "2abb36175a1c17b4",
   "lastOpenFiles": [
+    "Calendar/日记/2023-06-06.md",
     "Cards/永久笔记/🤖pdf.js.md",
     "Cards/永久笔记/🤖safari 移动端适配.md",
     "Cards/永久笔记/🤖epub.js.md",
