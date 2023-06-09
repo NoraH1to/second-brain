@@ -4,7 +4,7 @@
   "newFileLocation": "folder",
   "attachmentFolderPath": "/res",
   "promptDelete": false,
-  "showFrontmatter": true,
+  "showFrontmatter": false,
   "showLineNumber": false,
   "newFileFolderPath": "Inbox/Cooling Pad"
 }
