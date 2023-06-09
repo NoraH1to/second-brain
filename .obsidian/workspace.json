@@ -13,14 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cards/Pending/带圆角且子元素触发了硬件加速的元素.md",
+                "file": "Cards/Pending/safari 移动端适配.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2882b0e1b030c03d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cards/Pending/yuè - Web 阅读器.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +100,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cards/Pending/带圆角且子元素触发了硬件加速的元素.md"
+                "file": "Cards/Pending/yuè - Web 阅读器.md"
               }
             }
           }
@@ -102,14 +116,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cards/Pending/带圆角且子元素触发了硬件加速的元素.md",
+                "file": "Cards/Pending/yuè - Web 阅读器.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -119,9 +133,9 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cards/Pending/带圆角且子元素触发了硬件加速的元素.md",
+                "file": "Cards/Pending/yuè - Web 阅读器.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -136,7 +150,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -152,16 +167,17 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "9f176546abd7960e",
+  "active": "2882b0e1b030c03d",
   "lastOpenFiles": [
-    "Cards/Pending/safari 移动端适配.md",
-    "Cards/Pending/带圆角且子元素触发了硬件加速的元素.md",
-    "Cards/Pending/yuè - Web 阅读器.md",
     "Cards/Pending/epub.js.md",
+    "Cards/Pending/safari 移动端适配.md",
+    "Cards/Pending/WebKit.md",
+    "Cards/Pending/带圆角且子元素触发了硬件加速的元素.md",
     "Cards/Pending/epub 文件.md",
+    "Cards/Pending/yuè - Web 阅读器.md",
     "Cards/Pending/epub.md",
     "Cards/Pending",
-    "Cards/永久笔记",
+    "Cards/Permanent",
     "Cards",
     "rootfile_manifest_xml.png.md",
     "[.md",

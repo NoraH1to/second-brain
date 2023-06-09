@@ -113,7 +113,7 @@ Web 应用最大的问题就是使用第三方服务时的**跨域问题**，不
 
 ### 阅读器
 
-阅读器算是最核心的功能了，在这里先给 [`epubjs`](https://github.com/futurepress/epub.js) 和 [`pdf.js`](https://github.com/mozilla/pdf.js) 磕个头，没有这两个健壮的项目就没有 `yuè`
+阅读器算是最核心的功能了，在这里先给 和 [`pdf.js`](https://github.com/mozilla/pdf.js) 磕个头，没有这两个健壮的项目就没有 `yuè`
 
 阅读器大致长这样：
 
@@ -156,15 +156,3 @@ Web 应用最大的问题就是使用第三方服务时的**跨域问题**，不
 - 设置：
 
   ![](https://vercel-proxy.norah1to.com/proxy/raw.githubusercontent.com/NoraH1to/cdn/master/img/20230601172238.png)
-
-## 最后
-
-没错，这里就是最后了！
-
-你看它是不是很简洁（陋）
-
-但这本身就是为了满足我个人需求的小项目，所以我用的爽就完事~
-
-当然，如果你有想法，欢迎提交 issue 和 pr 🚀
-
-## 未完待续
