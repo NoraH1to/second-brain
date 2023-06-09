@@ -20,7 +20,7 @@ date modified: 06/09-2023, 15:45, 星期五
 
 ![状态栏毛玻璃](https://vercel-proxy.norah1to.com/proxy/raw.githubusercontent.com/NoraH1to/cdn/master/img/nav_render.gif)
 
-经过测试，iOS 平台的 Chrome 也能复现高度问题，可以推测出 iOS 平台上的浏览器都需要注意这点，因为 iOS 限制了第三方浏览器只能使用系统内置的 [[WebKit]] 内核
+经过测试，iOS 平台的 Chrome 也能复现高度问题，可以推测出 iOS 平台上的浏览器都需要注意这点，因为 iOS 限制了第三方浏览器只能使用系统内置的 [[🧐WebKit]] 内核
 
 ## 上下文菜单
 
@@ -199,7 +199,7 @@ const book = new Blob([origin.arrayBuffer], { type: origin.type });
 
 ### 为什么
 
-这是一个 [[WebKit]] 的 BUG，所以没有为什么
+这是一个 [[🧐WebKit]] 的 BUG，所以没有为什么
 
 解决思路主要是让其通过其它方式计算溢出，`isolation: isolate` 可以新建一个独立于其它部分的层叠上下文，自然就触发了别的计算方式
 
