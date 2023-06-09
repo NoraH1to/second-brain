@@ -9,7 +9,7 @@
       "force-yaml-escape-keys": ""
     },
     "format-tags-in-yaml": {
-      "enabled": false
+      "enabled": true
     },
     "format-yaml-array": {
       "enabled": false,
@@ -40,13 +40,13 @@
       "yaml-sort-order-for-other-keys": "None"
     },
     "yaml-timestamp": {
-      "enabled": false,
+      "enabled": true,
       "date-created": true,
       "date-created-key": "date created",
-      "force-retention-of-create-value": false,
+      "force-retention-of-create-value": true,
       "date-modified": true,
       "date-modified-key": "date modified",
-      "format": "dddd, MMMM Do YYYY, h:mm a"
+      "format": "dddd, MMMM Do YYYY, hh:mm:ss a"
     },
     "yaml-title": {
       "enabled": true,
