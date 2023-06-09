@@ -1,4 +1,5 @@
 [
   "plugin-proxy",
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-linter"
 ]
