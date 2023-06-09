@@ -180,11 +180,9 @@ const book = new Blob([origin.arrayBuffer], { type: origin.type });
 
 > 子元素应用 CSS3 动画属性后，会无视祖先元素的 `border-radius` 溢出
 
-举个例子，当你需要写一个[[带边框且子元素触发了硬件加速的元素]]
+当你需要写一个[[带圆角且子元素触发了硬件加速的元素]]时
 
-你会不会觉得，“诶，完全没问题啊？”
-
-但是在 SM 中的实际表现却是
+在 SM 中边框会无效
 
 ![在 SM 中的实际表现](https://vercel-proxy.norah1to.com/proxy/raw.githubusercontent.com/NoraH1to/cdn/master/img/child_overflow.png)
 
