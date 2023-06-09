@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/Cooling Pad/Home.md",
+                "file": "Home.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/Cooling Pad/Home.md"
+                "file": "Home.md"
               }
             }
           },
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/Cooling Pad/Home.md",
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/Cooling Pad/Home.md",
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -178,7 +178,7 @@
   },
   "active": "76e3b71d1efd5050",
   "lastOpenFiles": [
-    "Inbox/Cooling Pad/Home.md",
+    "Home.md",
     "Atlas/MOCs/进度看板.md",
     "Inbox/Cooling Pad/带圆角且子元素触发了硬件加速的元素.md",
     "Cards/永久笔记/🤖epub.js.md",
