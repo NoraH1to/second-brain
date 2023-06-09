@@ -16,11 +16,7 @@ date modified: 06/09-2023, 14:20, 星期五
 
 ![看起来还行](https://vercel-proxy.norah1to.com/proxy/raw.githubusercontent.com/NoraH1to/cdn/master/img/20230601155432.png)
 
-中间踩了非常多的坑，尤其是[[epub.js]]具体可以看这两篇文章：
-
-- [Epub.js 实践、踩坑](https://www.norah1to.com/2023/05/18/lib-usage/epub.js/)
-- [让人头大的 Safari mobile 适配](https://www.norah1to.com/2023/04/18/mobile/web/shit-mobile-safari/)
-
+中间踩了非常多的坑，主要是 [[epub.js]] 和 [[safari 移动端适配]]
 ## 介绍
 
 经过将近一个月的迭代，版本号也来到了 `v1.4.0`，这是它现在的样子：
