@@ -2,5 +2,6 @@
   "plugin-proxy",
   "obsidian-git",
   "obsidian-linter",
-  "obsidian-minimal-settings"
+  "obsidian-minimal-settings",
+  "obsidian-image-auto-upload-plugin"
 ]
