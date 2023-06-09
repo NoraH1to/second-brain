@@ -141,11 +141,11 @@ type RenditionOptions = {
 
   为 `default` 时，`manager`（视图管理器）只会同时挂载**一个** `view`（视图），具体表现如下图所示：
 
-  ![](./manager_default.png)
+  ![](https://vercel-proxy.norah1to.com/proxy/raw.githubusercontent.com/NoraH1to/cdn/master/img/manager_default.png)
 
   `continuous`（连续的） 时会预加载前后的页面，同时挂载**多个** view，表现如下：
 
-  ![](./manager_continuous.png)
+  ![](https://vercel-proxy.norah1to.com/proxy/raw.githubusercontent.com/NoraH1to/cdn/master/img/manager_continuous.png)
 
   <!-- 当 `manager = 'default'`，如果 `flow = 'paginated'`，当你处于某章节的第一页并翻到上一页，正常来说应该定位到**上一章的最后一页**，但是这里会直接定位到**上一章的第一页** -->
 
@@ -238,7 +238,7 @@ section = this.book.spine.get(target);
 
 重点就在 `this.book.spine.get(target)`，spine 是根据 rootfile 生成的，下面是某个 rootfile 中的 spine:
 
-![](./rootfile_spine_xml.png)
+![](https://vercel-proxy.norah1to.com/proxy/raw.githubusercontent.com/NoraH1to/cdn/master/img/rootfile_spine_xml.png)
 
 它会根据 `idhref`，在 rootfile 中的 manifest 找到对应的 `href`:
 
