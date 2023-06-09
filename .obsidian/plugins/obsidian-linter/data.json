@@ -46,7 +46,7 @@
       "force-retention-of-create-value": true,
       "date-modified": true,
       "date-modified-key": "date modified",
-      "format": "dddd, MMMM Do YYYY, hh:mm:ss a"
+      "format": "dddd, MM/DD-YYYY, HH:mm"
     },
     "yaml-title": {
       "enabled": true,
