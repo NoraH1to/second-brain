@@ -19,8 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "186bfc9ccba624c4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inbox/Cooling Pad/Plugin Proxy.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +100,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/Cooling Pad/第三方插件.md"
+                "file": "Inbox/Cooling Pad/Plugin Proxy.md"
               }
             }
           },
@@ -112,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/Cooling Pad/第三方插件.md",
+                "file": "Inbox/Cooling Pad/Plugin Proxy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/Cooling Pad/第三方插件.md",
+                "file": "Inbox/Cooling Pad/Plugin Proxy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -163,13 +177,15 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "a531f96ad5f0082f",
+  "active": "186bfc9ccba624c4",
   "lastOpenFiles": [
+    "Pasted image 20230610213653.png",
+    "Inbox/Cooling Pad/第三方插件.md",
+    "Inbox/Cooling Pad/Markdown.md",
+    "Inbox/Cooling Pad/Plugin Proxy.md",
     "Inbox/Cooling Pad/同步.md",
     "Inbox/Cooling Pad/发布.md",
-    "Inbox/Cooling Pad/第三方插件.md",
     "Inbox/Cooling Pad/带圆角且子元素触发了硬件加速的元素.md",
-    "Inbox/Cooling Pad/Markdown.md",
     "Home.md",
     "Atlas/MOCs/进度看板.md",
     "Atlas/TOCs/Obsidian.md",
@@ -200,8 +216,6 @@
     "rootfile_manifest_xml.png",
     "().md",
     "EPUB.md",
-    "2023-06-09.md",
-    "未命名.canvas",
-    "Test.md"
+    "未命名.canvas"
   ]
 }
