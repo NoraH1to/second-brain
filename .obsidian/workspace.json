@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Atlas/TOCs/Obsidian.md",
+                "file": "Home.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Atlas/TOCs/Obsidian.md"
+                "file": "Home.md"
               }
             }
           },
@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Atlas/TOCs/Obsidian.md",
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Atlas/TOCs/Obsidian.md",
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -165,8 +165,9 @@
   },
   "active": "a531f96ad5f0082f",
   "lastOpenFiles": [
-    "Inbox/Cooling Pad/Markdown.md",
+    "Atlas/MOCs/进度看板.md",
     "Atlas/TOCs/Obsidian.md",
+    "Inbox/Cooling Pad/Markdown.md",
     "Inbox/Cooling Pad/发布.md",
     "Inbox/Cooling Pad/第三方插件.md",
     "Inbox/Cooling Pad/同步.md",
@@ -183,7 +184,6 @@
     "Cards/永久笔记/🤖safari 移动端适配.md",
     "Cards/永久笔记/🤖pdf.js.md",
     "Cards/永久笔记/🤖epub.js.md",
-    "Atlas/MOCs/进度看板.md",
     "我.md",
     "Calendar/日记/未命名",
     "Calendar/日记",
