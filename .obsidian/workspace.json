@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/Cooling Pad/第三方插件.md",
+                "file": "Inbox/Cooling Pad/🤖Plugin Proxy.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/Cooling Pad/第三方插件.md"
+                "file": "Inbox/Cooling Pad/🤖Plugin Proxy.md"
               }
             }
           },
@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/Cooling Pad/第三方插件.md",
+                "file": "Inbox/Cooling Pad/🤖Plugin Proxy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/Cooling Pad/第三方插件.md",
+                "file": "Inbox/Cooling Pad/🤖Plugin Proxy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -147,7 +147,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -165,23 +165,24 @@
   },
   "active": "a531f96ad5f0082f",
   "lastOpenFiles": [
-    "Inbox/Cooling Pad/Plugin Proxy.md",
-    "Inbox/Cooling Pad/第三方插件.md",
-    "Atlas/TOCs/Obsidian.md",
-    "Pasted image 20230610213653.png",
-    "Inbox/Cooling Pad/Markdown.md",
+    "Inbox/Cooling Pad/🤖Obsidian Git.md",
     "Inbox/Cooling Pad/同步.md",
+    "Inbox/Cooling Pad/🤖Plugin Proxy.md",
+    "Atlas/TOCs/Obsidian.md",
+    "Inbox/Cooling Pad/第三方插件.md",
     "Inbox/Cooling Pad/发布.md",
+    "Cards/永久笔记/🧐Markdown.md",
     "Inbox/Cooling Pad/带圆角且子元素触发了硬件加速的元素.md",
+    "Cards/永久笔记/🧐WebKit.md",
+    "Cards/永久笔记/🧐pdf 文件.md",
+    "Cards/永久笔记/🧐epub 文件.md",
+    "Pasted image 20230610213653.png",
     "Home.md",
     "Atlas/MOCs/进度看板.md",
     "Atlas/TOCs",
     "Inbox/Cooling Pad/Obsi.md",
     "Calendar/日记/2023-06-10.md",
     "Calendar/日记/2023-06-06.md",
-    "Cards/永久笔记/🧐WebKit.md",
-    "Cards/永久笔记/🧐pdf 文件.md",
-    "Cards/永久笔记/🧐epub 文件.md",
     "Cards/永久笔记/🤖yuè - Web 阅读器.md",
     "Cards/永久笔记/🤖safari 移动端适配.md",
     "Cards/永久笔记/🤖pdf.js.md",
