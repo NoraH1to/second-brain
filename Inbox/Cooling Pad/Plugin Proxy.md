@@ -7,4 +7,7 @@ date modified: 06/10-2023, 21:33, 星期六
 
 项目仓库在这：[binyu1231/obsidian-plugin-proxy (github.com)](https://github.com/binyu1231/obsidian-plugin-proxy)
 
-其中内置了几个比较知名的[[Github]]代理
+其中内置了几个比较知名的[[Github]]代理：
+
+- https://gh.gcdn.mirr.one/
+- 
