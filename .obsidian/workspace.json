@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Atlas/TOCs/Obsidian.md",
+                "file": "Inbox/Unsroted/🤖Obsidian Git.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Atlas/TOCs/Obsidian.md"
+                "file": "Inbox/Unsroted/🤖Obsidian Git.md"
               }
             }
           },
@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Atlas/TOCs/Obsidian.md",
+                "file": "Inbox/Unsroted/🤖Obsidian Git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Atlas/TOCs/Obsidian.md",
+                "file": "Inbox/Unsroted/🤖Obsidian Git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -164,25 +164,25 @@
   },
   "active": "350264563b26f2f1",
   "lastOpenFiles": [
-    "Inbox/In Process/发布.md",
+    "Inbox/Unsroted/🤖Plugin Proxy.md",
+    "Inbox/Unsroted/第三方插件.md",
+    "Inbox/Unsroted/发布.md",
+    "Inbox/Unsroted/同步.md",
+    "Inbox/Unsroted/🤖Obsidian Git.md",
+    "Cards/永久笔记/🧐epub 文件.md",
+    "Cards/永久笔记/🧐Markdown.md",
+    "Cards/永久笔记/🧐pdf 文件.md",
+    "Cards/永久笔记/🧐WebKit.md",
+    "Inbox/In Process/🤖pdf.js.md",
+    "Inbox/In Process/🤖epub.js.md",
+    "Inbox/In Process/🤖safari 移动端适配.md",
+    "Inbox/In Process/🤖yuè - Web 阅读器.md",
     "Atlas/TOCs/Obsidian.md",
     "Inbox/Cooling Pad/hugo.md",
     "Atlas/MOCs/进度看板.md",
     "Home.md",
     "我.md",
-    "Inbox/Unsroted/同步.md",
-    "Inbox/Unsroted/🤖Plugin Proxy.md",
-    "Inbox/Unsroted/🤖Obsidian Git.md",
-    "Inbox/Unsroted/第三方插件.md",
-    "Inbox/In Process/🤖yuè - Web 阅读器.md",
-    "Inbox/In Process/🤖safari 移动端适配.md",
-    "Inbox/In Process/🤖pdf.js.md",
-    "Inbox/In Process/🤖epub.js.md",
     "Inbox/Cooling Pad/带圆角且子元素触发了硬件加速的元素.md",
-    "Cards/永久笔记/🧐epub 文件.md",
-    "Cards/永久笔记/🧐Markdown.md",
-    "Cards/永久笔记/🧐pdf 文件.md",
-    "Cards/永久笔记/🧐WebKit.md",
     "Calendar/日记/2023-06-06.md",
     "Calendar/日记/2023-06-10.md",
     "Inbox/In Process",
