@@ -8,7 +8,7 @@
 
 ### 多版本
 
-#### rbenv
+#### 安装 rbenv
 
 需要安装[rbenv for Windows](https://rubyinstaller.cn/rbenv-for-windows)
 
@@ -41,5 +41,18 @@ $env:RBENV_USE_MIRROR = "CN"
 测试 `rbenv` 命令
 
 ```powershell
-
+rbenv -v
+# 输出 rbenv v1.x.x
 ```
+
+#### 切换版本
+
+查看可用版本：`rbenv install -l`
+
+当前全局版本：`rbenv global`（我用着有问题）
+
+切换全局版本：`rbenv global {版本号}`（我用着有问题）
+
+当前局部版本：`rbenv local`
+
+切换当前局部版本：`rbenv local {版本号}`
