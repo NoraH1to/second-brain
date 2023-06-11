@@ -34,7 +34,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Atlas/TOCs/Obsidian.md",
+                "file": "Home.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -107,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Atlas/TOCs/Obsidian.md"
+                "file": "Home.md"
               }
             }
           },
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Atlas/TOCs/Obsidian.md",
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Atlas/TOCs/Obsidian.md",
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -187,6 +187,13 @@
   },
   "active": "c51007496a603113",
   "lastOpenFiles": [
+    "我.md",
+    "Inbox/In Process/🤖yuè - Web 阅读器.md",
+    "Inbox/In Process/🤖safari 移动端适配.md",
+    "Inbox/In Process/🤖pdf.js.md",
+    "Inbox/In Process/🤖epub.js.md",
+    "Inbox/Cooling Pad/带圆角且子元素触发了硬件加速的元素.md",
+    "Atlas/TOCs/Obsidian.md",
     "Cards/永久笔记/🤖Plugin Proxy.md",
     "Cards/永久笔记/🤖Obsidian Git.md",
     "Cards/永久笔记/安装mingw.md",
@@ -195,21 +202,14 @@
     "Cards/永久笔记/同步.md",
     "Calendar/日记/2023-06-10.md",
     "Calendar/日记/2023-06-06.md",
-    "Atlas/TOCs/Obsidian.md",
     "Home.md",
     "Inbox/In Process/蓝色协议.md",
-    "Inbox/In Process/🤖yuè - Web 阅读器.md",
-    "Inbox/In Process/🤖safari 移动端适配.md",
-    "Inbox/In Process/🤖pdf.js.md",
-    "Inbox/In Process/🤖epub.js.md",
-    "Inbox/Cooling Pad/带圆角且子元素触发了硬件加速的元素.md",
     "Atlas/MOCs/进度看板.md",
     "Cards/永久笔记/🧐WebKit.md",
     "Cards/永久笔记/🧐Markdown.md",
     "Cards/永久笔记/🧐pdf 文件.md",
     "Cards/永久笔记/🧐epub 文件.md",
     "Inbox/Cooling Pad/hugo.md",
-    "我.md",
     "Inbox/In Process",
     "Pasted image 20230610215851.png",
     "Pasted image 20230610213653.png",

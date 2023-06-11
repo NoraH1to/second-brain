@@ -8,7 +8,7 @@ tags: TOC
 
 ## 特点
 
-- 尊重 [[🧐Markdown]] 原生语法
+- 尊重 [[Markdown]] 原生语法
 - 本地优先
 
 ## 使用
