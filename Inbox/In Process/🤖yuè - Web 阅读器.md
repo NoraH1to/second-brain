@@ -17,7 +17,7 @@ tags: 进行中
 
 ![看起来还行](https://vercel-proxy.norah1to.com/proxy/raw.githubusercontent.com/NoraH1to/cdn/master/img/20230601155432.png)
 
-中间踩了非常多的坑，主要是 [[🤖epub.js]] 和 [[🤖safari 移动端适配]]
+中间踩了非常多的坑，主要是 [[Inbox/In Process/🤖epub.js]] 和 [[Inbox/In Process/🤖safari 移动端适配]]
 ## 介绍
 
 经过将近一个月的迭代，版本号也来到了 `v1.4.0`，这是它现在的样子：
@@ -114,7 +114,7 @@ Web 应用最大的问题就是使用第三方服务时的**跨域问题**，不
 
 ### 阅读器
 
-阅读器算是最核心的功能了，在这里先给 [[🤖epub.js]] 和 [[🤖pdf.js]] 磕个头，没有这两个健壮的项目就没有 `yuè`
+阅读器算是最核心的功能了，在这里先给 [[Inbox/In Process/🤖epub.js]] 和 [[Inbox/In Process/🤖pdf.js]] 磕个头，没有这两个健壮的项目就没有 `yuè`
 
 阅读器大致长这样：
 
