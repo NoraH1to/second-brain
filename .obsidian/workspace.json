@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/Unsroted/🤖Obsidian Git.md",
+                "file": "Inbox/Cooling Pad/安装mingw.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/Unsroted/🤖Obsidian Git.md"
+                "file": "Inbox/Cooling Pad/安装mingw.md"
               }
             }
           },
@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/Unsroted/🤖Obsidian Git.md",
+                "file": "Inbox/Cooling Pad/安装mingw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/Unsroted/🤖Obsidian Git.md",
+                "file": "Inbox/Cooling Pad/安装mingw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -146,7 +146,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -164,22 +165,23 @@
   },
   "active": "350264563b26f2f1",
   "lastOpenFiles": [
-    "Inbox/Unsroted/🤖Plugin Proxy.md",
-    "Inbox/Unsroted/第三方插件.md",
     "Inbox/Unsroted/发布.md",
+    "Inbox/Cooling Pad/安装mingw.md",
     "Inbox/Unsroted/同步.md",
+    "Inbox/Unsroted/第三方插件.md",
+    "Inbox/Unsroted/🤖Plugin Proxy.md",
     "Inbox/Unsroted/🤖Obsidian Git.md",
-    "Cards/永久笔记/🧐epub 文件.md",
-    "Cards/永久笔记/🧐Markdown.md",
-    "Cards/永久笔记/🧐pdf 文件.md",
-    "Cards/永久笔记/🧐WebKit.md",
+    "Inbox/In Process/🤖yuè - Web 阅读器.md",
+    "Inbox/In Process/🤖safari 移动端适配.md",
     "Inbox/In Process/🤖pdf.js.md",
     "Inbox/In Process/🤖epub.js.md",
-    "Inbox/In Process/🤖safari 移动端适配.md",
-    "Inbox/In Process/🤖yuè - Web 阅读器.md",
     "Atlas/TOCs/Obsidian.md",
-    "Inbox/Cooling Pad/hugo.md",
     "Atlas/MOCs/进度看板.md",
+    "Cards/永久笔记/🧐WebKit.md",
+    "Cards/永久笔记/🧐Markdown.md",
+    "Cards/永久笔记/🧐pdf 文件.md",
+    "Cards/永久笔记/🧐epub 文件.md",
+    "Inbox/Cooling Pad/hugo.md",
     "Home.md",
     "我.md",
     "Inbox/Cooling Pad/带圆角且子元素触发了硬件加速的元素.md",
@@ -202,7 +204,6 @@
     "rootfile_manifest_xml.png.md",
     "[.md",
     "rootfile_manifest_xml.png",
-    "().md",
     "未命名.canvas"
   ]
 }
