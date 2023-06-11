@@ -9,3 +9,8 @@ layout: page
 在这里没有所谓的目录与文章列表，主页上只会放着我的最新动态，它就在下面。
 
 如果你对全部的内容感兴趣，这个脑子它是开源的：[NoraH1to/second-brain (github.com)](https://github.com/NoraH1to/second-brain)
+
+简单的TOC：
+
+- [[Obsidian]]
+- [[蓝色协议]]
