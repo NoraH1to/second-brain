@@ -16,6 +16,15 @@
 - 开发在 [[Windows]] 下使用的程序选择 **win32**
 - 开发例如 Linux、macOS 或其它类 Unix 系统时选择 **posix**
 
-异常处理模型
+### 异常处理模型
 
-- sjij 仅支持 **32 位系统**，稳定性qi
+- sjij 仅支持 **32 位系统**
+- seh 比较新，只支持 **64 位系统**且性能更好
+
+## 配置环境变量
+
+下载好后压缩包的目录结构如下
+
+![](https://vercel-proxy.norah1to.com/proxy/raw.githubusercontent.com/NoraH1to/cdn/master/img/20230611212238.png)
+
+`bin` 目录下的就是工具集合
