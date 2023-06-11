@@ -77,3 +77,9 @@ rbenv -v
 ## Bundler
 
 ruby 使用 `gem` 管理包，且一般使用 `bundle` 进行打包，在 `gem v1.13` 版本之后，必须严格遵守 `Gemfile.lock` 中的包版本
+
+如果在打包的时候提示版本号不对，控制台会给出正确的版本提示，我们只需要安装对应的版本的 `bundler` 即可
+
+```sh
+gem install bundler -v x.x.x
+```
