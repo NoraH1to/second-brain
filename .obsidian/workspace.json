@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/In Process/发布.md",
+                "file": "Atlas/TOCs/Obsidian.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/In Process/发布.md"
+                "file": "Atlas/TOCs/Obsidian.md"
               }
             }
           },
@@ -152,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/In Process/发布.md",
+                "file": "Atlas/TOCs/Obsidian.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/In Process/发布.md",
+                "file": "Atlas/TOCs/Obsidian.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -186,8 +186,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -205,8 +204,8 @@
   },
   "active": "350264563b26f2f1",
   "lastOpenFiles": [
-    "Atlas/TOCs/Obsidian.md",
     "Inbox/In Process/发布.md",
+    "Atlas/TOCs/Obsidian.md",
     "Inbox/Cooling Pad/hugo.md",
     "Atlas/MOCs/进度看板.md",
     "Home.md",
