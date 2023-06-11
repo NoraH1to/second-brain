@@ -1,3 +1,8 @@
+---
+title: 配置Ruby环境
+date created: 2023-06-11
+date modified: 2023-06-11
+---
 ## Windows
 
 访问[RubyInstaller for Windows - 国内镜像](https://rubyinstaller.cn/)
@@ -47,12 +52,25 @@ rbenv -v
 
 #### 切换版本
 
-查看可用版本：`rbenv install -l`
+先查看可用版本：`rbenv install -l`
 
-当前全局版本：`rbenv global`（我用着有问题）
+接着安装需要的版本：`rbenv install {版本号}`
 
-切换全局版本：`rbenv global {版本号}`（我用着有问题）
+然后切换全局的和局部版本：
 
-当前局部版本：`rbenv local`
+- 全局
 
-切换当前局部版本：`rbenv local {版本号}`
+	当前全局版本：`rbenv global`
+	
+	切换全局版本：`rbenv global {版本号}`
+	
+- 局部
+	
+	当前局部版本：`rbenv local`
+	
+	切换当前局部版本：`rbenv local {版本号}`
+
+> [!NOTE] 查看版本
+> 
+> 查看版本的命令可能有问题，总是报错，但是切换的版本实际是生效的 
+
