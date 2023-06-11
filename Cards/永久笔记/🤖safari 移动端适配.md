@@ -1,7 +1,7 @@
 ---
 title: 🤖safari 移动端适配
-date created: 04/18-2023, 14:35, 星期二
-date modified: 06/10-2023, 00:41, 星期六
+date created: 2023-04-18
+date modified: 2023-06-11
 tags: 进行中
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Home
-date created: 06/09-2023, 17:42, 星期五
-date modified: 06/10-2023, 00:49, 星期六
+date created: 2023-06-09
+date modified: 2023-06-11
 layout: page
 ---
 欢迎来到[[我]]的第二大脑，这里不是博客，而是基于[[Obsidian]]由无数数字积木搭建起来的城堡，祝你玩的愉快。
