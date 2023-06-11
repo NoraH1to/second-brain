@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/Unsroted/第三方插件.md",
+                "file": "Home.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/Unsroted/第三方插件.md"
+                "file": "Home.md"
               }
             }
           },
@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/Unsroted/第三方插件.md",
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/Unsroted/第三方插件.md",
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -165,9 +165,9 @@
   },
   "active": "a531f96ad5f0082f",
   "lastOpenFiles": [
+    "Inbox/Unsroted/第三方插件.md",
     "Inbox/Unsroted/发布.md",
     "Inbox/Unsroted/同步.md",
-    "Inbox/Unsroted/第三方插件.md",
     "Atlas/TOCs/Obsidian.md",
     "Inbox/Unsroted/🤖Obsidian Git.md",
     "Pasted image 20230610215851.png",
