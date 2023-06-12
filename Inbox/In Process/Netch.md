@@ -22,3 +22,13 @@ date modified: 2023-06-12
 
 ### 添加订阅
 
+打开订阅管理
+![](https://vercel-proxy.norah1to.com/proxy/raw.githubusercontent.com/NoraH1to/cdn/master/img/20230612220238.png)
+
+输入订阅链接（ss订阅）添加即可
+![](https://vercel-proxy.norah1to.com/proxy/raw.githubusercontent.com/NoraH1to/cdn/master/img/20230612220342.png)
+
+### 代理进程
+
+用[[Netch]]一般来说都是为了它的进程代理功能，其它功能有更合适的[[科学上网#工具]]
+
