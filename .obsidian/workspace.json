@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/Cooling Pad/注册国际邮箱.md",
+                "file": "Inbox/Cooling Pad/国际邮箱.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/Cooling Pad/注册国际邮箱.md"
+                "file": "Inbox/Cooling Pad/国际邮箱.md"
               }
             }
           },
@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/Cooling Pad/注册国际邮箱.md",
+                "file": "Inbox/Cooling Pad/国际邮箱.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/Cooling Pad/注册国际邮箱.md",
+                "file": "Inbox/Cooling Pad/国际邮箱.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -165,9 +165,10 @@
   },
   "active": "7794b23ed45560b1",
   "lastOpenFiles": [
-    "Pasted image 20230612203610.png",
-    "Inbox/Cooling Pad/注册国际邮箱.md",
     "Atlas/TOCs/蓝色协议（日服）.md",
+    "Inbox/Cooling Pad/国际邮箱.md",
+    "Inbox/Cooling Pad/注册日本邮箱.md",
+    "Pasted image 20230612203610.png",
     "Cards/永久笔记/显卡性能天梯图.md",
     "Inbox/Unsroted/hugo-obsidian 元数据解析问题.md",
     "Inbox/Cooling Pad/带圆角且子元素触发了硬件加速的元素.md",
