@@ -16,7 +16,7 @@
                 "file": "Cards/永久笔记/发布.md",
                 "mode": "source",
                 "backlinks": true,
-                "source": false
+                "source": true
               }
             }
           }
@@ -165,8 +165,9 @@
   },
   "active": "1d1d86917a790f3e",
   "lastOpenFiles": [
-    "Inbox/Cooling Pad/YAML.md",
+    "Inbox/Cooling Pad/hugo-obsidian 元数据解析问题.md",
     "Cards/永久笔记/发布.md",
+    "Inbox/Cooling Pad/YAML.md",
     "Cards/永久笔记/🤖Obsidian Git.md",
     "Cards/永久笔记/🤖Plugin Proxy.md",
     "Cards/永久笔记/安装mingw.md",
@@ -194,7 +195,6 @@
     "Pasted image 20230610215851.png",
     "Pasted image 20230610213653.png",
     "Atlas/TOCs",
-    "Inbox/Cooling Pad/Obsi.md",
     "Calendar/日记/未命名",
     "Calendar/日记",
     "Cards/Publish",
