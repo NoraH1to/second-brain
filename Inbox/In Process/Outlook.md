@@ -8,6 +8,8 @@ date modified: 2023-06-12
 
 比较主流，而且对中国用户及其友好（不用[[科学上网]]也能注册）
 
+使用过程中偶尔会加载很久，耐心等待即可（微软国内的服务是这样的）
+
 ## 注册
 
 - 在浏览器无痕模式下打开 https://signup.live.com/signup
@@ -31,4 +33,6 @@ date modified: 2023-06-12
 - 用浏览器打开[Outlook主页](https://outlook.live.com/)
 - 输入完整的邮箱地址，点下一步
 	![](https://vercel-proxy.norah1to.com/proxy/raw.githubusercontent.com/NoraH1to/cdn/master/img/20230612205728.png)
+- 输入密码，登录
+	![](https://vercel-proxy.norah1to.com/proxy/raw.githubusercontent.com/NoraH1to/cdn/master/img/20230612210443.png)
 
