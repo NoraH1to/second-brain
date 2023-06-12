@@ -14,4 +14,4 @@ layout: page
 TOC：
 
 - [[Obsidian]]
-- [[蓝色协议]]
+- [[蓝色协议（日服）]]

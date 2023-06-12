@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Atlas/TOCs/蓝色协议.md",
+                "file": "Atlas/TOCs/蓝色协议（日服）.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Atlas/TOCs/蓝色协议.md"
+                "file": "Atlas/TOCs/蓝色协议（日服）.md"
               }
             }
           },
@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Atlas/TOCs/蓝色协议.md",
+                "file": "Atlas/TOCs/蓝色协议（日服）.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Atlas/TOCs/蓝色协议.md",
+                "file": "Atlas/TOCs/蓝色协议（日服）.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -166,7 +166,7 @@
   "active": "7794b23ed45560b1",
   "lastOpenFiles": [
     "Atlas/TOCs/Obsidian.md",
-    "Atlas/TOCs/蓝色协议.md",
+    "Atlas/TOCs/蓝色协议（日服）.md",
     "Cards/永久笔记/安装mingw.md",
     "Cards/永久笔记/第三方插件.md",
     "Home.md",
