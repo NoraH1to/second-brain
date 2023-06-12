@@ -6,7 +6,6 @@
       {
         "id": "ff8d2d00ad3621f5",
         "type": "tabs",
-        "dimension": 99.99999999999999,
         "children": [
           {
             "id": "350264563b26f2f1",
@@ -50,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#进行中",
+                "query": "tag:#TOC",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -67,7 +66,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -148,7 +148,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -164,7 +164,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "350264563b26f2f1",
+  "active": "9eb80db11c8d94ea",
   "lastOpenFiles": [
     "Cards/永久笔记/发布.md",
     "Cards/永久笔记/配置Ruby环境.md",
