@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Atlas/TOCs/Obsidian.md",
+                "file": "Calendar/日记/2023-06-10.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#日记",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -66,7 +66,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -86,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Atlas/TOCs/Obsidian.md"
+                "file": "Calendar/日记/2023-06-10.md"
               }
             }
           },
@@ -112,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Atlas/TOCs/Obsidian.md",
+                "file": "Calendar/日记/2023-06-10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Atlas/TOCs/Obsidian.md",
+                "file": "Calendar/日记/2023-06-10.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -165,6 +166,11 @@
   },
   "active": "fd5ca62ea89955bc",
   "lastOpenFiles": [
+    "Calendar/日记/2023-06-06.md",
+    "Atlas/TOCs/Obsidian.md",
+    "Atlas/TOCs/蓝色协议.md",
+    "Inbox/In Process/🤖yuè - Web 阅读器.md",
+    "Calendar/日记/2023-06-10.md",
     "Cards/永久笔记/发布.md",
     "Cards/永久笔记/同步.md",
     "Inbox/Cooling Pad/YAML.md",
@@ -178,13 +184,8 @@
     "Inbox/In Process/🤖epub.js.md",
     "Inbox/In Process/🤖pdf.js.md",
     "Inbox/In Process/🤖safari 移动端适配.md",
-    "Inbox/In Process/🤖yuè - Web 阅读器.md",
     "我.md",
     "Home.md",
-    "Calendar/日记/2023-06-06.md",
-    "Calendar/日记/2023-06-10.md",
-    "Atlas/TOCs/Obsidian.md",
-    "Atlas/TOCs/蓝色协议.md",
     "Atlas/MOCs/进度看板.md",
     "Cards/永久笔记/🧐WebKit.md",
     "Cards/永久笔记/🧐Markdown.md",
