@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cards/永久笔记/🤖Obsidian Git.md",
+                "file": "Cards/永久笔记/发布.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cards/永久笔记/🤖Obsidian Git.md"
+                "file": "Cards/永久笔记/发布.md"
               }
             }
           },
@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cards/永久笔记/🤖Obsidian Git.md",
+                "file": "Cards/永久笔记/发布.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cards/永久笔记/🤖Obsidian Git.md",
+                "file": "Cards/永久笔记/发布.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -165,8 +165,8 @@
   },
   "active": "f2bbaa1c0dffea09",
   "lastOpenFiles": [
-    "Cards/永久笔记/发布.md",
     "Cards/永久笔记/🤖Obsidian Git.md",
+    "Cards/永久笔记/发布.md",
     "Cards/永久笔记/🤖Plugin Proxy.md",
     "Cards/永久笔记/安装mingw.md",
     "Cards/永久笔记/第三方插件.md",
