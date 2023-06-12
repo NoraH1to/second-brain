@@ -1,5 +1,5 @@
 ---
-title: Outlook
+title: 🤖Outlook
 date created: 2023-06-12
 date modified: 2023-06-12
 ---
@@ -36,6 +36,8 @@ date modified: 2023-06-12
 - 输入邮箱名称，点下一步
 	![](https://vercel-proxy.norah1to.com/proxy/raw.githubusercontent.com/NoraH1to/cdn/master/img/20230612212101.png)
 - 输入密码，点下一步
+	![](https://vercel-proxy.norah1to.com/proxy/raw.githubusercontent.com/NoraH1to/cdn/master/img/20230612212217.png)
+- 后面会要求填入一些个人信息，国家和地区填==**日本**==
 ## 登录使用
 
 - 用浏览器打开[Outlook主页](https://outlook.live.com/)
