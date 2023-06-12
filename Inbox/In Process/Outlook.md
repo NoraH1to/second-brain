@@ -1,18 +1,12 @@
 ---
-title: 国际邮箱
+title: Outlook
 date created: 2023-06-12
 date modified: 2023-06-12
 ---
 
-## 什么是国内邮箱
+微软的邮箱服务，注册的同时也等同于注册了一个微软账号
 
-
-
-## Outlook
-
-
-
-### 注册
+## 注册
 
 - 在浏览器无痕模式下打开 https://signup.live.com/signup
 - 同意条款

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/Cooling Pad/国际邮箱.md",
+                "file": "Inbox/Cooling Pad/Gmail.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/Cooling Pad/国际邮箱.md"
+                "file": "Inbox/Cooling Pad/Gmail.md"
               }
             }
           },
@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/Cooling Pad/国际邮箱.md",
+                "file": "Inbox/Cooling Pad/Gmail.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/Cooling Pad/国际邮箱.md",
+                "file": "Inbox/Cooling Pad/Gmail.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -165,9 +165,11 @@
   },
   "active": "7794b23ed45560b1",
   "lastOpenFiles": [
+    "Inbox/In Process/国际邮箱.md",
+    "Inbox/Cooling Pad/Gmail.md",
+    "Inbox/In Process/Outlook.md",
     "Atlas/TOCs/蓝色协议（日服）.md",
-    "Inbox/Cooling Pad/国际邮箱.md",
-    "Inbox/Cooling Pad/注册日本邮箱.md",
+    "Inbox/In Process/注册日本邮箱.md",
     "Pasted image 20230612203610.png",
     "Cards/永久笔记/显卡性能天梯图.md",
     "Inbox/Unsroted/hugo-obsidian 元数据解析问题.md",
@@ -190,8 +192,6 @@
     "Inbox/In Process/🤖pdf.js.md",
     "Inbox/In Process/🤖safari 移动端适配.md",
     "我.md",
-    "Atlas/MOCs/进度看板.md",
-    "Cards/永久笔记/🧐WebKit.md",
     "Inbox/In Process",
     "Pasted image 20230610215851.png",
     "Pasted image 20230610213653.png",
