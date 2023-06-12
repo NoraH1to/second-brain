@@ -30,6 +30,8 @@ date modified: 2023-06-12
 
 ## 注册日本邮箱
 
+可以看这个[视频](https://www.bilibili.com/video/BV1f14y1D7Cs)，或者下面的图文
+
 - 在浏览器无痕模式下打开 https://signup.live.com/signup.aspx?mkt=jp-jp&lic=1
 - 点击图中按钮新建邮箱（从这一步开始跟[[#注册]]差不多）
 	![](https://vercel-proxy.norah1to.com/proxy/raw.githubusercontent.com/NoraH1to/cdn/master/img/20230612211948.png)

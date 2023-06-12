@@ -42,3 +42,6 @@ date modified: 2023-06-12
 	![](https://vercel-proxy.norah1to.com/proxy/raw.githubusercontent.com/NoraH1to/cdn/master/img/20230612221228.png)
 - 填写备注（填一个方便自己记住的名字即可），点保存
 	![](https://vercel-proxy.norah1to.com/proxy/raw.githubusercontent.com/NoraH1to/cdn/master/img/20230612221628.png)
+- 主界面选择刚刚添加的模式，选择加速的节点，点击启动
+	![](https://vercel-proxy.norah1to.com/proxy/raw.githubusercontent.com/NoraH1to/cdn/master/img/20230612221905.png)
+- 搞定
