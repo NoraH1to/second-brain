@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/Cooling Pad/Gmail.md",
+                "file": "Inbox/In Process/Outlook.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/Cooling Pad/Gmail.md"
+                "file": "Inbox/In Process/Outlook.md"
               }
             }
           },
@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/Cooling Pad/Gmail.md",
+                "file": "Inbox/In Process/Outlook.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/Cooling Pad/Gmail.md",
+                "file": "Inbox/In Process/Outlook.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
