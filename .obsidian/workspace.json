@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cards/永久笔记/配置Ruby环境.md",
+                "file": "Atlas/TOCs/Obsidian.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#TOC",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -66,8 +66,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -87,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cards/永久笔记/配置Ruby环境.md"
+                "file": "Atlas/TOCs/Obsidian.md"
               }
             }
           },
@@ -113,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cards/永久笔记/配置Ruby环境.md",
+                "file": "Atlas/TOCs/Obsidian.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cards/永久笔记/配置Ruby环境.md",
+                "file": "Atlas/TOCs/Obsidian.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -164,13 +163,14 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "9eb80db11c8d94ea",
+  "active": "350264563b26f2f1",
   "lastOpenFiles": [
-    "Cards/永久笔记/发布.md",
-    "Cards/永久笔记/配置Ruby环境.md",
+    "Atlas/TOCs/蓝色协议.md",
     "Atlas/TOCs/Obsidian.md",
-    "Cards/永久笔记/同步.md",
     "Home.md",
+    "Cards/永久笔记/配置Ruby环境.md",
+    "Cards/永久笔记/发布.md",
+    "Cards/永久笔记/同步.md",
     "我.md",
     "Inbox/In Process/🤖yuè - Web 阅读器.md",
     "Inbox/In Process/🤖safari 移动端适配.md",
@@ -183,7 +183,6 @@
     "Cards/永久笔记/第三方插件.md",
     "Calendar/日记/2023-06-10.md",
     "Calendar/日记/2023-06-06.md",
-    "Inbox/In Process/蓝色协议.md",
     "Atlas/MOCs/进度看板.md",
     "Cards/永久笔记/🧐WebKit.md",
     "Cards/永久笔记/🧐Markdown.md",
