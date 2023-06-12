@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Calendar/日记/2023-06-10.md",
+                "file": "Home.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#日记",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -66,8 +66,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -87,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Calendar/日记/2023-06-10.md"
+                "file": "Home.md"
               }
             }
           },
@@ -113,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Calendar/日记/2023-06-10.md",
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Calendar/日记/2023-06-10.md",
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -166,11 +165,11 @@
   },
   "active": "fd5ca62ea89955bc",
   "lastOpenFiles": [
+    "Calendar/日记/2023-06-10.md",
     "Calendar/日记/2023-06-06.md",
     "Atlas/TOCs/Obsidian.md",
     "Atlas/TOCs/蓝色协议.md",
     "Inbox/In Process/🤖yuè - Web 阅读器.md",
-    "Calendar/日记/2023-06-10.md",
     "Cards/永久笔记/发布.md",
     "Cards/永久笔记/同步.md",
     "Inbox/Cooling Pad/YAML.md",
