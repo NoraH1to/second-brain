@@ -1,7 +1,7 @@
 ---
 title: 🤖Plugin Proxy
 date created: 2023-06-10
-date modified: 2023-06-11
+date modified: 2023-06-12
 ---
 
 [[Obsidian]]的[[第三方插件]]

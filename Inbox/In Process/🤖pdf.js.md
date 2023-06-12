@@ -1,7 +1,7 @@
 ---
 title: 🤖pdf.js
 date created: 2023-06-09
-date modified: 2023-06-11
+date modified: 2023-06-12
 ---
 
 开源的 web [[🧐pdf 文件]] 处理库，几乎成为了标准

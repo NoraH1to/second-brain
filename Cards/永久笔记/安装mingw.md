@@ -1,7 +1,7 @@
 ---
 title: 安装mingw
 date created: 2023-06-11
-date modified: 2023-06-11
+date modified: 2023-06-12
 ---
 
 首先打开[MinGW-w64仓库](https://sourceforge.net/projects/mingw-w64/files/)，找到下面最新版本的包（2023-06-11 最新版为 8.1.0）
