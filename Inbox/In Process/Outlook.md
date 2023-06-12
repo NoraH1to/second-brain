@@ -29,5 +29,6 @@ date modified: 2023-06-12
 ## 登录使用
 
 - 用浏览器打开[Outlook主页](https://outlook.live.com/)
-- 
+- 输入完整的邮箱地址，点下一步
+	![](https://vercel-proxy.norah1to.com/proxy/raw.githubusercontent.com/NoraH1to/cdn/master/img/20230612205728.png)
 
