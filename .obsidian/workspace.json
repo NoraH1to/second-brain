@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Calendar/日记/2023-06-06.md",
+                "file": "Cards/永久笔记/发布.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Calendar/日记/2023-06-06.md"
+                "file": "Cards/永久笔记/发布.md"
               }
             }
           },
@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Calendar/日记/2023-06-06.md",
+                "file": "Cards/永久笔记/发布.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Calendar/日记/2023-06-06.md",
+                "file": "Cards/永久笔记/发布.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -165,24 +165,24 @@
   },
   "active": "f2bbaa1c0dffea09",
   "lastOpenFiles": [
+    "Cards/永久笔记/🤖Obsidian Git.md",
+    "Cards/永久笔记/🤖Plugin Proxy.md",
+    "Cards/永久笔记/安装mingw.md",
+    "Cards/永久笔记/第三方插件.md",
+    "Cards/永久笔记/发布.md",
+    "Cards/永久笔记/配置Ruby环境.md",
+    "Cards/永久笔记/同步.md",
+    "Inbox/Cooling Pad/带圆角且子元素触发了硬件加速的元素.md",
+    "Inbox/In Process/🤖epub.js.md",
+    "Inbox/In Process/🤖pdf.js.md",
+    "Inbox/In Process/🤖safari 移动端适配.md",
+    "Inbox/In Process/🤖yuè - Web 阅读器.md",
+    "我.md",
+    "Home.md",
+    "Calendar/日记/2023-06-06.md",
     "Calendar/日记/2023-06-10.md",
     "Atlas/TOCs/Obsidian.md",
     "Atlas/TOCs/蓝色协议.md",
-    "Calendar/日记/2023-06-06.md",
-    "Cards/永久笔记/配置Ruby环境.md",
-    "Cards/永久笔记/发布.md",
-    "Cards/永久笔记/第三方插件.md",
-    "Cards/永久笔记/安装mingw.md",
-    "Cards/永久笔记/🤖Plugin Proxy.md",
-    "Cards/永久笔记/🤖Obsidian Git.md",
-    "Home.md",
-    "Cards/永久笔记/同步.md",
-    "我.md",
-    "Inbox/In Process/🤖yuè - Web 阅读器.md",
-    "Inbox/In Process/🤖safari 移动端适配.md",
-    "Inbox/In Process/🤖pdf.js.md",
-    "Inbox/In Process/🤖epub.js.md",
-    "Inbox/Cooling Pad/带圆角且子元素触发了硬件加速的元素.md",
     "Atlas/MOCs/进度看板.md",
     "Cards/永久笔记/🧐WebKit.md",
     "Cards/永久笔记/🧐Markdown.md",
