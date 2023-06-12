@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/Cooling Pad/CPU性能天梯图.md",
+                "file": "Cards/永久笔记/显卡性能天梯图.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/Cooling Pad/CPU性能天梯图.md"
+                "file": "Cards/永久笔记/显卡性能天梯图.md"
               }
             }
           },
@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/Cooling Pad/CPU性能天梯图.md",
+                "file": "Cards/永久笔记/显卡性能天梯图.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/Cooling Pad/CPU性能天梯图.md",
+                "file": "Cards/永久笔记/显卡性能天梯图.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -166,14 +166,14 @@
   "active": "7794b23ed45560b1",
   "lastOpenFiles": [
     "Atlas/TOCs/蓝色协议（日服）.md",
-    "Inbox/Cooling Pad/CPU性能天梯图.md",
-    "Inbox/Cooling Pad/显卡性能天梯图.md",
+    "Cards/永久笔记/显卡性能天梯图.md",
+    "Inbox/Unsroted/hugo-obsidian 元数据解析问题.md",
     "Inbox/Cooling Pad/带圆角且子元素触发了硬件加速的元素.md",
+    "Cards/永久笔记/CPU性能天梯图.md",
     "Atlas/TOCs/Obsidian.md",
     "Cards/永久笔记/安装mingw.md",
     "Cards/永久笔记/第三方插件.md",
     "Home.md",
-    "Inbox/Cooling Pad/hugo-obsidian 元数据解析问题.md",
     "Inbox/In Process/YAML.md",
     "Calendar/日记/2023-06-10.md",
     "Calendar/日记/2023-06-06.md",
