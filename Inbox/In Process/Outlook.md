@@ -30,8 +30,12 @@ date modified: 2023-06-12
 
 ## 注册日本邮箱
 
-
-
+- 在浏览器无痕模式下打开 https://signup.live.com/signup.aspx?mkt=jp-jp&lic=1
+- 点击图中按钮新建邮箱（从这一步开始跟[[#注册]]差不多）
+	![](https://vercel-proxy.norah1to.com/proxy/raw.githubusercontent.com/NoraH1to/cdn/master/img/20230612211948.png)
+- 输入邮箱名称，点下一步
+	![](https://vercel-proxy.norah1to.com/proxy/raw.githubusercontent.com/NoraH1to/cdn/master/img/20230612212101.png)
+- 输入密码，点下一步
 ## 登录使用
 
 - 用浏览器打开[Outlook主页](https://outlook.live.com/)
