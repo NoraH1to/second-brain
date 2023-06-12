@@ -27,7 +27,11 @@ date modified: 2023-06-12
 	> Q：填中国会不会影响一切境外账号绑定的操作？
 	> 
 	> A：并不会，邮箱的作用只有接收邮件，接入你邮箱的第三方服务无法获得你注册邮箱时填写的地区，他们只能根据你的邮箱名来判断归属地，`@outlook.com` 肯定是归类到国际邮箱的
-	
+
+## 注册日本邮箱
+
+
+
 ## 登录使用
 
 - 用浏览器打开[Outlook主页](https://outlook.live.com/)
@@ -35,4 +39,6 @@ date modified: 2023-06-12
 	![](https://vercel-proxy.norah1to.com/proxy/raw.githubusercontent.com/NoraH1to/cdn/master/img/20230612205728.png)
 - 输入密码，登录
 	![](https://vercel-proxy.norah1to.com/proxy/raw.githubusercontent.com/NoraH1to/cdn/master/img/20230612210443.png)
+- enjoy
+	![](https://vercel-proxy.norah1to.com/proxy/raw.githubusercontent.com/NoraH1to/cdn/master/img/20230612210745.png)
 
