@@ -40,4 +40,5 @@ date modified: 2023-06-12
 	![](https://vercel-proxy.norah1to.com/proxy/raw.githubusercontent.com/NoraH1to/cdn/master/img/20230612221054.png)
 - 软件会自动扫描里面的程序，并添加到处理规则中
 	![](https://vercel-proxy.norah1to.com/proxy/raw.githubusercontent.com/NoraH1to/cdn/master/img/20230612221228.png)
-- 
+- 填写备注（填一个方便自己记住的名字即可），点保存
+	![](https://vercel-proxy.norah1to.com/proxy/raw.githubusercontent.com/NoraH1to/cdn/master/img/20230612221628.png)
