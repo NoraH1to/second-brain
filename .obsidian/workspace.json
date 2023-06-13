@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/In Process/🤖yuè - Web 阅读器.md",
+                "file": "Cards/永久笔记/🤖epub.js.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/In Process/🤖yuè - Web 阅读器.md"
+                "file": "Cards/永久笔记/🤖epub.js.md"
               }
             }
           },
@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/In Process/🤖yuè - Web 阅读器.md",
+                "file": "Cards/永久笔记/🤖epub.js.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/In Process/🤖yuè - Web 阅读器.md",
+                "file": "Cards/永久笔记/🤖epub.js.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -165,9 +165,10 @@
   },
   "active": "6113656455373145",
   "lastOpenFiles": [
-    "Inbox/In Process/🤖pdf.js.md",
-    "Inbox/In Process/🤖yuè - Web 阅读器.md",
+    "Cards/Publish/做了一个Web阅读器.md",
     "Cards/永久笔记/🤖epub.js.md",
+    "Cards/永久笔记/🤖yuè - Web 阅读器.md",
+    "Inbox/In Process/🤖pdf.js.md",
     "Inbox/In Process/YAML.md",
     "Cards/永久笔记/🤖加速器.md",
     "Atlas/TOCs/作品.md",
@@ -191,7 +192,6 @@
     "Inbox/Unsroted/科学上网.md",
     "Inbox/Unsroted/注册日本邮箱.md",
     "Inbox/Cooling Pad/hugo-obsidian 元数据解析问题.md",
-    "Inbox/Cooling Pad/GFW.md",
     "Inbox/New",
     "Pasted image 20230612221209.png",
     "Pasted image 20230612212058.png",
