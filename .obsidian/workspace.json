@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cards/永久笔记/🤖epub.js.md",
+                "file": "Home.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cards/永久笔记/🤖epub.js.md"
+                "file": "Home.md"
               }
             }
           },
@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cards/永久笔记/🤖epub.js.md",
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cards/永久笔记/🤖epub.js.md",
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -165,8 +165,8 @@
   },
   "active": "6113656455373145",
   "lastOpenFiles": [
-    "Cards/永久笔记/🤖yuè - Web 阅读器.md",
     "Cards/永久笔记/🤖epub.js.md",
+    "Cards/永久笔记/🤖yuè - Web 阅读器.md",
     "Cards/Publish/做了一个Web阅读器.md",
     "Inbox/In Process/🤖pdf.js.md",
     "Inbox/In Process/YAML.md",

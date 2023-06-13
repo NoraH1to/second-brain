@@ -1,7 +1,7 @@
 ---
 title: Home
 date created: 2023-06-09
-date modified: 2023-06-12
+date modified: 2023-06-13
 layout: page
 ---
 
@@ -15,3 +15,4 @@ TOC：
 
 - [[Obsidian]]
 - [[蓝色协议（日服）]]
+- [[作品]]
