@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/Unsroted/🤖Outlook.md",
+                "file": "Atlas/TOCs/蓝色协议（日服）.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/Unsroted/🤖Outlook.md"
+                "file": "Atlas/TOCs/蓝色协议（日服）.md"
               }
             }
           },
@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/Unsroted/🤖Outlook.md",
+                "file": "Atlas/TOCs/蓝色协议（日服）.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/Unsroted/🤖Outlook.md",
+                "file": "Atlas/TOCs/蓝色协议（日服）.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -165,6 +165,9 @@
   },
   "active": "7794b23ed45560b1",
   "lastOpenFiles": [
+    "Atlas/TOCs/Obsidian.md",
+    "Atlas/TOCs/蓝色协议（日服）.md",
+    "Inbox/Unsroted/🤖Outlook.md",
     "Inbox/Unsroted/注册日本邮箱.md",
     "Inbox/In Process/🤖pdf.js.md",
     "Inbox/In Process/🤖Netch.md",
@@ -177,8 +180,6 @@
     "Inbox/Unsroted/GFW.md",
     "Inbox/Unsroted/科学上网.md",
     "Inbox/Unsroted/国际邮箱.md",
-    "Atlas/TOCs/蓝色协议（日服）.md",
-    "Inbox/Unsroted/🤖Outlook.md",
     "Inbox/Unsroted/🤖Gmail.md",
     "Pasted image 20230612221209.png",
     "Pasted image 20230612212058.png",
@@ -187,7 +188,6 @@
     "Cards/永久笔记/显卡性能天梯图.md",
     "Inbox/Cooling Pad/带圆角且子元素触发了硬件加速的元素.md",
     "Cards/永久笔记/CPU性能天梯图.md",
-    "Atlas/TOCs/Obsidian.md",
     "Cards/永久笔记/安装mingw.md",
     "Cards/永久笔记/第三方插件.md",
     "Home.md",
