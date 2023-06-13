@@ -20,7 +20,7 @@ tags: [我做了什么]
 中间踩了非常多的坑，主要是 [[🤖epub.js]] 和 [[safari 移动端适配]]
 ## 介绍
 
-经过将近一个月的迭代，版本号也来到了 `v1.4.0`，这是它现在的样子：
+经过将近一个月的迭代，版本号也来到了 `v1.5.0`，这是它现在的样子：
 
 ![好像没多大变化](https://vercel-proxy.norah1to.com/proxy/raw.githubusercontent.com/NoraH1to/cdn/master/img/20230601160459.png)
 
