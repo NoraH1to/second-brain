@@ -165,6 +165,6 @@ Web 应用最大的问题就是使用第三方服务时的**跨域问题**，不
 
 ![](https://vercel-proxy.norah1to.com/proxy/raw.githubusercontent.com/NoraH1to/cdn/master/img/20230613140354.png)
 
-### PWA
+如需手动同步，在书本详情页面点击右上角的同步按钮即可
 
-是的没错，阅读器还是一个**渐进式Web应用**（PWA），这意味着更加优秀的离线体验
+![](https://vercel-proxy.norah1to.com/proxy/raw.githubusercontent.com/NoraH1to/cdn/master/img/20230613144403.png)
