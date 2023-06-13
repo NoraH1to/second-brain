@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cards/永久笔记/🤖yuè - Web 阅读器.md",
+                "file": "Calendar/日记/2023-06-13.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cards/永久笔记/🤖yuè - Web 阅读器.md"
+                "file": "Calendar/日记/2023-06-13.md"
               }
             }
           },
@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cards/永久笔记/🤖yuè - Web 阅读器.md",
+                "file": "Calendar/日记/2023-06-13.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cards/永久笔记/🤖yuè - Web 阅读器.md",
+                "file": "Calendar/日记/2023-06-13.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -165,9 +165,10 @@
   },
   "active": "05c38bb6d1116116",
   "lastOpenFiles": [
+    "Cards/永久笔记/🤖yuè - Web 阅读器.md",
+    "Calendar/日记/2023-06-13.md",
     "Cards/永久笔记/🤖epub.js.md",
     "Home.md",
-    "Cards/永久笔记/🤖yuè - Web 阅读器.md",
     "Cards/Publish/做了一个Web阅读器.md",
     "Inbox/In Process/🤖pdf.js.md",
     "Inbox/In Process/YAML.md",
@@ -191,7 +192,6 @@
     "Inbox/Unsroted/🤖Outlook.md",
     "Inbox/Unsroted/国际邮箱.md",
     "Inbox/Unsroted/科学上网.md",
-    "Inbox/Unsroted/注册日本邮箱.md",
     "Inbox/New",
     "Pasted image 20230612221209.png",
     "Pasted image 20230612212058.png",
