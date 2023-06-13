@@ -96,7 +96,7 @@ Web 应用最大的问题就是使用第三方服务时的**跨域问题**，不
 
 第一种是标签的形式，你可以在侧边栏中添加标签，例如我这样的：
 
-![](https://vercel-proxy.norah1to.com/proxy/raw.githubusercontent.com/NoraH1to/cdn/master/img/C1F9CAA2BCF8DD1FBB9FB1660E255FB5.png)
+![](https://vercel-proxy.norah1to.com/proxy/raw.githubusercontent.com/NoraH1to/cdn/master/img/AE24E97B30287DBA1D90D1E345E05B74.png)
 
 可以通过长按图书的方式呼出菜单，通过菜单中的选项编辑标签：
 
@@ -114,7 +114,7 @@ Web 应用最大的问题就是使用第三方服务时的**跨域问题**，不
 
 ### 阅读器
 
-阅读器算是最核心的功能了，在这里先给 [[🤖epub.js]] 和 [[Inbox/In Process/🤖pdf.js]] 磕个头，没有这两个健壮的项目就没有 `yuè`
+阅读器算是最核心的功能了，在这里先给 [[🤖epub.js]] 和 [[🤖pdf.js]] 磕个头，没有这两个健壮的项目就没有 `yuè`
 
 阅读器大致长这样：
 
@@ -157,3 +157,11 @@ Web 应用最大的问题就是使用第三方服务时的**跨域问题**，不
 - 设置：
 
   ![](https://vercel-proxy.norah1to.com/proxy/raw.githubusercontent.com/NoraH1to/cdn/master/img/20230601172238.png)
+
+### 同步
+
+#### 阅读进度
+
+从[v1.5.0](https://github.com/NoraH1to/yue/releases/tag/v1.5.0)版本开始，阅读器支持同步阅读进度
+
+阅读进度与图书的哈希值绑定，只要是同一本书
