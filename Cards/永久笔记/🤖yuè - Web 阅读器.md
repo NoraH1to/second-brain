@@ -164,3 +164,7 @@ Web 应用最大的问题就是使用第三方服务时的**跨域问题**，不
 从[v1.5.0](https://github.com/NoraH1to/yue/releases/tag/v1.5.0)版本开始，阅读器支持同步阅读进度，默认通过手动点击来同步，如果需要自动同步，可以在设置中开启
 
 ![](https://vercel-proxy.norah1to.com/proxy/raw.githubusercontent.com/NoraH1to/cdn/master/img/20230613140354.png)
+
+### PWA
+
+是的没错，阅读器还是一个**渐进式Web应用**（PWA），这意味着更加优秀的离线体验
