@@ -68,25 +68,24 @@ Web 应用最大的问题就是使用第三方服务时的**跨域问题**，不
 }
 ```
 
-也就是说，如果你要反代 `https://{服务地址}`，只需要将地址改为 `https://{项目地址}/proxy/{服务地址}` 即可
+也就是说，如果要反代 `https://{服务地址}`，只需要将地址改为 `https://{项目地址}/proxy/{服务地址}` 即可
 
-我们项目的地址为 `yue.norah1to.com`，如果服务地址为坚果云 `dav.jianguoyun.com/dav`，此时我们填入 `https://yue.norah1to.com/proxy/dav.jianguoyun.com/dav` 即可：
+该项目的地址为 `yue.norah1to.com`，如果服务地址为坚果云 `dav.jianguoyun.com/dav`，此时我们填入 `https://yue.norah1to.com/proxy/dav.jianguoyun.com/dav` 即可：
 
 ![完美](https://vercel-proxy.norah1to.com/proxy/raw.githubusercontent.com/NoraH1to/cdn/master/img/20230601165448.png)
 
-#### 注意！
-
-项目中使用了 [`webdav-client`](https://github.com/perry-mitchell/webdav-client) 这个库来构建 webDAV 客户端，如果我们使用反向代理修改了服务请求地址，会导致客户端解析 webDAV 服务文件夹路径出错，详情可以看我提出的 [issue](https://github.com/perry-mitchell/webdav-client/issues/342)
-
-我在 issue 中建议增加让用户自定义 `basePath`（根路径）的选项，并提交了一个 [pr](https://github.com/perry-mitchell/webdav-client/pull/343)，该 pr 已经并入且在 `v5.1.0` 中发布
-
-所以如果你使用了反向代理，记得配置其根路径
-
-例如上面坚果云的反代地址 `https://yue.norah1to.com/proxy/dav.jianguoyun.com/dav`
-
-它的真实服务地址为 `dav.jianguoyun.com/dav`，所以它的根路径为 `/dav`：
-
-![](https://vercel-proxy.norah1to.com/proxy/raw.githubusercontent.com/NoraH1to/cdn/master/img/20230601202358.png)
+> [!WARNING] 注意
+> 项目中使用了 [`webdav-client`](https://github.com/perry-mitchell/webdav-client) 这个库来构建 webDAV 客户端，如果我们使用反向代理修改了服务请求地址，会导致客户端解析 webDAV 服务文件夹路径出错，详情可以看我提出的 [issue](https://github.com/perry-mitchell/webdav-client/issues/342)
+>
+> 我在 issue 中建议增加让用户自定义 `basePath`（根路径）的选项，并提交了一个 [pr](https://github.com/perry-mitchell/webdav-client/pull/343)，该 pr 已经并入且在 `v5.1.0` 中发布
+>
+> 所以如果你使用了反向代理，记得配置其根路径
+>
+> 例如上面坚果云的反代地址 `https://yue.norah1to.com/proxy/dav.jianguoyun.com/dav`
+>
+> 它的真实服务地址为 `dav.jianguoyun.com/dav`，所以它的根路径为 `/dav`：
+>
+> ![](https://vercel-proxy.norah1to.com/proxy/raw.githubusercontent.com/NoraH1to/cdn/master/img/20230601202358.png)
 
 ### 文件管理
 
@@ -162,6 +161,6 @@ Web 应用最大的问题就是使用第三方服务时的**跨域问题**，不
 
 #### 阅读进度
 
-从[v1.5.0](https://github.com/NoraH1to/yue/releases/tag/v1.5.0)版本开始，阅读器支持同步阅读进度
+从[v1.5.0](https://github.com/NoraH1to/yue/releases/tag/v1.5.0)版本开始，阅读器支持同步阅读进度，默认通过手动点击来同步，如果需要自动同步，可以在设置中开启
 
-阅读进度与图书的哈希值绑定，只要是同一本书
+![](https://vercel-proxy.norah1to.com/proxy/raw.githubusercontent.com/NoraH1to/cdn/master/img/20230613140354.png)
