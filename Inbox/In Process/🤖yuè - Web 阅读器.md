@@ -17,7 +17,7 @@ tags: [我做了什么]
 
 ![看起来还行](https://vercel-proxy.norah1to.com/proxy/raw.githubusercontent.com/NoraH1to/cdn/master/img/20230601155432.png)
 
-中间踩了非常多的坑，主要是 [[Inbox/In Process/🤖epub.js]] 和 [[Inbox/In Process/🤖safari 移动端适配]]
+中间踩了非常多的坑，主要是 [[Inbox/In Process/🤖epub.js]] 和 [[safari 移动端适配]]
 ## 介绍
 
 经过将近一个月的迭代，版本号也来到了 `v1.4.0`，这是它现在的样子：

@@ -45,3 +45,10 @@ date modified: 2023-06-12
 - 主界面选择刚刚添加的模式，选择加速的节点，点击启动
 	![](https://vercel-proxy.norah1to.com/proxy/raw.githubusercontent.com/NoraH1to/cdn/master/img/20230612221905.png)
 - 搞定
+
+### 全局代理
+
+将模式切换为内置的 `Bypass LAN` 即可
+
+![](https://vercel-proxy.norah1to.com/proxy/raw.githubusercontent.com/NoraH1to/cdn/master/img/20230613134645.png)
+
