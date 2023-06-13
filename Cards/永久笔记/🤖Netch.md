@@ -1,7 +1,7 @@
 ---
 title: 🤖Netch
 date created: 2023-06-12
-date modified: 2023-06-12
+date modified: 2023-06-13
 ---
 
 开源的代理工具，拥有特别好使的进程代理能力
@@ -48,7 +48,7 @@ date modified: 2023-06-12
 
 ### 全局代理
 
-将模式切换为内置的 `Bypass LAN` 即可
+将模式切换为内置的 `Bypass LAN` 启动即可
 
 ![](https://vercel-proxy.norah1to.com/proxy/raw.githubusercontent.com/NoraH1to/cdn/master/img/20230613134645.png)
 

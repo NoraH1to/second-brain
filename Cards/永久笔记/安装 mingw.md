@@ -1,5 +1,5 @@
 ---
-title: 安装mingw
+title: 安装 mingw
 date created: 2023-06-11
 date modified: 2023-06-12
 ---

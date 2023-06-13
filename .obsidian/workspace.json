@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/In Process/🤖Netch.md",
+                "file": "Cards/永久笔记/CPU 性能天梯图.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/In Process/🤖Netch.md"
+                "file": "Cards/永久笔记/CPU 性能天梯图.md"
               }
             }
           },
@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/In Process/🤖Netch.md",
+                "file": "Cards/永久笔记/CPU 性能天梯图.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/In Process/🤖Netch.md",
+                "file": "Cards/永久笔记/CPU 性能天梯图.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -165,36 +165,37 @@
   },
   "active": "526d0d41aea52d16",
   "lastOpenFiles": [
+    "Cards/永久笔记/显卡性能天梯图.md",
+    "Cards/永久笔记/CPU 性能天梯图.md",
     "Cards/永久笔记/safari 移动端适配.md",
-    "Atlas/TOCs/蓝色协议（日服）.md",
-    "Inbox/New",
-    "Inbox/New/下载蓝色协议.md",
-    "Inbox/New/下载万代南梦宫启动器.md",
-    "Atlas/TOCs/Obsidian.md",
-    "Inbox/New/注册万代南梦宫账号.md",
-    "Inbox/Unsroted/🤖Outlook.md",
-    "Inbox/Unsroted/注册日本邮箱.md",
-    "Inbox/In Process/🤖pdf.js.md",
-    "Inbox/In Process/🤖Netch.md",
-    "Inbox/In Process/🤖epub.js.md",
-    "Inbox/In Process/🤖加速器.md",
-    "Inbox/In Process/🤖yuè - Web 阅读器.md",
-    "Inbox/In Process/YAML.md",
-    "Inbox/Unsroted/hugo-obsidian 元数据解析问题.md",
-    "Inbox/Unsroted/GFW.md",
-    "Inbox/Unsroted/科学上网.md",
-    "Inbox/Unsroted/国际邮箱.md",
+    "Cards/永久笔记/同步.md",
+    "Cards/永久笔记/配置 Ruby 环境.md",
+    "Cards/永久笔记/发布.md",
+    "Cards/永久笔记/第三方插件.md",
+    "Cards/永久笔记/安装 mingw.md",
+    "Cards/永久笔记/🤖Plugin Proxy.md",
+    "Cards/永久笔记/🤖Obsidian Git.md",
+    "Cards/永久笔记/🤖Netch.md",
     "Inbox/Unsroted/🤖Gmail.md",
+    "Inbox/Unsroted/🤖Outlook.md",
+    "Inbox/Unsroted/国际邮箱.md",
+    "Inbox/Unsroted/科学上网.md",
+    "Inbox/Unsroted/注册日本邮箱.md",
+    "Inbox/Cooling Pad/hugo-obsidian 元数据解析问题.md",
+    "Inbox/Cooling Pad/GFW.md",
+    "Inbox/New/注册万代南梦宫账号.md",
+    "Inbox/New/下载万代南梦宫启动器.md",
+    "Inbox/New/下载蓝色协议.md",
+    "我.md",
+    "Home.md",
+    "Atlas/TOCs/蓝色协议（日服）.md",
+    "Atlas/TOCs/Obsidian.md",
+    "Inbox/In Process/YAML.md",
+    "Inbox/New",
     "Pasted image 20230612221209.png",
     "Pasted image 20230612212058.png",
     "Pasted image 20230612212003.png",
     "Pasted image 20230612203610.png",
-    "Cards/永久笔记/显卡性能天梯图.md",
-    "Inbox/Cooling Pad/带圆角且子元素触发了硬件加速的元素.md",
-    "Cards/永久笔记/CPU性能天梯图.md",
-    "Cards/永久笔记/安装mingw.md",
-    "Cards/永久笔记/第三方插件.md",
-    "Home.md",
     "Inbox/In Process",
     "Pasted image 20230610215851.png",
     "Pasted image 20230610213653.png",
