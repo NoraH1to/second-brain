@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/In Process/混沌武士.md",
+                "file": "Cards/X后感/混沌武士.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/In Process/混沌武士.md"
+                "file": "Cards/X后感/混沌武士.md"
               }
             }
           },
@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/In Process/混沌武士.md",
+                "file": "Cards/X后感/混沌武士.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/In Process/混沌武士.md",
+                "file": "Cards/X后感/混沌武士.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -163,13 +163,13 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "05c38bb6d1116116",
+  "active": "e1df2e0187875336",
   "lastOpenFiles": [
     "Pasted image 20230702195750.png",
     "Inbox/New/下载蓝色协议.md",
     "Inbox/New/下载万代南梦宫启动器.md",
     "Inbox/New/注册万代南梦宫账号.md",
-    "Inbox/In Process/混沌武士.md",
+    "Cards/X后感/混沌武士.md",
     "Calendar/日记/2023-07-02.md",
     "Inbox/New/🤖setup-cli.md",
     "Cards/X后感",
