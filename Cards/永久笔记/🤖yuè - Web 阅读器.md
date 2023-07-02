@@ -1,8 +1,7 @@
 ---
 title: 🤖yuè - Web 阅读器
 date created: 2023-06-01
-date modified: 2023-06-12
-tags: [我做了什么]
+date modified: 2023-07-02
 ---
 
 ## 前言
