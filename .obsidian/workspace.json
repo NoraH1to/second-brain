@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/New/Indexedb.md",
+                "file": "Inbox/New/IndexedDB.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/New/Indexedb.md"
+                "file": "Inbox/New/IndexedDB.md"
               }
             }
           },
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/New/Indexedb.md",
+                "file": "Inbox/New/IndexedDB.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/New/Indexedb.md",
+                "file": "Inbox/New/IndexedDB.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -180,7 +180,7 @@
   "active": "d26eb2ef5b669707",
   "lastOpenFiles": [
     "Atlas/TOCs/蓝色协议（日服）.md",
-    "Inbox/New/Indexedb.md",
+    "Inbox/New/IndexedDB.md",
     "Atlas/TOCs/我的作品.md",
     "Atlas/TOCs/Obsidian.md",
     "Cards/X后感/混沌武士.md",
