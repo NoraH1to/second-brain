@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cards/X后感/混沌武士.md",
-                "mode": "source",
+                "file": "Atlas/TOCs/蓝色协议（日服）.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cards/X后感/混沌武士.md"
+                "file": "Atlas/TOCs/蓝色协议（日服）.md"
               }
             }
           },
@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cards/X后感/混沌武士.md",
+                "file": "Atlas/TOCs/蓝色协议（日服）.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cards/X后感/混沌武士.md",
+                "file": "Atlas/TOCs/蓝色协议（日服）.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -163,31 +163,31 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "e1df2e0187875336",
+  "active": "05c38bb6d1116116",
   "lastOpenFiles": [
+    "Atlas/TOCs/我的作品.md",
+    "Atlas/TOCs/Obsidian.md",
+    "Atlas/TOCs/蓝色协议（日服）.md",
+    "Cards/X后感/混沌武士.md",
+    "Inbox/Unsroted/注册日本邮箱.md",
+    "Inbox/Unsroted/科学上网.md",
+    "Inbox/Unsroted/国际邮箱.md",
+    "Inbox/Unsroted/🤖Outlook.md",
+    "Inbox/Unsroted/🤖Gmail.md",
+    "Calendar/日记/2023-07-02.md",
     "Pasted image 20230702195750.png",
     "Inbox/New/下载蓝色协议.md",
     "Inbox/New/下载万代南梦宫启动器.md",
     "Inbox/New/注册万代南梦宫账号.md",
-    "Cards/X后感/混沌武士.md",
-    "Calendar/日记/2023-07-02.md",
     "Inbox/New/🤖setup-cli.md",
     "Cards/X后感",
     "Cards/永久笔记/🤖yuè - Web 阅读器.md",
-    "Atlas/TOCs/蓝色协议（日服）.md",
-    "Atlas/TOCs/我的作品.md",
-    "Atlas/TOCs/Obsidian.md",
     "Calendar/日记/2023-06-06.md",
     "Calendar/日记/2023-06-10.md",
     "Calendar/日记/2023-06-13.md",
     "Cards/永久笔记/🤖加速器.md",
     "Home.md",
     "我.md",
-    "Inbox/Unsroted/注册日本邮箱.md",
-    "Inbox/Unsroted/科学上网.md",
-    "Inbox/Unsroted/国际邮箱.md",
-    "Inbox/Unsroted/🤖Outlook.md",
-    "Inbox/Unsroted/🤖Gmail.md",
     "Inbox/Cooling Pad/hugo-obsidian 元数据解析问题.md",
     "Inbox/Cooling Pad/GFW.md",
     "Inbox/Cooling Pad/带圆角且子元素触发了硬件加速的元素.md",
