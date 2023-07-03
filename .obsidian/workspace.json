@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/New/IndexedDB.md",
+                "file": "Cards/X后感/混沌武士.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/New/IndexedDB.md"
+                "file": "Cards/X后感/混沌武士.md"
               }
             }
           },
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/New/IndexedDB.md",
+                "file": "Cards/X后感/混沌武士.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/New/IndexedDB.md",
+                "file": "Cards/X后感/混沌武士.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -179,11 +179,12 @@
   },
   "active": "d26eb2ef5b669707",
   "lastOpenFiles": [
-    "Atlas/TOCs/蓝色协议（日服）.md",
+    "Inbox/Cooling Pad/带圆角且子元素触发了硬件加速的元素.md",
+    "Cards/X后感/混沌武士.md",
     "Inbox/New/IndexedDB.md",
+    "Atlas/TOCs/蓝色协议（日服）.md",
     "Atlas/TOCs/我的作品.md",
     "Atlas/TOCs/Obsidian.md",
-    "Cards/X后感/混沌武士.md",
     "Inbox/Unsroted/注册日本邮箱.md",
     "Inbox/Unsroted/科学上网.md",
     "Inbox/Unsroted/国际邮箱.md",
@@ -205,7 +206,6 @@
     "我.md",
     "Inbox/Cooling Pad/hugo-obsidian 元数据解析问题.md",
     "Inbox/Cooling Pad/GFW.md",
-    "Inbox/Cooling Pad/带圆角且子元素触发了硬件加速的元素.md",
     "Inbox/In Process/🤖pdf.js.md",
     "Atlas/TOCs/未命名",
     "Inbox/New",
