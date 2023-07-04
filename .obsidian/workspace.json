@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Atlas/TOCs/蓝色协议（日服）.md",
+                "file": "Inbox/New/IndexedDB 读写地狱.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Atlas/TOCs/蓝色协议（日服）.md"
+                "file": "Inbox/New/IndexedDB 读写地狱.md"
               }
             }
           },
@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Atlas/TOCs/蓝色协议（日服）.md",
+                "file": "Inbox/New/IndexedDB 读写地狱.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Atlas/TOCs/蓝色协议（日服）.md",
+                "file": "Inbox/New/IndexedDB 读写地狱.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -165,11 +165,11 @@
   },
   "active": "05c38bb6d1116116",
   "lastOpenFiles": [
+    "Atlas/TOCs/蓝色协议（日服）.md",
     "Inbox/New/🤖setup-cli.md",
     "Cards/X后感/混沌武士.md",
     "Inbox/Cooling Pad/带圆角且子元素触发了硬件加速的元素.md",
-    "Inbox/New/IndexedDB.md",
-    "Atlas/TOCs/蓝色协议（日服）.md",
+    "Inbox/New/IndexedDB 读写地狱.md",
     "Atlas/TOCs/我的作品.md",
     "Atlas/TOCs/Obsidian.md",
     "Inbox/Unsroted/注册日本邮箱.md",
