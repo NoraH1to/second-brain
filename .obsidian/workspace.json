@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cards/永久笔记/🤖yuè - Web 阅读器.md",
+                "file": "Inbox/New/IndexedDB 读写地狱.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cards/永久笔记/🤖yuè - Web 阅读器.md"
+                "file": "Inbox/New/IndexedDB 读写地狱.md"
               }
             }
           },
@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cards/永久笔记/🤖yuè - Web 阅读器.md",
+                "file": "Inbox/New/IndexedDB 读写地狱.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cards/永久笔记/🤖yuè - Web 阅读器.md",
+                "file": "Inbox/New/IndexedDB 读写地狱.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -165,6 +165,7 @@
   },
   "active": "05c38bb6d1116116",
   "lastOpenFiles": [
+    "Cards/永久笔记/🤖yuè - Web 阅读器.md",
     "Atlas/TOCs/我的作品.md",
     "Inbox/New/IndexedDB 读写地狱.md",
     "Atlas/TOCs/蓝色协议（日服）.md",
@@ -183,7 +184,6 @@
     "Inbox/New/下载万代南梦宫启动器.md",
     "Inbox/New/注册万代南梦宫账号.md",
     "Cards/X后感",
-    "Cards/永久笔记/🤖yuè - Web 阅读器.md",
     "Calendar/日记/2023-06-06.md",
     "Calendar/日记/2023-06-10.md",
     "Calendar/日记/2023-06-13.md",
