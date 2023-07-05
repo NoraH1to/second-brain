@@ -30,7 +30,7 @@ const updateProcess = useCallback(
 
 ## 出现原因
 
-数据库中图书表的结构为：
+我在数据库中构建了一张表，用来存储图书和其阅读进度，表结构如下：
 
 ```typescript
 type BookTable = Table<{
@@ -43,3 +43,11 @@ type BookTable = Table<{
   }
 }>
 ```
+
+在上面代码中，我仅仅只更新了 `readProgress` 却产生了大量的 I/O，于是我推测它在更新 `readProgress` 的同时，也重写了其他字段，其中 `file` 和 `cover` 的开销会很大
+
+一开始我以为是[[Dexie.js]]的问题，提了一个[issue](https://github.com/dexie/Dexie.js/issues/1758)，维护者也回答了我的问题，告诉我这其实取决于浏览器的实现：
+
+> That is down to the implementation of IndexedDB in the browser.
+
+然后经过 `safari (VMware macOS13)`, `firefox (Windows11)`, `edge (Windows11)`
