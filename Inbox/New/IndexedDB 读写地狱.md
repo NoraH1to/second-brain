@@ -44,7 +44,7 @@ type BookTable = Table<{
 }>
 ```
 
-在上面代码中，我仅仅只更新了 `readProgress` 却产生了大量的 I/O，于是我推测它在更新 `readProgress` 的同时，也重新写入了其他字段，例如 `file` 和 `cover` ，它两开销会很大
+在上面代码中，我仅仅只更新了 `readProgress` 却产生了大量的 I/O，于是我推测它在更新 `readProgress` 的同时，也重新写入了其他字段，例如 `file` 和 `cover` ，它两的开销会很大
 
 一开始我以为是[[Dexie.js]]的问题，提了一个[issue](https://github.com/dexie/Dexie.js/issues/1758)，维护者也回答了我的问题，告诉我这其实取决于浏览器的实现：
 
@@ -52,6 +52,18 @@ type BookTable = Table<{
 
 经过测试，我发现 `safari (VMware macOS13)`, `firefox (Windows11)`, `edge (Windows11)` 都是这样干的
 
-没办法，只能通过抽离 `Blob` 对象到一个新表中来解决它，维护者也是这样建议的
+## 解决方法
+
+没办法，只能通过抽离 `Blob` 对象到一个新表中来解决它，维护者也是这样建议的：
 
 > "A doable workaround would be to store the blobs in a different table and refer to the id of the stored content (like a foreign key)"
+
+更新后数据库中 `books` 表不再存储文件内容：
+
+![books](https://vercel-proxy.norah1to.com/proxy/raw.githubusercontent.com/NoraH1to/cdn/master/img/20230705140543.png)
+
+文件内容和其它尺寸较大的对象都放到了 `bookContents` 里面：
+
+![bookContents](https://vercel-proxy.norah1to.com/proxy/raw.githubusercontent.com/NoraH1to/cdn/master/img/20230705140824.png)
+
+》

@@ -131,7 +131,7 @@
               "state": {
                 "file": "Inbox/New/IndexedDB 读写地狱.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               }
             }
           },
@@ -165,8 +165,11 @@
   },
   "active": "05c38bb6d1116116",
   "lastOpenFiles": [
-    "Cards/永久笔记/🤖yuè - Web 阅读器.md",
+    "Pasted image 20230705140816.png",
+    "Home.md",
+    "我.md",
     "Inbox/New/IndexedDB 读写地狱.md",
+    "Cards/永久笔记/🤖yuè - Web 阅读器.md",
     "Inbox/New/🤖setup-cli.md",
     "Atlas/TOCs/我的作品.md",
     "Atlas/TOCs/蓝色协议（日服）.md",
@@ -188,11 +191,8 @@
     "Calendar/日记/2023-06-10.md",
     "Calendar/日记/2023-06-13.md",
     "Cards/永久笔记/🤖加速器.md",
-    "Home.md",
-    "我.md",
     "Inbox/Cooling Pad/hugo-obsidian 元数据解析问题.md",
     "Inbox/Cooling Pad/GFW.md",
-    "Inbox/In Process/🤖pdf.js.md",
     "Atlas/TOCs/未命名",
     "Inbox/New",
     "Pasted image 20230612221209.png",
