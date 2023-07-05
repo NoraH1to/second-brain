@@ -69,3 +69,7 @@ type BookTable = Table<{
 > [!NOTE] 还有点问题
 > 
 > 这里其实应将 `cover` 单独拆分出来，加载图书列表时没必要也同时加载图书的内容，只需要封面即可
+> 
+> **[[2023-07-05]]更新**：
+> 
+> 已在[v1.6.1](https://github.com/NoraH1to/yue/releases/tag/v1.6.1)中改进
