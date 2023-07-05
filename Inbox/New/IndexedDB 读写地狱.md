@@ -66,4 +66,6 @@ type BookTable = Table<{
 
 ![bookContents](https://vercel-proxy.norah1to.com/proxy/raw.githubusercontent.com/NoraH1to/cdn/master/img/20230705140824.png)
 
-》
+> [!NOTE] 还有点问题
+> 
+> 这里其实应将 `cover` 单独拆分出来，加载图书列表时没必要也同时加载图书的内容，只需要封面即可
