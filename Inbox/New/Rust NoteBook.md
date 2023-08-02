@@ -103,5 +103,12 @@ mod my_module {
 能够直接访问其所有枚举
 
 ```rust
+let ip_v4 = my_module::IP_ADDR::V4(String::from("127.0.0.1"));
+let ip_v6 = my_module::IP_ADDR::V6(String::from("::1"));
+```
+
+### use 关键字只在其作用域内有效
+
+```rust
 
 ```
