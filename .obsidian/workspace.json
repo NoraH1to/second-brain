@@ -100,9 +100,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Inbox/New/Rust NoteBook.md"
-              }
+              "state": {}
             }
           },
           {
@@ -127,7 +125,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/New/Rust NoteBook.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +141,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/New/Rust NoteBook.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,10 +174,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "2c7c40ca54ed8dab",
+  "active": "3054686891240236",
   "lastOpenFiles": [
-    "Cards/X后感/无职转生~到异世界就拿出真本事~.md",
     "Inbox/New/Rust NoteBook.md",
+    "Cards/X后感/无职转生~到异世界就拿出真本事~.md",
     "Cards/X后感/混沌武士.md",
     "Inbox/New/IndexedDB 读写地狱.md",
     "Pasted image 20230705140816.png",

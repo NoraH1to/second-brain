@@ -49,7 +49,7 @@ mod my_module {
 }
 ```
 
-## 构造字段私有的结构体
+### 构造字段私有的结构体
 
 如果需要构造下面的结构体 `Box`
 
@@ -122,4 +122,18 @@ mod my_module {
 use my_module::IP_ADDR;
 ```
 
-在根作用域中使用
+在根作用域中使用没问题
+
+```rust
+let ip_v4 = IP_ADDR::V4(String::from("127.0.0.1"));
+```
+
+不允许在其它作用域用
+
+```rust
+mod another_module {
+    pub fn create_ip_v4(v4: String) {
+        IP_ADDR::V4(v4) // failed to resolve: use of undeclared type `IP_ADDR`
+    }
+}
+```
