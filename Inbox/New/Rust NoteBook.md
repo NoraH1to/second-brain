@@ -51,7 +51,7 @@ mod my_module {
 
 ## 构造字段私有的结构体
 
-如果需要构造下面的结构体
+如果需要构造下面的结构体 `Box`
 
 ```rust
 mod my_module {
@@ -85,4 +85,23 @@ mod my_module {
 
 ```rust
 let banana_box = my_module::Box::create_banana_box();
+```
+
+### pub 会公开所有枚举
+
+公开枚举 `IP_ADDR`
+
+```rust
+mod my_module {
+    pub enum IP_ADDR {
+        V4(String),
+        V6(String),
+    }
+}
+```
+
+能够直接访问其所有枚举
+
+```rust
+
 ```
