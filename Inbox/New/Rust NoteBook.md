@@ -35,7 +35,23 @@ let my_box = my_module::Box {
 my_module::child_module::child_fn(); // function `child_fn` is private
 ```
 
+如果需要直接访问其内部的字段/模块成员，需要也用 `pub` 将其设为公开
+
+```rust
+mod my_module {
+	pub struct Box {
+		pub fruit: String;
+		pub water: String;
+	}
+	pub mod child_module {
+		pub fn child_fn() {}
+	}
+}
+```
+
 ## 构造字段私有的结构体
+
+如果需要构造下面的结构体
 
 ```rust
 mod my_module {
@@ -44,4 +60,29 @@ mod my_module {
 		water: String,
 	}
 }
+```
+
+只需要公开实现工厂方法即可
+
+```rust
+mod my_module {
+    pub struct Box {
+        fruit: String,
+        water: String,
+    }
+    impl Box {
+        pub fn create_banana_box() -> Box {
+            Box {
+                fruit: String::from("banana"),
+                water: String::from("water"),
+            }
+        }
+    }
+}
+```
+
+使用
+
+```rust
+let banana_box = my_module::Box::create_banana_box();
 ```
