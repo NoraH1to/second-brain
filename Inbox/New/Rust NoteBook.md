@@ -109,6 +109,17 @@ let ip_v6 = my_module::IP_ADDR::V6(String::from("::1"));
 
 ### use 关键字只在其作用域内有效
 
-```rust
+在根模块 `use` 创建 `IP_ADDR` 的短链
 
+```rust
+mod my_module {
+    pub enum IP_ADDR {
+        V4(String),
+        V6(String),
+    }
+}
+
+use my_module::IP_ADDR;
 ```
+
+在根作用域中使用
