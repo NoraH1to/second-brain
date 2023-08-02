@@ -12,7 +12,6 @@ date modified: 2023-08-02
 
 ```rust
 mod my_module {
-	// 公开了 Box
 	pub struct Box {
 		fruit: String;
 		water: String;
@@ -27,9 +26,22 @@ mod my_module {
 
 ```rust
 let my_box = my_module::Box {
-	fruit: String::from("banana"),
-	water: String::from("water"),
+	fruit: String::from("banana"), // field `fruit` of struct `my_module::Box` is private
+	water: String::from("water"), // field `water` of struct `my_module::Box` is private
 };
 ```
 
-> field `fruit` of struct `my_module::Box` is private
+```rust
+my_module::child_module::child_fn(); // function `child_fn` is private
+```
+
+## 构造字段私有的结构体
+
+```rust
+mod my_module {
+	pub struct Box {
+		fruit: String,
+		water: String,
+	}
+}
+```
