@@ -1,7 +1,7 @@
 [
   "plugin-proxy",
-  "obsidian-git",
   "obsidian-linter",
   "obsidian-minimal-settings",
-  "dataview"
+  "dataview",
+  "obsidian-git"
 ]
