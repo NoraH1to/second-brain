@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/New/Rust NoteBook.md",
+                "file": "Atlas/TOCs/技术.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/New/Rust NoteBook.md"
+                "file": "Atlas/TOCs/技术.md"
               }
             }
           },
@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/New/Rust NoteBook.md",
+                "file": "Atlas/TOCs/技术.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/New/Rust NoteBook.md",
+                "file": "Atlas/TOCs/技术.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,10 +164,10 @@
   },
   "active": "05c38bb6d1116116",
   "lastOpenFiles": [
+    "Inbox/New/Rust NoteBook.md",
+    "Atlas/TOCs/技术.md",
     "Home.md",
     "conflict-files-obsidian-git.md",
-    "Atlas/TOCs/技术.md",
-    "Inbox/New/Rust NoteBook.md",
     "Atlas/TOCs/蓝色协议（日服）.md",
     "Inbox/New/Vue3 diff 流程.md",
     "Atlas/TOCs/我的作品.md",
