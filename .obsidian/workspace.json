@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/LeetCode Everyday.md",
+                "file": "Inbox/New/LeetCode Rust - 26. 删除有序数组中的重复项.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -26,15 +26,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/New/LeetCode Rust - 26. 删除有序数组中的重复项.md",
+                "file": "Atlas/TOCs/技术.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -176,11 +175,17 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "6868298610cba9f2",
+  "active": "05c38bb6d1116116",
   "lastOpenFiles": [
     "Templates/LeetCode Everyday.md",
-    "Inbox/New/LeetCode Rust - 26. 删除有序数组中的重复项.md",
+    "Home.md",
+    "Inbox/New/Rust中的整形转换.md",
+    "Atlas/TOCs/技术.md",
+    "Atlas/TOCs/蓝色协议（日服）.md",
+    "Atlas/TOCs/我的作品.md",
     "Atlas/TOCs/LeetCode.md",
+    "Atlas/TOCs/Obsidian.md",
+    "Inbox/New/LeetCode Rust - 26. 删除有序数组中的重复项.md",
     "Inbox/New/注册万代南梦宫账号.md",
     "Inbox/New/React.md",
     "Inbox/New/React18 diff 算法.md",
@@ -191,11 +196,7 @@
     "Inbox/New/下载万代南梦宫启动器.md",
     "Inbox/New/下载蓝色协议.md",
     "Inbox/New/🤖setup-cli.md",
-    "Home.md",
     "Templates",
-    "Atlas/TOCs/我的作品.md",
-    "Atlas/TOCs/蓝色协议（日服）.md",
-    "Atlas/TOCs/技术.md",
     "Calendar/X后感/无职转生~到异世界就拿出真本事~.md",
     "Calendar/X后感/混沌武士.md",
     "Inbox/New/我.md",
@@ -203,8 +204,6 @@
     "Inbox/New/Vue3 diff 算法.md",
     "Inbox/New/Vite.md",
     "Cards/永久笔记/cargo 配置.md",
-    "Inbox/New/Vue3 diff 流程.md",
-    "Atlas/TOCs/Obsidian.md",
     "Pasted image 20230705140816.png",
     "Pasted image 20230702195750.png",
     "Calendar/X后感",
