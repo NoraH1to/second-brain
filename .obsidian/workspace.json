@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
+                "file": "Calendar/X后感/无职转生~到异世界就拿出真本事~.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md"
+                "file": "Calendar/X后感/无职转生~到异世界就拿出真本事~.md"
               }
             }
           },
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "Calendar/X后感/无职转生~到异世界就拿出真本事~.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "Calendar/X后感/无职转生~到异世界就拿出真本事~.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,8 +178,10 @@
   },
   "active": "62aa98d0db3736e8",
   "lastOpenFiles": [
-    "Inbox/New/我.md",
+    "Calendar/X后感/混沌武士.md",
+    "Calendar/X后感/无职转生~到异世界就拿出真本事~.md",
     "Home.md",
+    "Inbox/New/我.md",
     "Inbox/New/Webpack.md",
     "Inbox/New/Vue3响应式系统.md",
     "Inbox/New/Vue3 diff 算法.md",
@@ -202,8 +204,6 @@
     "Cards/永久笔记/safari 移动端适配.md",
     "conflict-files-obsidian-git.md",
     "Inbox/Unsroted/🤖Gmail.md",
-    "Inbox/Unsroted/🤖Outlook.md",
-    "Inbox/Unsroted/国际邮箱.md",
     "Pasted image 20230705140816.png",
     "Pasted image 20230702195750.png",
     "Calendar/X后感",
