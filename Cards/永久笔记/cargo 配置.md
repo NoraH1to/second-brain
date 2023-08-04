@@ -4,6 +4,10 @@ date created: 2023-08-04
 date modified: 2023-08-04
 ---
 
+## 可配置项
+
+[Configuration - The Cargo Book (rust-lang.org)](https://doc.rust-lang.org/stable/cargo/reference/config.html#configuration-format)
+
 ## 配置文件路径
 
 假设 cargo 在目录 `/projects/foo/bar/baz` 中执行，它会按照如下顺序寻找 `config.toml` 配置文件：
@@ -19,7 +23,9 @@ date modified: 2023-08-04
 
 简单来说就是**就近原则**
 
-## 配置命令的默认参数
+## 配置镜像源
+
+## 配置初始化版本管理工具行为
 
 执行 `cargo new` 会默认初始化 Git 仓库，如果我们不想初始化任何版本管理工具，需要加上参数 `cargo new --vcs=none`
 
@@ -29,5 +35,3 @@ date modified: 2023-08-04
 [cargo-new]
 vcs = "none"
 ```
-
-但不是所有项都可配置，所有可配置项[在这](https://doc.rust-lang.org/stable/cargo/reference/config.html#configuration-format)
