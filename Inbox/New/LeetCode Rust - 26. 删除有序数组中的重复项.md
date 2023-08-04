@@ -1,5 +1,5 @@
 ---
-title: LeetCode Rust 26. 删除有序数组中的重复项
+title: LeetCode Rust - 26. 删除有序数组中的重复项
 date created: 2023-08-04
 date modified: 2023-08-04
 ---
@@ -50,4 +50,4 @@ impl Solution {
 > 
 > 题目要求**原地删除**，如果从前向后遍历，每次删除时，由于数组长度发生变化，需要更新循环边界，并且当前项的指针指向也需要写代码维护，很麻烦且会降低性能
 
-这里踩了个坑，[[Rust NoteBook#整形转换]]
+这里踩了个坑，[[Rust NoteBook#整形转换的溢出和占用问题]]

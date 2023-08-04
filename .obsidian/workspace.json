@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cards/永久笔记/Rust NoteBook.md",
+                "file": "Inbox/New/LeetCode Rust - 26. 删除有序数组中的重复项.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -99,7 +99,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cards/永久笔记/Rust NoteBook.md"
+                "file": "Inbox/New/LeetCode Rust - 26. 删除有序数组中的重复项.md"
               }
             }
           },
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cards/永久笔记/Rust NoteBook.md",
+                "file": "Inbox/New/LeetCode Rust - 26. 删除有序数组中的重复项.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cards/永久笔记/Rust NoteBook.md",
+                "file": "Inbox/New/LeetCode Rust - 26. 删除有序数组中的重复项.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,8 +177,8 @@
   },
   "active": "05c38bb6d1116116",
   "lastOpenFiles": [
-    "Inbox/New/LeetCode Rust - 26. 删除有序数组中的重复项.md",
     "Cards/永久笔记/Rust NoteBook.md",
+    "Inbox/New/LeetCode Rust - 26. 删除有序数组中的重复项.md",
     "Templates/LeetCode Everyday.md",
     "Home.md",
     "Inbox/New/Rust中的整形转换.md",
