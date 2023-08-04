@@ -30,4 +30,4 @@ date modified: 2023-08-04
 vcs = "none"
 ```
 
-但不是所有命令都是可以配置的，所有可配置项[在这](https://doc.rust-lang.org/stable/cargo/reference/config.html#configuration-format)
+但不是所有项都可配置，所有可配置项[在这](https://doc.rust-lang.org/stable/cargo/reference/config.html#configuration-format)
