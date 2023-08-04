@@ -19,5 +19,32 @@ impl Solution {
 }
 ```
 
-## 解二
+## 解二，从后向前遍历删除
 
+从后往前遍历，比较当前项和前一个项，如果相同则删除前一个项，遍历边界为 `i < 0`
+
+```rust
+impl Solution {
+    pub fn remove_duplicates(nums: &mut Vec<i32>) -> i32 {
+        let mut i  = (nums.len() - 1) as isize;
+        loop {
+            if i < 0 {
+                break;
+            }
+            let pre = match nums.get((i - 1) as usize) {
+                Some(n) => n,
+                None => break,
+            };
+            let cur = nums[i as usize];
+            if cur == *pre {
+                nums.remove((i - 1) as usize);
+            }
+            i -= 1;
+        };
+        nums.len() as i32
+    }
+}
+```
+
+> [!FAQ] 为什么不是从前向后遍历？
+> 题目要求**原地删除**，如果从前向后遍历
