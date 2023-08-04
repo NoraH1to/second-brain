@@ -6,6 +6,8 @@ date modified: 2023-08-04
 
 大四找工作前刷了一百多道题，现在忘的差不多了，趁着学习 Rust 重新系统的刷一次
 
+> 用 rust 刷题其实挺折磨的，
+
 刷题原目录：[如何在 LeetCode 上刷题？ - 知乎 (zhihu.com)](https://www.zhihu.com/question/266888066/answer/2828886867)
 
 ## 数组

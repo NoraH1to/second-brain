@@ -39,14 +39,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
+                "file": "Atlas/TOCs/LeetCode.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -112,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/LeetCode Everyday.md"
+                "file": "Atlas/TOCs/LeetCode.md"
               }
             }
           },
@@ -138,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/LeetCode Everyday.md",
+                "file": "Atlas/TOCs/LeetCode.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/LeetCode Everyday.md",
+                "file": "Atlas/TOCs/LeetCode.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,9 +189,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "05c38bb6d1116116",
+  "active": "6868298610cba9f2",
   "lastOpenFiles": [
     "Inbox/New/LeetCode 26. 删除有序数组中的重复项.md",
+    "Home.md",
     "Templates/LeetCode Everyday.md",
     "Templates",
     "Atlas/TOCs/LeetCode.md",
@@ -198,7 +200,6 @@
     "Atlas/TOCs/蓝色协议（日服）.md",
     "Atlas/TOCs/技术.md",
     "Calendar/X后感/无职转生~到异世界就拿出真本事~.md",
-    "Home.md",
     "Calendar/X后感/混沌武士.md",
     "Inbox/New/我.md",
     "Inbox/New/Webpack.md",
