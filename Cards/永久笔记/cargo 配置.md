@@ -42,7 +42,7 @@ registry = "https://mirrors.tuna.tsinghua.edu.cn/git/crates.io-index.git"
 
 ![](https://vercel-proxy.norah1to.com/proxy/raw.githubusercontent.com/NoraH1to/cdn/master/img/20230804142746.png)
 
-`tuna` 是我们自己文档：[Source Replacement - The Cargo Book (rust-lang.org)](https://doc.rust-lang.org/stable/cargo/reference/source-replacement.html)
+上面配置中通过 `[source.<name>]` 的形式新增了一个名为 `tuna` 的源，并用 `replace-with` 替换了默认源，具体看文档：[Source Replacement - The Cargo Book (rust-lang.org)](https://doc.rust-lang.org/stable/cargo/reference/source-replacement.html)
 
 ## 配置初始化版本管理工具行为
 
