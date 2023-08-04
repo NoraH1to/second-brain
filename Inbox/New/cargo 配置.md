@@ -21,4 +21,11 @@ date modified: 2023-08-04
 
 ## 配置某个命令的默认参数
 
-假设我们需要执行 `cargo new` 的时默认不初始化任何版本管理工具
+执行 `cargo new` 会默认初始化 Git 仓库，如果我们不想初始化任何版本管理工具，需要加上参数 `cargo new --vcs=none`
+
+如果需要将 `vcs` 默认值改为 `none` ，我们需要添加如下配置：
+
+```toml
+[cargo-new]
+vcs = "none"
+```
