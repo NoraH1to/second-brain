@@ -25,7 +25,24 @@ date modified: 2023-08-04
 
 ## 配置 crates.io 镜像源
 
+`crates.io` 是默认的源仓库，国内对于这种仓库配置镜像源是基操了
 
+添加如下配置：
+
+```toml
+[source.crates-io]
+replace-with = 'tuna'
+
+# 清华大学镜像
+[source.tuna]
+registry = "https://mirrors.tuna.tsinghua.edu.cn/git/crates.io-index.git"
+```
+
+随便引入一个包，`cargo build` 一下，可以看到走的是镜像
+
+![](https://vercel-proxy.norah1to.com/proxy/raw.githubusercontent.com/NoraH1to/cdn/master/img/20230804142746.png)
+
+`tuna` 是我们自己文档：[Source Replacement - The Cargo Book (rust-lang.org)](https://doc.rust-lang.org/stable/cargo/reference/source-replacement.html)
 
 ## 配置初始化版本管理工具行为
 
