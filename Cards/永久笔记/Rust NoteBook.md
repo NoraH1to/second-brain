@@ -1,7 +1,7 @@
 ---
 title: Rust NoteBook
 date created: 2023-08-02
-date modified: 2023-08-03
+date modified: 2023-08-04
 ---
 
 ## 基础
@@ -140,9 +140,14 @@ mod another_module {
 
 ### 整形转换
 
-从高位转低位时，溢出的位数会直接被截去，例如下面的
+从高位转低位时，溢出的位数会直接被截去，例如下面的无符号16位转8位：
 
 ```rust
 let num = 256u16; // 256 100_000_000
-let newNum = num as u18; // 0 00_000_000
+let newNum = num as u8; // 0 00_000_000
+```
+
+同理，无符号转有符号时，符号位也会占用一个位置：
+
+```rust
 ```
