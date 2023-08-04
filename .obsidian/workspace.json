@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Atlas/TOCs/技术.md",
+                "file": "Home.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Atlas/TOCs/技术.md"
+                "file": "Home.md"
               }
             }
           },
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Atlas/TOCs/技术.md",
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Atlas/TOCs/技术.md",
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,15 +178,21 @@
   },
   "active": "62aa98d0db3736e8",
   "lastOpenFiles": [
-    "Inbox/New/Vue.md",
-    "Atlas/TOCs/技术.md",
-    "Inbox/New/Vue3 diff 算法.md",
-    "Inbox/New/Vue3响应式系统.md",
-    "Inbox/New/React.md",
-    "Inbox/New/React18 diff 算法.md",
+    "Inbox/New/我.md",
+    "Home.md",
     "Inbox/New/Webpack.md",
+    "Inbox/New/Vue3响应式系统.md",
+    "Inbox/New/Vue3 diff 算法.md",
+    "Inbox/New/Vue.md",
     "Inbox/New/Vite.md",
     "Inbox/New/Rust.md",
+    "Inbox/New/React18 diff 算法.md",
+    "Inbox/New/React.md",
+    "Inbox/New/注册万代南梦宫账号.md",
+    "Inbox/New/下载万代南梦宫启动器.md",
+    "Inbox/New/下载蓝色协议.md",
+    "Inbox/New/🤖setup-cli.md",
+    "Atlas/TOCs/技术.md",
     "Cards/永久笔记/cargo 配置.md",
     "Inbox/New/Vue3 diff 流程.md",
     "Atlas/TOCs/蓝色协议（日服）.md",
@@ -194,16 +200,10 @@
     "Atlas/TOCs/Obsidian.md",
     "Cards/永久笔记/Rust NoteBook.md",
     "Cards/永久笔记/safari 移动端适配.md",
-    "Home.md",
     "conflict-files-obsidian-git.md",
     "Inbox/Unsroted/🤖Gmail.md",
     "Inbox/Unsroted/🤖Outlook.md",
     "Inbox/Unsroted/国际邮箱.md",
-    "Inbox/Unsroted/科学上网.md",
-    "Inbox/Unsroted/注册日本邮箱.md",
-    "Inbox/In Process/YAML.md",
-    "Inbox/In Process/🤖pdf.js.md",
-    "Inbox/New/注册万代南梦宫账号.md",
     "Pasted image 20230705140816.png",
     "Pasted image 20230702195750.png",
     "Calendar/X后感",
