@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/New/LeetCode Rust 26. 删除有序数组中的重复项.md",
+                "file": "Inbox/New/LeetCode Rust - 26. 删除有序数组中的重复项.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/New/LeetCode Rust 26. 删除有序数组中的重复项.md"
+                "file": "Inbox/New/LeetCode Rust - 26. 删除有序数组中的重复项.md"
               }
             }
           },
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/New/LeetCode Rust 26. 删除有序数组中的重复项.md",
+                "file": "Inbox/New/LeetCode Rust - 26. 删除有序数组中的重复项.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/New/LeetCode Rust 26. 删除有序数组中的重复项.md",
+                "file": "Inbox/New/LeetCode Rust - 26. 删除有序数组中的重复项.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,19 +178,19 @@
   },
   "active": "6868298610cba9f2",
   "lastOpenFiles": [
+    "Templates/LeetCode Everyday.md",
+    "Inbox/New/LeetCode Rust - 26. 删除有序数组中的重复项.md",
+    "Atlas/TOCs/LeetCode.md",
     "Inbox/New/注册万代南梦宫账号.md",
-    "Inbox/New/LeetCode Rust 26. 删除有序数组中的重复项.md",
     "Inbox/New/React.md",
     "Inbox/New/React18 diff 算法.md",
     "Inbox/New/Rust.md",
     "Inbox/New/Vue.md",
     "Inbox/New/Webpack.md",
     "Cards/永久笔记/🤖yuè - Web 阅读器.md",
-    "Templates/LeetCode Everyday.md",
     "Inbox/New/下载万代南梦宫启动器.md",
     "Inbox/New/下载蓝色协议.md",
     "Inbox/New/🤖setup-cli.md",
-    "Atlas/TOCs/LeetCode.md",
     "Home.md",
     "Templates",
     "Atlas/TOCs/我的作品.md",

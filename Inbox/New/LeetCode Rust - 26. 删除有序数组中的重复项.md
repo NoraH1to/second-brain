@@ -8,7 +8,7 @@ date modified: 2023-08-04
 
 ## 解一，原生方法
 
-题目中提到了数组是排好序的，那么首先看看有没有原生的方法能做到去重，查阅文档后找到了 [Vec in std::vec - Rust (rust-lang.org)](https://doc.rust-lang.org/std/vec/struct.Vec.html#method.dedup)，该方法能去除 Vector 中**连续重复**的项
+题目中提到了数组是排好序的，那么首先看看有没有原生的方法能做到去重，查阅文档后找到了 [Vec in std::vec - Rust (rust-lang.org)](https://doc.rust-lang.org/std/vec/struct.Vec.html#method.dedup)，该方法能去除 vector 中**连续重复**的项
 
 ```rust
 impl Solution {
@@ -47,4 +47,5 @@ impl Solution {
 ```
 
 > [!FAQ] 为什么不是从前向后遍历？
-> 题目要求**原地删除**，如果从前向后遍历
+> 
+> 题目要求**原地删除**，如果从前向后遍历，每次删除时，由于数组长度发生变化，需要更新循环边界，并且当前项的指针指向也需要写代码维护，很麻烦且会降低性能
