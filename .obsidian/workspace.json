@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/New/cargo 配置.md",
+                "file": "Atlas/TOCs/技术.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/New/cargo 配置.md"
+                "file": "Atlas/TOCs/技术.md"
               }
             }
           },
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/New/cargo 配置.md",
+                "file": "Atlas/TOCs/技术.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/New/cargo 配置.md",
+                "file": "Atlas/TOCs/技术.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,15 +178,16 @@
   },
   "active": "62aa98d0db3736e8",
   "lastOpenFiles": [
-    "Atlas/TOCs/技术.md",
-    "Inbox/New/cargo 配置.md",
-    "Inbox/New/Rust NoteBook.md",
-    "Home.md",
-    "conflict-files-obsidian-git.md",
-    "Atlas/TOCs/蓝色协议（日服）.md",
     "Inbox/New/Vue3 diff 流程.md",
+    "Atlas/TOCs/技术.md",
+    "Atlas/TOCs/蓝色协议（日服）.md",
     "Atlas/TOCs/我的作品.md",
     "Atlas/TOCs/Obsidian.md",
+    "Cards/永久笔记/Rust NoteBook.md",
+    "Cards/永久笔记/safari 移动端适配.md",
+    "Cards/永久笔记/cargo 配置.md",
+    "Home.md",
+    "conflict-files-obsidian-git.md",
     "Inbox/Unsroted/🤖Gmail.md",
     "Inbox/Unsroted/🤖Outlook.md",
     "Inbox/Unsroted/国际邮箱.md",
@@ -203,7 +204,6 @@
     "Inbox/Cooling Pad/hugo-obsidian 元数据解析问题.md",
     "Inbox/Cooling Pad/GFW.md",
     "Calendar/X后感/无职转生~到异世界就拿出真本事~.md",
-    "Cards/永久笔记/safari 移动端适配.md",
     "Pasted image 20230705140816.png",
     "Pasted image 20230702195750.png",
     "Calendar/X后感",

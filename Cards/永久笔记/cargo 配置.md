@@ -19,7 +19,7 @@ date modified: 2023-08-04
 
 简单来说就是**就近原则**
 
-## 配置某个命令的默认参数
+## 配置命令的默认参数
 
 执行 `cargo new` 会默认初始化 Git 仓库，如果我们不想初始化任何版本管理工具，需要加上参数 `cargo new --vcs=none`
 
@@ -29,3 +29,5 @@ date modified: 2023-08-04
 [cargo-new]
 vcs = "none"
 ```
+
+但不是所有命令都是可以配置的，所有可配置项[在这](https://doc.rust-lang.org/stable/cargo/reference/config.html#configuration-format)
