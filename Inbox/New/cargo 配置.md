@@ -4,7 +4,7 @@ date created: 2023-08-04
 date modified: 2023-08-04
 ---
 
-## 配置文件
+## 配置文件路径
 
 假设 cargo 在目录 `/projects/foo/bar/baz` 中执行，它会按照如下顺序寻找 `config.toml` 配置文件：
 
@@ -18,3 +18,7 @@ date modified: 2023-08-04
     - Unix: `$HOME/.cargo/config.toml`
 
 简单来说就是**就近原则**
+
+## 配置某个命令的默认参数
+
+假设我们需要执行 `cargo new` 的时默认不初始化任何版本管理工具
