@@ -79,6 +79,7 @@
       {
         "id": "907e3e94fa460c7f",
         "type": "tabs",
+        "dimension": 42.95485636114911,
         "children": [
           {
             "id": "3054686891240236",
@@ -89,22 +90,13 @@
                 "file": "Cards/永久笔记/LeetCode Rust - 122. 买卖股票的最佳时机 II.md"
               }
             }
-          },
-          {
-            "id": "e91a7ff224e7afcc",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "graph",
-              "state": {},
-              "pinned": true
-            }
           }
         ]
       },
       {
         "id": "c7393d657c95ca70",
         "type": "tabs",
+        "dimension": 57.045143638850895,
         "children": [
           {
             "id": "b1dabdd38583d26d",
@@ -164,8 +156,8 @@
   },
   "active": "c288fd51ec0c2073",
   "lastOpenFiles": [
-    "未命名.canvas",
     "Cards/永久笔记/LeetCode Rust - 122. 买卖股票的最佳时机 II.md",
+    "未命名.canvas",
     "Atlas/TOCs/LeetCode.md",
     "Cards/永久笔记/LeetCode Rust - 26. 删除有序数组中的重复项.md",
     "Templates/LeetCode Everyday.md",
