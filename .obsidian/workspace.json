@@ -4,39 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "c96e1fc25031bc73",
+        "id": "5f6fad22f56b9534",
         "type": "tabs",
         "children": [
           {
-            "id": "05c38bb6d1116116",
+            "id": "39cc3bdf1d975d37",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/New/LeetCode Rust - 26. 删除有序数组中的重复项.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6f9b8a17635eee60",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.3.7"
-              }
-            }
-          },
-          {
-            "id": "6868298610cba9f2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Atlas/TOCs/技术.md",
+                "file": "Cards/永久笔记/LeetCode Rust - 122. 买卖股票的最佳时机 II.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -109,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/New/LeetCode Rust - 26. 删除有序数组中的重复项.md"
+                "file": "Cards/永久笔记/LeetCode Rust - 122. 买卖股票的最佳时机 II.md"
               }
             }
           },
@@ -135,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/New/LeetCode Rust - 26. 删除有序数组中的重复项.md",
+                "file": "Cards/永久笔记/LeetCode Rust - 122. 买卖股票的最佳时机 II.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/New/LeetCode Rust - 26. 删除有序数组中的重复项.md",
+                "file": "Cards/永久笔记/LeetCode Rust - 122. 买卖股票的最佳时机 II.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,13 +162,14 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "05c38bb6d1116116",
+  "active": "39cc3bdf1d975d37",
   "lastOpenFiles": [
-    "Atlas/TOCs/LeetCode.md",
-    "Inbox/New/LeetCode Rust - 26. 删除有序数组中的重复项.md",
-    "Atlas/TOCs/技术.md",
-    "Cards/永久笔记/Rust NoteBook.md",
+    "Cards/永久笔记/LeetCode Rust - 26. 删除有序数组中的重复项.md",
+    "Cards/永久笔记/LeetCode Rust - 122. 买卖股票的最佳时机 II.md",
     "Templates/LeetCode Everyday.md",
+    "Atlas/TOCs/LeetCode.md",
+    "Cards/永久笔记/Rust NoteBook.md",
+    "Atlas/TOCs/技术.md",
     "Home.md",
     "Inbox/New/Rust中的整形转换.md",
     "Atlas/TOCs/蓝色协议（日服）.md",
@@ -213,7 +191,6 @@
     "Inbox/New/我.md",
     "Inbox/New/Vue3响应式系统.md",
     "Inbox/New/Vue3 diff 算法.md",
-    "Inbox/New/Vite.md",
     "Pasted image 20230705140816.png",
     "Pasted image 20230702195750.png",
     "Calendar/X后感",
