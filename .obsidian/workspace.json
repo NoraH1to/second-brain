@@ -21,6 +21,16 @@
             }
           },
           {
+            "id": "6f9b8a17635eee60",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.3.7"
+              }
+            }
+          },
+          {
             "id": "6868298610cba9f2",
             "type": "leaf",
             "state": {
@@ -33,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -175,7 +186,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "05c38bb6d1116116",
+  "active": "6f9b8a17635eee60",
   "lastOpenFiles": [
     "Cards/永久笔记/Rust NoteBook.md",
     "Inbox/New/LeetCode Rust - 26. 删除有序数组中的重复项.md",
