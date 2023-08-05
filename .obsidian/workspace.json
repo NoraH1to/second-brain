@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -174,7 +173,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 348.5
+    "width": 330.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -186,14 +185,14 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "6f9b8a17635eee60",
+  "active": "3054686891240236",
   "lastOpenFiles": [
-    "Cards/永久笔记/Rust NoteBook.md",
+    "Atlas/TOCs/技术.md",
     "Inbox/New/LeetCode Rust - 26. 删除有序数组中的重复项.md",
+    "Cards/永久笔记/Rust NoteBook.md",
     "Templates/LeetCode Everyday.md",
     "Home.md",
     "Inbox/New/Rust中的整形转换.md",
-    "Atlas/TOCs/技术.md",
     "Atlas/TOCs/蓝色协议（日服）.md",
     "Atlas/TOCs/我的作品.md",
     "Atlas/TOCs/LeetCode.md",

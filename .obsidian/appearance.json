@@ -5,7 +5,7 @@
   "monospaceFontFamily": "Consolas,苹方",
   "baseFontSize": 17,
   "theme": "obsidian",
-  "cssTheme": "Minimal",
+  "cssTheme": "Dracula Official",
   "translucency": false,
   "nativeMenus": false
 }
