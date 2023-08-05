@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "5f6fad22f56b9534",
+        "id": "22a46310bf532be6",
         "type": "tabs",
         "children": [
           {
-            "id": "39cc3bdf1d975d37",
+            "id": "c288fd51ec0c2073",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -162,12 +162,13 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "39cc3bdf1d975d37",
+  "active": "c288fd51ec0c2073",
   "lastOpenFiles": [
-    "Cards/永久笔记/LeetCode Rust - 26. 删除有序数组中的重复项.md",
+    "未命名.canvas",
     "Cards/永久笔记/LeetCode Rust - 122. 买卖股票的最佳时机 II.md",
-    "Templates/LeetCode Everyday.md",
     "Atlas/TOCs/LeetCode.md",
+    "Cards/永久笔记/LeetCode Rust - 26. 删除有序数组中的重复项.md",
+    "Templates/LeetCode Everyday.md",
     "Cards/永久笔记/Rust NoteBook.md",
     "Atlas/TOCs/技术.md",
     "Home.md",
@@ -190,7 +191,6 @@
     "Calendar/X后感/混沌武士.md",
     "Inbox/New/我.md",
     "Inbox/New/Vue3响应式系统.md",
-    "Inbox/New/Vue3 diff 算法.md",
     "Pasted image 20230705140816.png",
     "Pasted image 20230702195750.png",
     "Calendar/X后感",
@@ -208,7 +208,6 @@
     "Calendar/日记",
     "Cards/Publish",
     "Atlas/MOCs",
-    "rootfile_manifest_xml.png",
-    "未命名.canvas"
+    "rootfile_manifest_xml.png"
   ]
 }
