@@ -43,10 +43,25 @@ impl Solution {
 	`[6, 7, 1, 2, 3, 4, 5]`
 
 ```rust
-
+impl Solution {
+    pub fn rotate(nums: &mut Vec<i32>, k: i32) {
+        let len = nums.len();
+        let _k = k as usize % len;
+        if _k == 0 { return; }
+        fn reverse(target: &mut Vec<i32>, mut start: usize, mut end: usize) {
+            loop {
+                if start >= end { break }
+                target.swap(start, end);
+                start += 1;
+                end -=1;
+            }
+        }
+        reverse(nums, 0, len - 1);
+        reverse(nums, 0, _k - 1);
+        reverse(nums, _k, len - 1);
+    }
+}
 ```
 
 时间：$O(2n) = O(n)$
 空间 $O(1)$
-
-#TODO 
