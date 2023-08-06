@@ -1,3 +1,8 @@
+---
+title: LeetCode Rust - 217. 存在重复元素
+date created: 2023-08-06
+date modified: 2023-08-06
+---
 
 > 原题：[217. 存在重复元素 - 力扣（LeetCode）](https://leetcode.cn/problems/contains-duplicate/)
 
@@ -20,3 +25,6 @@ impl Solution {
     }
 }
 ```
+
+时间：$O(n)$
+空间：$O(n)$
