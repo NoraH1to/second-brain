@@ -1,7 +1,7 @@
 ---
 title: LeetCode Rust - 189. 轮转数组
 date created: 2023-08-05
-date modified: 2023-08-05
+date modified: 2023-08-06
 ---
 
 > 原题：[189. 轮转数组 - 力扣（LeetCode）](https://leetcode.cn/problems/rotate-array/description/)
@@ -28,10 +28,25 @@ impl Solution {
 }
 ```
 
-时间 $O(n)$ ，空间 $O(n)$
+时间 $O(n)$ 
+空间 $O(n)$
 
 ## 解二，数组翻转
 
-时间：`O(2n) = O(n)`
+假设有数组 `[1, 2, 3, 4, 5, 6, 7]` 且 `k = 2`：
+
+1. 先把数组整个翻转
+	`[7, 6, 5, 4, 3, 2, 1]`
+2. 然后把前 `k` 个项翻转
+	`[6, 7, 5, 4, 3, 2, 1]`
+3. 最后把剩余的项翻转，完成
+	`[6, 7, 1, 2, 3, 4, 5]`
+
+```rust
+
+```
+
+时间：$O(2n) = O(n)$
+空间 $O(1)$
 
 #TODO 
