@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Atlas/TOCs/LeetCode.md",
+                "file": "Inbox/New/LeetCode Rust - 217. 存在重复元素.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Atlas/TOCs/LeetCode.md"
+                "file": "Inbox/New/LeetCode Rust - 217. 存在重复元素.md"
               }
             }
           }
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Atlas/TOCs/LeetCode.md",
+                "file": "Inbox/New/LeetCode Rust - 217. 存在重复元素.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Atlas/TOCs/LeetCode.md",
+                "file": "Inbox/New/LeetCode Rust - 217. 存在重复元素.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,6 +158,8 @@
   "active": "b8c7b737b8224cec",
   "lastOpenFiles": [
     "Inbox/In Process/LeetCode Rust - 189. 轮转数组.md",
+    "Inbox/New/LeetCode Rust - 217. 存在重复元素.md",
+    "Cards/永久笔记/Rust NoteBook.md",
     "Atlas/TOCs/LeetCode.md",
     "Atlas/TOCs/Obsidian.md",
     "Atlas/TOCs/我的作品.md",
@@ -181,8 +183,6 @@
     "Inbox/New/React.md",
     "Inbox/New/注册万代南梦宫账号.md",
     "Inbox/New/下载万代南梦宫启动器.md",
-    "Inbox/New/下载蓝色协议.md",
-    "Cards/永久笔记/LeetCode Rust - 122. 买卖股票的最佳时机 II.md",
     "未命名.canvas",
     "Templates",
     "Pasted image 20230705140816.png",

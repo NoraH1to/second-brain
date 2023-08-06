@@ -1,7 +1,7 @@
 ---
 title: Rust NoteBook
 date created: 2023-08-02
-date modified: 2023-08-04
+date modified: 2023-08-06
 ---
 
 ## 基础
@@ -155,3 +155,17 @@ let b = a as i8; // -1 11_111_111
 ```
 
 上面 `b` 的最高位不再表示数值本身，而是符号
+
+### 函数可变传参
+
+对于可变引用，可以这样定义：
+
+```rust
+fn do_something(str: &mut String) {}
+```
+
+对于可变值，`mut` 位置会不太一样：
+
+```rust
+fn do_something(mut count: i32) {}
+```
