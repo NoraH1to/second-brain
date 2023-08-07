@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/New/Latex NoteBook.md",
+                "file": "Atlas/TOCs/技术.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -101,7 +101,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/New/Latex NoteBook.md"
+                "file": "Atlas/TOCs/技术.md"
               }
             }
           }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/New/Latex NoteBook.md",
+                "file": "Atlas/TOCs/技术.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/New/Latex NoteBook.md",
+                "file": "Atlas/TOCs/技术.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,8 +170,8 @@
   },
   "active": "999ae254bb07371c",
   "lastOpenFiles": [
+    "Inbox/New/LaTeX NoteBook.md",
     "Cards/永久笔记/LeetCode Rust - 350 - 两个数组的交集 II.md",
-    "Inbox/New/Latex NoteBook.md",
     "Cards/永久笔记/LeetCode Rust - 217 - 存在重复元素.md",
     "Cards/永久笔记/LeetCode Rust - 189 - 轮转数组.md",
     "Cards/永久笔记/LeetCode Rust - 26 - 删除有序数组中的重复项.md",
