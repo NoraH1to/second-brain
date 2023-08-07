@@ -1,3 +1,8 @@
+---
+title: LaTeX NoteBook
+date created: 2023-08-07
+date modified: 2023-08-07
+---
 ## 异或
 
 - $a \oplus b$
