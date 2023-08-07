@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/New/LeetCode Rust - 217. 存在重复元素.md",
+                "file": "Inbox/New/LeetCode Rust - 136. 只出现一次的数字.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/New/LeetCode Rust - 217. 存在重复元素.md"
+                "file": "Inbox/New/LeetCode Rust - 136. 只出现一次的数字.md"
               }
             }
           }
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/New/LeetCode Rust - 217. 存在重复元素.md",
+                "file": "Inbox/New/LeetCode Rust - 136. 只出现一次的数字.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/New/LeetCode Rust - 217. 存在重复元素.md",
+                "file": "Inbox/New/LeetCode Rust - 136. 只出现一次的数字.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,8 +138,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -158,8 +157,9 @@
   "active": "b8c7b737b8224cec",
   "lastOpenFiles": [
     "Atlas/TOCs/LeetCode.md",
-    "Inbox/In Process/LeetCode Rust - 189. 轮转数组.md",
+    "Inbox/New/LeetCode Rust - 136. 只出现一次的数字.md",
     "Inbox/New/LeetCode Rust - 217. 存在重复元素.md",
+    "Inbox/In Process/LeetCode Rust - 189. 轮转数组.md",
     "Cards/永久笔记/LeetCode Rust - 122. 买卖股票的最佳时机 II.md",
     "Cards/永久笔记/Rust NoteBook.md",
     "Atlas/TOCs/Obsidian.md",
@@ -182,7 +182,6 @@
     "Inbox/New/Rust.md",
     "Inbox/New/React18 diff 算法.md",
     "Inbox/New/React.md",
-    "Inbox/New/注册万代南梦宫账号.md",
     "未命名.canvas",
     "Templates",
     "Pasted image 20230705140816.png",
