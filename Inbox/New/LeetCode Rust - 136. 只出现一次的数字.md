@@ -23,5 +23,9 @@ date modified: 2023-08-07
 因此可以对所有数进行异或运算，重复出现两次的元素全部抵消为零，假设孤立的元素为 $b$ ，则最后的结果为：$b\oplus 0 = b$
 
 ```rust
-
+impl Solution {
+    pub fn single_number(nums: Vec<i32>) -> i32 {
+        nums.iter().fold(0, |cur, x| cur ^ x)
+    }
+}
 ```
