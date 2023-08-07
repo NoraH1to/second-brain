@@ -56,5 +56,28 @@ impl Solution {
 直到某一侧数组遍历完成
 
 ```rust
-
+impl Solution {
+    pub fn intersect(mut nums1: Vec<i32>, mut nums2: Vec<i32>) -> Vec<i32> {
+        let mut i = 0usize;
+        let mut j = 0usize;
+        let nums1_len = nums1.len();
+        let nums2_len = nums2.len();
+        nums1.sort();
+        nums2.sort();
+        let mut res: Vec<i32> = vec![];
+        while i < nums1_len && j < nums2_len {
+            if nums1[i] < nums2[j] { i += 1; }
+            else if nums1[i] > nums2[j] { j += 1; }
+            else {
+                res.push(nums1[i]);
+                i += 1;
+                j += 1;
+            }
+        }
+        res
+    }
+}
 ```
+
+时间：$O(n\log_{}{n}+m\log_{}{m})$ + 
+空间：$O(n)$
