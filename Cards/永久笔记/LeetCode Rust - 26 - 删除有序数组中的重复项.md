@@ -11,11 +11,9 @@ date modified: 2023-08-04
 题目中提到了数组是排好序的，那么首先看看有没有原生的方法能做到去重，查阅文档后找到了 [Vec in std::vec - Rust (rust-lang.org)](https://doc.rust-lang.org/std/vec/struct.Vec.html#method.dedup)，该方法能去除 vector 中**连续重复**的项
 
 ```rust
-impl Solution {
-    pub fn remove_duplicates(nums: &mut Vec<i32>) -> i32 {
-        nums.dedup();
-        nums.len() as i32
-    }
+pub fn remove_duplicates(nums: &mut Vec<i32>) -> i32 {
+	nums.dedup();
+	nums.len() as i32
 }
 ```
 
@@ -24,25 +22,23 @@ impl Solution {
 从后往前遍历，比较当前项和前一个项，如果相同则删除前一个项，遍历边界为 `i < 0`
 
 ```rust
-impl Solution {
-    pub fn remove_duplicates(nums: &mut Vec<i32>) -> i32 {
-        let mut i  = (nums.len() - 1) as isize;
-        loop {
-            if i < 0 {
-                break;
-            }
-            let pre = match nums.get((i - 1) as usize) {
-                Some(n) => n,
-                None => break,
-            };
-            let cur = nums[i as usize];
-            if cur == *pre {
-                nums.remove((i - 1) as usize);
-            }
-            i -= 1;
-        };
-        nums.len() as i32
-    }
+pub fn remove_duplicates(nums: &mut Vec<i32>) -> i32 {
+	let mut i  = (nums.len() - 1) as isize;
+	loop {
+		if i < 0 {
+			break;
+		}
+		let pre = match nums.get((i - 1) as usize) {
+			Some(n) => n,
+			None => break,
+		};
+		let cur = nums[i as usize];
+		if cur == *pre {
+			nums.remove((i - 1) as usize);
+		}
+		i -= 1;
+	};
+	nums.len() as i32
 }
 ```
 

@@ -14,32 +14,30 @@ date modified: 2023-08-07
 - 遍历第二个数组时，将哈希表存在的数字且计数大于零的，计数自减并将数字入结果栈
 
 ```rust
-impl Solution {
-    pub fn intersect(nums1: Vec<i32>, nums2: Vec<i32>) -> Vec<i32> {
-        use std::collections::HashMap;
-        let mut res: Vec<i32> = vec![];
-        let mut map: HashMap<i32, usize> = HashMap::new();
-        let min = if nums1.len() < nums2.len() { &nums1 } else { &nums2 };
-        let max = if nums1.len() < nums2.len() { &nums2 } else { &nums1 };
-        for num in min {
-            match map.get(num) {
-                None => { map.insert(*num, 1usize); },
-                Some(count) => { map.insert(*num, count + 1); },
-            }
-        }
-        for num in max {
-            match map.get(num) {
-                None => {},
-                Some(count) => {
-                    if (*count > 0) {
-                        map.insert(*num, count - 1);
-                        res.push(*num);
-                    }
-                },
-            }
-        }
-        res
-    }
+pub fn intersect(nums1: Vec<i32>, nums2: Vec<i32>) -> Vec<i32> {
+	use std::collections::HashMap;
+	let mut res: Vec<i32> = vec![];
+	let mut map: HashMap<i32, usize> = HashMap::new();
+	let min = if nums1.len() < nums2.len() { &nums1 } else { &nums2 };
+	let max = if nums1.len() < nums2.len() { &nums2 } else { &nums1 };
+	for num in min {
+		match map.get(num) {
+			None => { map.insert(*num, 1usize); },
+			Some(count) => { map.insert(*num, count + 1); },
+		}
+	}
+	for num in max {
+		match map.get(num) {
+			None => {},
+			Some(count) => {
+				if (*count > 0) {
+					map.insert(*num, count - 1);
+					res.push(*num);
+				}
+			},
+		}
+	}
+	res
 }
 ```
 
@@ -56,26 +54,24 @@ impl Solution {
 直到某一侧数组遍历完成
 
 ```rust
-impl Solution {
-    pub fn intersect(mut nums1: Vec<i32>, mut nums2: Vec<i32>) -> Vec<i32> {
-        let mut i = 0usize;
-        let mut j = 0usize;
-        let nums1_len = nums1.len();
-        let nums2_len = nums2.len();
-        nums1.sort();
-        nums2.sort();
-        let mut res: Vec<i32> = vec![];
-        while i < nums1_len && j < nums2_len {
-            if nums1[i] < nums2[j] { i += 1; }
-            else if nums1[i] > nums2[j] { j += 1; }
-            else {
-                res.push(nums1[i]);
-                i += 1;
-                j += 1;
-            }
-        }
-        res
-    }
+pub fn intersect(mut nums1: Vec<i32>, mut nums2: Vec<i32>) -> Vec<i32> {
+	let mut i = 0usize;
+	let mut j = 0usize;
+	let nums1_len = nums1.len();
+	let nums2_len = nums2.len();
+	nums1.sort();
+	nums2.sort();
+	let mut res: Vec<i32> = vec![];
+	while i < nums1_len && j < nums2_len {
+		if nums1[i] < nums2[j] { i += 1; }
+		else if nums1[i] > nums2[j] { j += 1; }
+		else {
+			res.push(nums1[i]);
+			i += 1;
+			j += 1;
+		}
+	}
+	res
 }
 ```
 

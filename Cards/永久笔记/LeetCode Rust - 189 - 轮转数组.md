@@ -11,20 +11,18 @@ date modified: 2023-08-06
 按照：_给定的下标处到数组末尾、从0到指定下标前_ 的顺序将元素推入到新数组
 
 ```rust
-impl Solution {
-    pub fn rotate(nums: &mut Vec<i32>, k: i32) {
-        if k == 0 { return }
-        let len = nums.len();
-        let _k = len - k as usize % len;
-        let mut res: Vec<i32> = vec![];
-        for i in _k..len {
-            res.push(nums[i]);
-        }
-        for i in 0.._k {
-            res.push(nums[i]);
-        }
-        *nums = res
-    }
+pub fn rotate(nums: &mut Vec<i32>, k: i32) {
+	if k == 0 { return }
+	let len = nums.len();
+	let _k = len - k as usize % len;
+	let mut res: Vec<i32> = vec![];
+	for i in _k..len {
+		res.push(nums[i]);
+	}
+	for i in 0.._k {
+		res.push(nums[i]);
+	}
+	*nums = res
 }
 ```
 
@@ -43,23 +41,21 @@ impl Solution {
 	`[6, 7, 1, 2, 3, 4, 5]`
 
 ```rust
-impl Solution {
-    pub fn rotate(nums: &mut Vec<i32>, k: i32) {
-        let len = nums.len();
-        let _k = k as usize % len;
-        if _k == 0 { return; }
-        fn reverse(target: &mut Vec<i32>, mut start: usize, mut end: usize) {
-            loop {
-                if start >= end { break }
-                target.swap(start, end);
-                start += 1;
-                end -=1;
-            }
-        }
-        reverse(nums, 0, len - 1);
-        reverse(nums, 0, _k - 1);
-        reverse(nums, _k, len - 1);
-    }
+pub fn rotate(nums: &mut Vec<i32>, k: i32) {
+	let len = nums.len();
+	let _k = k as usize % len;
+	if _k == 0 { return; }
+	fn reverse(target: &mut Vec<i32>, mut start: usize, mut end: usize) {
+		loop {
+			if start >= end { break }
+			target.swap(start, end);
+			start += 1;
+			end -=1;
+		}
+	}
+	reverse(nums, 0, len - 1);
+	reverse(nums, 0, _k - 1);
+	reverse(nums, _k, len - 1);
 }
 ```
 
