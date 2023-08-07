@@ -1,5 +1,5 @@
 ---
-title: LeetCode Rust - 350. 两个数组的交集 II
+title: LeetCode Rust - 350 - 两个数组的交集 II
 date created: 2023-08-07
 date modified: 2023-08-07
 ---

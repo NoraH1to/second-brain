@@ -1,5 +1,5 @@
 ---
-title: LeetCode Rust - 189. 轮转数组
+title: LeetCode Rust - 189 - 轮转数组
 date created: 2023-08-05
 date modified: 2023-08-06
 ---

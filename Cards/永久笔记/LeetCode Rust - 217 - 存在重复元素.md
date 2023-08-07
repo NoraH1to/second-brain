@@ -1,5 +1,5 @@
 ---
-title: LeetCode Rust - 217. 存在重复元素
+title: LeetCode Rust - 217 - 存在重复元素
 date created: 2023-08-06
 date modified: 2023-08-06
 ---

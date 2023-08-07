@@ -1,5 +1,5 @@
 ---
-title: LeetCode Rust - 136. 只出现一次的数字
+title: LeetCode Rust - 136 - 只出现一次的数字
 date created: 2023-08-07
 date modified: 2023-08-07
 ---

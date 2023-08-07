@@ -13,9 +13,9 @@ tags: [TOC]
 
 ## 数组
 ### 简单
-- [[LeetCode Rust - 26. 删除有序数组中的重复项]]
-- [[LeetCode Rust - 122. 买卖股票的最佳时机 II]]
-- [[LeetCode Rust - 189. 轮转数组]]
-- [[LeetCode Rust - 217. 存在重复元素]]
-- [[LeetCode Rust - 136. 只出现一次的数字]]
-- [[LeetCode Rust - 350. 两个数组的交集 II]]
+- [[LeetCode Rust - 26 - 删除有序数组中的重复项]]
+- [[LeetCode Rust - 122 - 买卖股票的最佳时机 II]]
+- [[LeetCode Rust - 189 - 轮转数组]]
+- [[LeetCode Rust - 217 - 存在重复元素]]
+- [[LeetCode Rust - 136 - 只出现一次的数字]]
+- [[LeetCode Rust - 350 - 两个数组的交集 II]]

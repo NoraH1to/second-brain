@@ -1,5 +1,5 @@
 ---
-title: LeetCode Rust - 122. 买卖股票的最佳时机 II
+title: LeetCode Rust - 122 - 买卖股票的最佳时机 II
 date created: 2023-08-05
 date modified: 2023-08-05
 ---
