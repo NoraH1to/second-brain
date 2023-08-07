@@ -79,5 +79,5 @@ impl Solution {
 }
 ```
 
-时间：$O(n\log_{}{n}+m\log_{}{m})$ + 
-空间：$O(n)$
+时间：$O(n\log_{}{n} + m\log_{}{m}) + O(n+m) = O(n\log_{}{n} + m\log_{}{m})$
+空间：$O(min(m,n))$
