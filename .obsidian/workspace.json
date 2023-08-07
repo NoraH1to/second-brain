@@ -19,22 +19,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "999ae254bb07371c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Inbox/New/LaTeX NoteBook.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -101,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/New/LaTeX NoteBook.md"
+                "file": "Cards/永久笔记/LeetCode Rust - 350 - 两个数组的交集 II.md"
               }
             }
           }
@@ -118,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/New/LaTeX NoteBook.md",
+                "file": "Cards/永久笔记/LeetCode Rust - 350 - 两个数组的交集 II.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/New/LaTeX NoteBook.md",
+                "file": "Cards/永久笔记/LeetCode Rust - 350 - 两个数组的交集 II.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,10 +154,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "999ae254bb07371c",
+  "active": "b8c7b737b8224cec",
   "lastOpenFiles": [
-    "Cards/永久笔记/LeetCode Rust - 350 - 两个数组的交集 II.md",
     "Inbox/New/LaTeX NoteBook.md",
+    "Cards/永久笔记/LeetCode Rust - 350 - 两个数组的交集 II.md",
     "Inbox/New/Markdown.md",
     "Cards/永久笔记/LeetCode Rust - 217 - 存在重复元素.md",
     "Cards/永久笔记/LeetCode Rust - 189 - 轮转数组.md",
