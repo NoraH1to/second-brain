@@ -169,3 +169,9 @@ fn do_something(str: &mut String) {}
 ```rust
 fn do_something(mut count: i32) {}
 ```
+
+### 遍历字符串需要明确操作方式
+
+
+
+- 以 Unicode 标量
