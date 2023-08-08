@@ -172,6 +172,25 @@ fn do_something(mut count: i32) {}
 
 ### 遍历字符串需要明确操作方式
 
+#### 遍历 [[Unicode]] 标量：
 
 
-- 以 Unicode 标量
+
+```rust
+for c in "你好".chars() {
+	println!("{c}"); // ['你', '好']
+}
+for c in "ab".chars() {
+	println!("{c}"); // ['a', 'b']
+}
+```
+
+- 遍历字节：
+```rust
+for c in "你好".bytes() {
+	println!("{c}"); // [228, 189, 160, 229, 165, 189]
+}
+for c in "ab".bytes() {
+	println!("{c}"); // [97, 98]
+}
+```
