@@ -197,7 +197,10 @@ for c in "नमस्ते".chars() {
 
 而我们通常希望它是 `["न", "म", "स्", "ते"]`
 
-然而标准并没有提供
+然而标准重并没有提供这种更符合直觉的遍历方式（遍历字形簇），需要使用 [unicode_segmentation - Rust (docs.rs)](https://docs.rs/unicode-segmentation/1.9.0/unicode_segmentation/index.html) 包
+
+```
+```
 
 #### 遍历字节：
 
