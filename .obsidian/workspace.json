@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cards/永久笔记/Rust NoteBook.md",
+                "file": "Inbox/New/LeetCode Rust - 66 - 加一.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cards/永久笔记/Rust NoteBook.md"
+                "file": "Inbox/New/LeetCode Rust - 66 - 加一.md"
               }
             }
           }
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cards/永久笔记/Rust NoteBook.md",
+                "file": "Inbox/New/LeetCode Rust - 66 - 加一.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cards/永久笔记/Rust NoteBook.md",
+                "file": "Inbox/New/LeetCode Rust - 66 - 加一.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,8 +156,11 @@
   },
   "active": "b8c7b737b8224cec",
   "lastOpenFiles": [
-    "Atlas/TOCs/技术.md",
+    "Atlas/TOCs/LeetCode.md",
+    "Inbox/New/LeetCode Rust - 66 - 加一.md",
     "Cards/永久笔记/LeetCode Rust - 350 - 两个数组的交集 II.md",
+    "Atlas/TOCs/技术.md",
+    "Cards/永久笔记/Rust NoteBook.md",
     "Inbox/New/LaTeX NoteBook.md",
     "Inbox/New/Markdown.md",
     "Cards/永久笔记/LeetCode Rust - 217 - 存在重复元素.md",
@@ -168,9 +171,7 @@
     "Cards/永久笔记/LeetCode Rust - 136 - 只出现一次的数字.md",
     "Cards/永久笔记/发布.md",
     "Home.md",
-    "Atlas/TOCs/LeetCode.md",
     "Templates/LeetCode time&space.md",
-    "Cards/永久笔记/Rust NoteBook.md",
     "Atlas/TOCs/我的作品.md",
     "Atlas/TOCs/蓝色协议（日服）.md",
     "Calendar/X后感/无职转生~到异世界就拿出真本事~.md",
@@ -181,7 +182,6 @@
     "Inbox/Cooling Pad/hugo-obsidian 元数据解析问题.md",
     "Inbox/New/🧐pdf.md",
     "Inbox/New/Webpack.md",
-    "Inbox/New/Vue3响应式系统.md",
     "未命名.canvas",
     "Templates",
     "Pasted image 20230705140816.png",
