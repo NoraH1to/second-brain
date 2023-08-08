@@ -58,9 +58,26 @@ pub fn move_zeroes(nums: &mut Vec<i32>) {
 
 ## 解二，双指针
 
-1. 一个右指针，每次循环自增
-2. 一个左指针，当右指针不为零时，交换左右指针的值，左指针自增
+整体思路就是把所有非零的值按顺序摆放到最前面
+
+1. 声明左右指针 `left` 和 `right`
+2. 写一个循环，每次循环 `right` 自增，检查当 `right` 指向的值是否为零
+	- 若为零，则继续循环
+	- 否则交换 `left` `right` 位置的值，此时 `left` 的位置已经安放了正确的值，`left` 自增指向下一项
 
 ```rust
-
+pub fn move_zeroes(nums: &mut Vec<i32>) {
+	let mut left = 0usize;
+	let mut right = 0usize;
+	while right < nums.len() {
+		if nums[right] != 0 {
+			nums.swap(left, right);
+			left += 1;
+		}
+		right += 1;
+	}
+}
 ```
+
+时间：$O(n)$
+空间：$O(1)$
