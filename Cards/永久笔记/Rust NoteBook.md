@@ -1,7 +1,7 @@
 ---
 title: Rust NoteBook
 date created: 2023-08-02
-date modified: 2023-08-06
+date modified: 2023-08-08
 ---
 
 ## 基础
@@ -199,10 +199,16 @@ for c in "नमस्ते".chars() {
 
 然而标准重并没有提供这种更符合直觉的遍历方式（遍历字形簇），需要使用 [unicode_segmentation - Rust (docs.rs)](https://docs.rs/unicode-segmentation/1.9.0/unicode_segmentation/index.html) 包
 
-```
+```rust
+use unicode_segmentation::UnicodeSegmentation;
+for c in "नमस्ते".graphemes(true) {
+	println!("{c}"); // ["न", "म", "स्", "ते"]
+}
 ```
 
 #### 遍历字节：
+
+在 [[UTF-8]] 中，普通字母占一个字节，而汉字占用三个字节
 
 ```rust
 for c in "你好".bytes() {
