@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/New/LeetCode Rust - 283 - 移动零.md",
+                "file": "Atlas/TOCs/LeetCode.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -101,7 +101,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/New/LeetCode Rust - 283 - 移动零.md"
+                "file": "Atlas/TOCs/LeetCode.md"
               }
             }
           }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/New/LeetCode Rust - 283 - 移动零.md",
+                "file": "Atlas/TOCs/LeetCode.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/New/LeetCode Rust - 283 - 移动零.md",
+                "file": "Atlas/TOCs/LeetCode.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,9 +170,9 @@
   },
   "active": "04e4db9ac5e6e6b4",
   "lastOpenFiles": [
+    "Inbox/New/LeetCode Rust - 283 - 移动零.md",
     "Cards/永久笔记/LeetCode Rust - 189 - 轮转数组.md",
     "Atlas/TOCs/LeetCode.md",
-    "Inbox/New/LeetCode Rust - 283 - 移动零.md",
     "Inbox/New/LeetCode Rust - 66 - 加一.md",
     "Cards/永久笔记/LeetCode Rust - 350 - 两个数组的交集 II.md",
     "Atlas/TOCs/技术.md",
