@@ -33,7 +33,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -100,7 +101,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cards/永久笔记/LeetCode Rust - 189 - 轮转数组.md"
+                "file": "Inbox/New/LeetCode Rust - 283 - 移动零.md"
               }
             }
           }
@@ -117,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cards/永久笔记/LeetCode Rust - 189 - 轮转数组.md",
+                "file": "Inbox/New/LeetCode Rust - 283 - 移动零.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cards/永久笔记/LeetCode Rust - 189 - 轮转数组.md",
+                "file": "Inbox/New/LeetCode Rust - 283 - 移动零.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,8 +168,9 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "b8c7b737b8224cec",
+  "active": "04e4db9ac5e6e6b4",
   "lastOpenFiles": [
+    "Cards/永久笔记/LeetCode Rust - 189 - 轮转数组.md",
     "Atlas/TOCs/LeetCode.md",
     "Inbox/New/LeetCode Rust - 283 - 移动零.md",
     "Inbox/New/LeetCode Rust - 66 - 加一.md",
@@ -178,7 +180,6 @@
     "Inbox/New/LaTeX NoteBook.md",
     "Inbox/New/Markdown.md",
     "Cards/永久笔记/LeetCode Rust - 217 - 存在重复元素.md",
-    "Cards/永久笔记/LeetCode Rust - 189 - 轮转数组.md",
     "Atlas/TOCs/Obsidian.md",
     "Cards/永久笔记/LeetCode Rust - 26 - 删除有序数组中的重复项.md",
     "Cards/永久笔记/LeetCode Rust - 122 - 买卖股票的最佳时机 II.md",
