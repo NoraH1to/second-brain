@@ -174,7 +174,7 @@ fn do_something(mut count: i32) {}
 
 #### 遍历 [[Unicode]] 标量：
 
-
+基本上跟我们常识中的字符串一致
 
 ```rust
 for c in "你好".chars() {
@@ -185,7 +185,14 @@ for c in "ab".chars() {
 }
 ```
 
-- 遍历字节：
+但也有一些反常识的情况，比如带发音符号的字符串
+
+```rust
+"á"
+```
+
+#### 遍历字节：
+
 ```rust
 for c in "你好".bytes() {
 	println!("{c}"); // [228, 189, 160, 229, 165, 189]
