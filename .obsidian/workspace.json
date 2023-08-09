@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cards/永久笔记/LeetCode Rust - 26 - 删除有序数组中的重复项.md",
+                "file": "Atlas/TOCs/LeetCode.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cards/永久笔记/LeetCode Rust - 26 - 删除有序数组中的重复项.md"
+                "file": "Atlas/TOCs/LeetCode.md"
               }
             }
           }
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cards/永久笔记/LeetCode Rust - 26 - 删除有序数组中的重复项.md",
+                "file": "Atlas/TOCs/LeetCode.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cards/永久笔记/LeetCode Rust - 26 - 删除有序数组中的重复项.md",
+                "file": "Atlas/TOCs/LeetCode.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,6 +156,7 @@
   },
   "active": "04e4db9ac5e6e6b4",
   "lastOpenFiles": [
+    "Cards/永久笔记/LeetCode Rust - 26 - 删除有序数组中的重复项.md",
     "Atlas/TOCs/LeetCode.md",
     "Cards/永久笔记/LeetCode Rust - 122 - 买卖股票的最佳时机 II.md",
     "Cards/永久笔记/LeetCode Rust - 217 - 存在重复元素.md",
@@ -172,7 +173,6 @@
     "Inbox/New/LaTeX NoteBook.md",
     "Inbox/New/Markdown.md",
     "Atlas/TOCs/Obsidian.md",
-    "Cards/永久笔记/LeetCode Rust - 26 - 删除有序数组中的重复项.md",
     "Cards/永久笔记/发布.md",
     "Home.md",
     "Templates/LeetCode time&space.md",
