@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Atlas/TOCs/LeetCode.md",
+                "file": "Inbox/New/LeetCode Rust - 1 - 两数之和.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -101,7 +101,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Atlas/TOCs/LeetCode.md"
+                "file": "Inbox/New/LeetCode Rust - 1 - 两数之和.md"
               }
             }
           }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Atlas/TOCs/LeetCode.md",
+                "file": "Inbox/New/LeetCode Rust - 1 - 两数之和.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Atlas/TOCs/LeetCode.md",
+                "file": "Inbox/New/LeetCode Rust - 1 - 两数之和.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,8 +170,9 @@
   },
   "active": "04e4db9ac5e6e6b4",
   "lastOpenFiles": [
-    "Inbox/New/LeetCode Rust - 283 - 移动零.md",
     "Atlas/TOCs/LeetCode.md",
+    "Inbox/New/LeetCode Rust - 1 - 两数之和.md",
+    "Inbox/New/LeetCode Rust - 283 - 移动零.md",
     "Cards/永久笔记/LeetCode Rust - 189 - 轮转数组.md",
     "Inbox/New/LeetCode Rust - 66 - 加一.md",
     "Cards/永久笔记/LeetCode Rust - 350 - 两个数组的交集 II.md",
@@ -195,7 +196,6 @@
     "Inbox/Cooling Pad/带圆角且子元素触发了硬件加速的元素.md",
     "Inbox/Cooling Pad/GFW.md",
     "Inbox/Cooling Pad/hugo-obsidian 元数据解析问题.md",
-    "Inbox/New/🧐pdf.md",
     "未命名.canvas",
     "Templates",
     "Pasted image 20230705140816.png",
