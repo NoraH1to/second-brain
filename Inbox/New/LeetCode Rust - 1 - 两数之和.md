@@ -1,3 +1,8 @@
+---
+title: LeetCode Rust - 1 - 两数之和
+date created: 2023-08-09
+date modified: 2023-08-09
+---
 
 > 原题：[1. 两数之和 - 力扣（LeetCode）](https://leetcode.cn/problems/two-sum/)
 
@@ -30,5 +35,22 @@ pub fn two_sum(nums: Vec<i32>, target: i32) -> Vec<i32> {
 	2. 不存在则在表中记录当前值的下标
 
 ```rust
-
+pub fn two_sum(mut nums: Vec<i32>, target: i32) -> Vec<i32> {
+	use std::collections::HashMap;
+	let mut map: HashMap<i32, usize> = HashMap::new();
+	for (i, v) in nums.iter().enumerate() {
+		match map.get(&(target - v)) {
+			None => { map.insert(*v, i); },
+			Some(j) => { return vec![i as i32, *j as i32]; },
+		}
+	}
+	return vec![];
+}
 ```
+
+时间：$O(n)$
+空间：$O(n)$
+
+> [!NOTE] 性能
+> 
+> 看了下 LeetCode 的提交信息，`match` 换成 `if let...else` 性能会好一些，原因未知
