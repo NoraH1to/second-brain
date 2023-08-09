@@ -33,8 +33,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -101,7 +100,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/New/LeetCode Rust - 7 - 整数反转.md"
+                "file": "Atlas/TOCs/LeetCode.md"
               }
             }
           }
@@ -118,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/New/LeetCode Rust - 7 - 整数反转.md",
+                "file": "Atlas/TOCs/LeetCode.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/New/LeetCode Rust - 7 - 整数反转.md",
+                "file": "Atlas/TOCs/LeetCode.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,10 +167,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "c4eebbabb97b829d",
+  "active": "04e4db9ac5e6e6b4",
   "lastOpenFiles": [
-    "Atlas/TOCs/LeetCode.md",
     "Inbox/New/LeetCode Rust - 7 - 整数反转.md",
+    "Atlas/TOCs/LeetCode.md",
     "Inbox/New/LeetCode Rust - 48 - 旋转图像.md",
     "Inbox/New/LeetCode Rust - 36 - 有效的数独.md",
     "Inbox/New/LeetCode Rust - 283 - 移动零.md",
