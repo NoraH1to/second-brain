@@ -13,6 +13,7 @@ tags: [TOC]
 
 ## 数组
 ### 简单
+
 - [[LeetCode Rust - 26 - 删除有序数组中的重复项]]
 - [[LeetCode Rust - 122 - 买卖股票的最佳时机 II]]
 - [[LeetCode Rust - 189 - 轮转数组]]
@@ -27,3 +28,6 @@ tags: [TOC]
 
 ## 字符串
 ### 简单
+
+- [[LeetCode Rust - 344 - 反转字符串]]
+- [[LeetCode Rust - 7 - 整数反转]]
