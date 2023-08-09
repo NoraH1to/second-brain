@@ -27,3 +27,6 @@ pub fn single_number(nums: Vec<i32>) -> i32 {
 	nums.iter().fold(0, |cur, x| cur ^ x)
 }
 ```
+
+时间：$O(n)$
+空间：$O(1)$

@@ -13,28 +13,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Atlas/TOCs/LeetCode.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "37750f5d574fc506",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Inbox/New/LeetCode Rust - 48 - 旋转图像.md",
+                "file": "Cards/永久笔记/LeetCode Rust - 26 - 删除有序数组中的重复项.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -101,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/New/LeetCode Rust - 48 - 旋转图像.md"
+                "file": "Cards/永久笔记/LeetCode Rust - 26 - 删除有序数组中的重复项.md"
               }
             }
           }
@@ -118,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/New/LeetCode Rust - 48 - 旋转图像.md",
+                "file": "Cards/永久笔记/LeetCode Rust - 26 - 删除有序数组中的重复项.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/New/LeetCode Rust - 48 - 旋转图像.md",
+                "file": "Cards/永久笔记/LeetCode Rust - 26 - 删除有序数组中的重复项.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,25 +154,25 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "37750f5d574fc506",
+  "active": "04e4db9ac5e6e6b4",
   "lastOpenFiles": [
     "Atlas/TOCs/LeetCode.md",
-    "Inbox/New/LeetCode Rust - 48 - 旋转图像.md",
-    "Inbox/New/LeetCode Rust - 36 - 有效的数独.md",
-    "Inbox/New/LeetCode Rust - 1 - 两数之和.md",
-    "Inbox/New/LeetCode Rust - 283 - 移动零.md",
+    "Cards/永久笔记/LeetCode Rust - 122 - 买卖股票的最佳时机 II.md",
+    "Cards/永久笔记/LeetCode Rust - 217 - 存在重复元素.md",
     "Cards/永久笔记/LeetCode Rust - 189 - 轮转数组.md",
-    "Inbox/New/LeetCode Rust - 66 - 加一.md",
+    "Cards/永久笔记/LeetCode Rust - 136 - 只出现一次的数字.md",
     "Cards/永久笔记/LeetCode Rust - 350 - 两个数组的交集 II.md",
+    "Inbox/New/LeetCode Rust - 66 - 加一.md",
+    "Inbox/New/LeetCode Rust - 283 - 移动零.md",
+    "Inbox/New/LeetCode Rust - 1 - 两数之和.md",
+    "Inbox/New/LeetCode Rust - 36 - 有效的数独.md",
+    "Inbox/New/LeetCode Rust - 48 - 旋转图像.md",
     "Atlas/TOCs/技术.md",
     "Cards/永久笔记/Rust NoteBook.md",
     "Inbox/New/LaTeX NoteBook.md",
     "Inbox/New/Markdown.md",
-    "Cards/永久笔记/LeetCode Rust - 217 - 存在重复元素.md",
     "Atlas/TOCs/Obsidian.md",
     "Cards/永久笔记/LeetCode Rust - 26 - 删除有序数组中的重复项.md",
-    "Cards/永久笔记/LeetCode Rust - 122 - 买卖股票的最佳时机 II.md",
-    "Cards/永久笔记/LeetCode Rust - 136 - 只出现一次的数字.md",
     "Cards/永久笔记/发布.md",
     "Home.md",
     "Templates/LeetCode time&space.md",

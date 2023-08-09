@@ -1,3 +1,8 @@
+---
+title: LeetCode Rust - 48 - 旋转图像
+date created: 2023-08-09
+date modified: 2023-08-09
+---
 
 > 原题：[48. 旋转图像 - 力扣（LeetCode）](https://leetcode.cn/problems/rotate-image/)
 
@@ -46,5 +51,8 @@ pub fn rotate(matrix: &mut Vec<Vec<i32>>) {
 }
 ```
 
-时间：$O(n^2)$，这里的 $n$ 是边长，每次翻转都要
+时间：$O(n^2)$
+
+> 这里的 $n$ 是边长，每次翻转都要访问一遍所有元素，总共访问两次，宽松点就是 $n^2$，严格点是 $2n^2$
+
 空间：$O(1)$

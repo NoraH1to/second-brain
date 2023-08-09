@@ -19,7 +19,7 @@ pub fn remove_duplicates(nums: &mut Vec<i32>) -> i32 {
 
 ## 解二，从后向前遍历删除
 
-从后往前遍历，比较当前项和前一个项，如果相同则删除前一个项，遍历边界为 `i < 0`
+从后往前遍历，比较当前项和上一个项，如果相同则删除上一个项，遍历边界为 `i < 0`
 
 ```rust
 pub fn remove_duplicates(nums: &mut Vec<i32>) -> i32 {
@@ -41,6 +41,9 @@ pub fn remove_duplicates(nums: &mut Vec<i32>) -> i32 {
 	nums.len() as i32
 }
 ```
+
+时间：$O(n)$
+空间：$O(1)$
 
 > [!FAQ] 为什么不是从前向后遍历？
 > 
