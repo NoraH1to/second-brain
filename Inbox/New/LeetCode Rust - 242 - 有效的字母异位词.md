@@ -88,4 +88,22 @@ pub fn is_anagram(s: String, t: String) -> bool {
 将两个字符串排序，然后依次比较
 
 ```rust
+pub fn is_anagram(s: String, t: String) -> bool {
+	if s.len() != t.len() {
+		return false;
+	}
+	fn sort_string(target: &String) -> Vec<char> {
+		let mut target_to_sort: Vec<char> = target[..].chars().collect();
+		target_to_sort.sort();
+		return target_to_sort;
+	}
+	let s_sorted = sort_string(&s);
+	let t_sorted = sort_string(&t);
+	for (i, char) in s_sorted.iter().enumerate() {
+		if *char != t_sorted[i] {
+			return false;
+		}
+	}
+	return true;
+}
 ```

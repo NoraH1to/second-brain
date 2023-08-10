@@ -77,7 +77,7 @@ pub fn first_uniq_char(s: String) -> i32 {
 }
 ```
 
-时间：$O(n) + O(2S) = O(n)$
+时间：$O(n + 2S) = O(n)$
 空间：$O(1) = O(2S)$
 
 > $n$ 为字符串长度
