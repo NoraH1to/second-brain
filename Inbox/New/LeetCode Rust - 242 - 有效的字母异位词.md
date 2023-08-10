@@ -48,4 +48,14 @@ pub fn is_anagram(s: String, t: String) -> bool {
 
 这边使用一个数组来替代这两个哈希表
 
-- 如果两zi
+- 如果两**字符串长度不等**，返回 `false`
+- 题目中只有小写字母，声明长度为 `26` 的数组，`hash_arr`
+- 遍历第一个字符串，对每个字符 `char`
+	- `hash_arr[char - 'a']` **自增**
+- 遍历第二个字符串，对每个字符 `char`
+	- 如果 `hash_arr[char - 'a']` **等于零**，返回 `false`
+	- 否则 `hash_arr[char - 'a']` **自减**
+
+```rust
+
+```
