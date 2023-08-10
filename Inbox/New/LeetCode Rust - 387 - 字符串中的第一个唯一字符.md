@@ -34,3 +34,6 @@ pub fn first_uniq_char(s: String) -> i32 {
 > $n$ 为字符串长度
 
 空间：$O(1)$
+
+## 解二，队列
+
