@@ -10,6 +10,8 @@ date modified: 2023-08-10
 
 遍历两次，第一次哈希表字符计数，第二次找到第一个只有一次计数的下标
 
+> 字符串中只有小写字母，用数组替代哈希表可以获得更好的性能（减少哈希计算开销）
+
 ```rust
 pub fn first_uniq_char(s: String) -> i32 {
 	use std::collections::HashMap;
