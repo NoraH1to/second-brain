@@ -107,3 +107,9 @@ pub fn is_anagram(s: String, t: String) -> bool {
 	return true;
 }
 ```
+
+时间：$O(n) = O(n\log_{}{n} + n)$
+空间：$O(\log{}{n})$
+
+> $n$ 为单条字符串长度
+> 排序需要 $n\log_{}{n}$ 的时间和 $\log{}{n}$ 的空间
