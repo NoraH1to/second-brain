@@ -57,5 +57,25 @@ pub fn is_anagram(s: String, t: String) -> bool {
 	- 否则 `hash_arr[char - 'a']` **自减**
 
 ```rust
-
+pub fn is_anagram(s: String, t: String) -> bool {
+	if s.len() != t.len() {
+		return false;
+	}
+	let mut list_arr = [0; 26];
+	for char in s.chars() {
+		list_arr[char as usize - 'a' as usize] += 1;
+	}
+	for char in t.chars() {
+		let mut count = list_arr.get_mut(char as usize - 'a' as usize).unwrap();
+		if *count == 0 {
+			return false;
+		} else {
+			*count -= 1;
+		}
+	}
+	return true;
+}
 ```
+
+时间：$O(n)$
+空间：$O(n)$
