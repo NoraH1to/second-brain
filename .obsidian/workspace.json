@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cards/永久笔记/LeetCode Rust - 1 - 两数之和.md",
+                "file": "Cards/永久笔记/Rust NoteBook.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -101,7 +101,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cards/永久笔记/LeetCode Rust - 1 - 两数之和.md"
+                "file": "Cards/永久笔记/Rust NoteBook.md"
               }
             }
           }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cards/永久笔记/LeetCode Rust - 1 - 两数之和.md",
+                "file": "Cards/永久笔记/Rust NoteBook.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cards/永久笔记/LeetCode Rust - 1 - 两数之和.md",
+                "file": "Cards/永久笔记/Rust NoteBook.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,9 +170,9 @@
   },
   "active": "c5ca08d3dbb404f6",
   "lastOpenFiles": [
-    "Cards/永久笔记/LeetCode Rust - 7 - 整数反转.md",
     "Cards/永久笔记/LeetCode Rust - 1 - 两数之和.md",
     "Cards/永久笔记/LeetCode Rust - 242 - 有效的字母异位词.md",
+    "Cards/永久笔记/LeetCode Rust - 7 - 整数反转.md",
     "Atlas/TOCs/LeetCode.md",
     "Cards/永久笔记/LeetCode Rust - 48 - 旋转图像.md",
     "Cards/永久笔记/LeetCode Rust - 344 - 反转字符串.md",
