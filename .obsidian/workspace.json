@@ -13,28 +13,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Atlas/TOCs/LeetCode.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c5ca08d3dbb404f6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/LeetCode origin.md",
+                "file": "Home.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -101,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/LeetCode origin.md"
+                "file": "Home.md"
               }
             }
           }
@@ -118,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/LeetCode origin.md",
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/LeetCode origin.md",
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,16 +154,17 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "e1df2e0187875336",
+  "active": "04e4db9ac5e6e6b4",
   "lastOpenFiles": [
-    "Templates/LeetCode time&space.md",
-    "Templates/LeetCode origin.md",
+    "Atlas/TOCs/技术.md",
     "Home.md",
+    "Atlas/TOCs/LeetCode.md",
+    "Templates/LeetCode origin.md",
+    "Templates/LeetCode time&space.md",
     "Cards/永久笔记/Rust NoteBook.md",
     "Cards/永久笔记/LeetCode Rust - 1 - 两数之和.md",
     "Cards/永久笔记/LeetCode Rust - 242 - 有效的字母异位词.md",
     "Cards/永久笔记/LeetCode Rust - 7 - 整数反转.md",
-    "Atlas/TOCs/LeetCode.md",
     "Cards/永久笔记/LeetCode Rust - 48 - 旋转图像.md",
     "Cards/永久笔记/LeetCode Rust - 344 - 反转字符串.md",
     "Cards/永久笔记/LeetCode Rust - 387 - 字符串中的第一个唯一字符.md",
@@ -190,7 +177,6 @@
     "Cards/永久笔记/LeetCode Rust - 136 - 只出现一次的数字.md",
     "Cards/永久笔记/LeetCode Rust - 350 - 两个数组的交集 II.md",
     "Cards/永久笔记/LeetCode Rust - 66 - 加一.md",
-    "Atlas/TOCs/技术.md",
     "Inbox/New/LaTeX NoteBook.md",
     "Inbox/New/Markdown.md",
     "Atlas/TOCs/Obsidian.md",
