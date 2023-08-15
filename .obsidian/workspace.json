@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cards/永久笔记/Rust NoteBook.md",
+                "file": "Templates/LeetCode origin.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -101,7 +101,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cards/永久笔记/Rust NoteBook.md"
+                "file": "Templates/LeetCode origin.md"
               }
             }
           }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cards/永久笔记/Rust NoteBook.md",
+                "file": "Templates/LeetCode origin.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cards/永久笔记/Rust NoteBook.md",
+                "file": "Templates/LeetCode origin.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,8 +168,12 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "c5ca08d3dbb404f6",
+  "active": "e1df2e0187875336",
   "lastOpenFiles": [
+    "Templates/LeetCode time&space.md",
+    "Templates/LeetCode origin.md",
+    "Home.md",
+    "Cards/永久笔记/Rust NoteBook.md",
     "Cards/永久笔记/LeetCode Rust - 1 - 两数之和.md",
     "Cards/永久笔记/LeetCode Rust - 242 - 有效的字母异位词.md",
     "Cards/永久笔记/LeetCode Rust - 7 - 整数反转.md",
@@ -187,15 +191,11 @@
     "Cards/永久笔记/LeetCode Rust - 350 - 两个数组的交集 II.md",
     "Cards/永久笔记/LeetCode Rust - 66 - 加一.md",
     "Atlas/TOCs/技术.md",
-    "Cards/永久笔记/Rust NoteBook.md",
     "Inbox/New/LaTeX NoteBook.md",
     "Inbox/New/Markdown.md",
     "Atlas/TOCs/Obsidian.md",
     "Cards/永久笔记/发布.md",
-    "Home.md",
-    "Templates/LeetCode time&space.md",
     "Atlas/TOCs/我的作品.md",
-    "Atlas/TOCs/蓝色协议（日服）.md",
     "未命名.canvas",
     "Templates",
     "Pasted image 20230705140816.png",
