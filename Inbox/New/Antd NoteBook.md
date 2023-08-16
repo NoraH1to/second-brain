@@ -5,10 +5,10 @@ date modified: 2023-08-16
 ---
 ## v4中DatePicker的mode属性问题
 
-### 具体问题
+### 问题
 
 - `<DatePicker mode="year" />` 更改年份后，**不会触发** `onChange` 事件
-- 因为上一项的原因，`<DatePicker mode="year" />` 在表单中使用时，更改年份后**不会更新表单**内容
+- 因为上一项的原因，`<DatePicker mode="year" />` 在表单中使用时，更改年份后**不会更新表单**数据
 
 ### 原因
 
