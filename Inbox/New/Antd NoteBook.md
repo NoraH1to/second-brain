@@ -9,7 +9,6 @@ date modified: 2023-08-16
 
 - `<DatePicker mode="year" />` 更改年份后，**不会触发** `onChange` 事件
 - 因为上一项的原因，`<DatePicker mode="year" />` 在表单中使用时，更改年份后**不会更新表单**内容
-- `<DatePicker mode="year" />` 不等于 `<YearPicker />`，`mode="month"` 同理
 
 ### 原因
 
@@ -22,3 +21,8 @@ date modified: 2023-08-16
 
 > 选择年月日中的**日**后，才会触发 `onChange` 事件
 
+所以在这里，`<DatePicker mode="year" />` 不等于 `<YearPicker />`，`mode="month"` 同理
+
+### 解决
+
+使用 `picker` 属性，例如 `<DatePicker picker="year" />`
