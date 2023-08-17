@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cards/永久笔记/Rust NoteBook.md",
+                "file": "Inbox/New/LeetCode Rust - 8 - 字符串转换整数 (atoi).md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cards/永久笔记/Rust NoteBook.md"
+                "file": "Inbox/New/LeetCode Rust - 8 - 字符串转换整数 (atoi).md"
               }
             }
           }
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cards/永久笔记/Rust NoteBook.md",
+                "file": "Inbox/New/LeetCode Rust - 8 - 字符串转换整数 (atoi).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cards/永久笔记/Rust NoteBook.md",
+                "file": "Inbox/New/LeetCode Rust - 8 - 字符串转换整数 (atoi).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,9 +156,10 @@
   },
   "active": "ad467f2e65e9eb02",
   "lastOpenFiles": [
-    "Atlas/TOCs/技术.md",
-    "Home.md",
     "Atlas/TOCs/LeetCode.md",
+    "Home.md",
+    "Atlas/TOCs/技术.md",
+    "Cards/永久笔记/Rust NoteBook.md",
     "Inbox/New/LeetCode Rust - 125 - 验证回文串.md",
     "Inbox/New/LeetCode Rust - 8 - 字符串转换整数 (atoi).md",
     "Cards/永久笔记/LeetCode Rust - 242 - 有效的字母异位词.md",
@@ -175,7 +176,6 @@
     "Inbox/New/().md",
     "Templates/LeetCode origin.md",
     "Templates/LeetCode time&space.md",
-    "Cards/永久笔记/Rust NoteBook.md",
     "Cards/永久笔记/LeetCode Rust - 1 - 两数之和.md",
     "Cards/永久笔记/LeetCode Rust - 48 - 旋转图像.md",
     "Cards/永久笔记/LeetCode Rust - 36 - 有效的数独.md",
