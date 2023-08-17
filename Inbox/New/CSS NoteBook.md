@@ -6,3 +6,6 @@ date modified: 2023-08-17
 
 ## width 和 flex-basic
 
+- 元素**内容宽度小于** `width` 和 `flex-basic` 时：
+	- `flex-basic` 为准
+- 
