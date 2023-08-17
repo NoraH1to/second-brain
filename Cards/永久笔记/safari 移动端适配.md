@@ -182,7 +182,34 @@ const book = new Blob([origin.arrayBuffer], { type: origin.type });
 
 当你需要写一个[[带圆角且子元素触发了硬件加速的元素]]时
 
-在 SM 中圆角会无效
+我们期望效果如下：
+
+html
+```html
+<div class="rounded-wrapper">
+  <div class="content">
+  </div>
+</div>
+```
+
+css
+```css
+.rounded-wrapper {
+  overflow: hidden;
+  border-radius: 50%;
+  height: 200px;
+  width: 200px;
+}
+.content {
+  transform: translatez(0);
+  height: 100%;
+  width: 150%;
+  background: gray;
+}
+```
+ ![](https://vercel-proxy.norah1to.com/proxy/raw.githubusercontent.com/NoraH1to/cdn/master/img/20230609160652.png)
+
+但实际在 SM 中圆角会无效
 
 ![在 SM 中的实际表现](https://vercel-proxy.norah1to.com/proxy/raw.githubusercontent.com/NoraH1to/cdn/master/img/child_overflow.png)
 

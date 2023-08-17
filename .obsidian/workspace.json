@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Atlas/TOCs/技术.md",
+                "file": "Home.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/New/JS 事件循环.md",
+                "file": "Inbox/In Process/JS 事件循环.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Atlas/TOCs/技术.md"
+                "file": "Home.md"
               }
             }
           }
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Atlas/TOCs/技术.md",
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Atlas/TOCs/技术.md",
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,9 +167,24 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "ad467f2e65e9eb02",
+  "active": "e1df2e0187875336",
   "lastOpenFiles": [
-    "Inbox/New/JS 事件循环.md",
+    "Cards/永久笔记/注册日本邮箱.md",
+    "Cards/永久笔记/科学上网.md",
+    "Cards/永久笔记/国际邮箱.md",
+    "Cards/永久笔记/🤖Outlook.md",
+    "Cards/永久笔记/🤖Gmail.md",
+    "Cards/永久笔记/hugo-obsidian 元数据解析问题.md",
+    "Cards/永久笔记/发布.md",
+    "Cards/永久笔记/GFW.md",
+    "Cards/永久笔记/safari 移动端适配.md",
+    "Inbox/Cooling Pad/带圆角且子元素触发了硬件加速的元素.md",
+    "Inbox/In Process/JS 事件循环.md",
+    "Inbox/In Process/React18 diff 算法.md",
+    "Inbox/In Process/Vue3 diff 算法.md",
+    "Inbox/In Process/Vue3响应式系统.md",
+    "Inbox/New/YAML.md",
+    "Inbox/New/🤖pdf.js.md",
     "Atlas/TOCs/技术.md",
     "Inbox/New/CSS NoteBook.md",
     "Home.md",
@@ -180,21 +195,6 @@
     "Inbox/New/LeetCode Rust - 125 - 验证回文串.md",
     "Cards/永久笔记/LeetCode Rust - 242 - 有效的字母异位词.md",
     "Inbox/New/下载万代南梦宫启动器.md",
-    "Inbox/New/下载蓝色协议.md",
-    "Inbox/New/我.md",
-    "Inbox/New/🤖setup-cli.md",
-    "Cards/永久笔记/LeetCode Rust - 344 - 反转字符串.md",
-    "Cards/永久笔记/LeetCode Rust - 7 - 整数反转.md",
-    "Cards/永久笔记/LeetCode Rust - 387 - 字符串中的第一个唯一字符.md",
-    "Inbox/New/注册万代南梦宫账号.md",
-    "Inbox/New/Antd NoteBook.md",
-    "Inbox/New/LaTeX NoteBook.md",
-    "Inbox/New/().md",
-    "Templates/LeetCode origin.md",
-    "Templates/LeetCode time&space.md",
-    "Cards/永久笔记/LeetCode Rust - 1 - 两数之和.md",
-    "Cards/永久笔记/LeetCode Rust - 48 - 旋转图像.md",
-    "Cards/永久笔记/LeetCode Rust - 36 - 有效的数独.md",
     "未命名.canvas",
     "Templates",
     "Pasted image 20230705140816.png",
