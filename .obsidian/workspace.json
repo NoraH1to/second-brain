@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cards/永久笔记/LeetCode Rust - 242 - 有效的字母异位词.md",
+                "file": "Inbox/New/LeetCode Rust - 125 - 验证回文串.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cards/永久笔记/LeetCode Rust - 242 - 有效的字母异位词.md"
+                "file": "Inbox/New/LeetCode Rust - 125 - 验证回文串.md"
               }
             }
           }
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cards/永久笔记/LeetCode Rust - 242 - 有效的字母异位词.md",
+                "file": "Inbox/New/LeetCode Rust - 125 - 验证回文串.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cards/永久笔记/LeetCode Rust - 242 - 有效的字母异位词.md",
+                "file": "Inbox/New/LeetCode Rust - 125 - 验证回文串.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,13 +157,13 @@
   "active": "ad467f2e65e9eb02",
   "lastOpenFiles": [
     "Atlas/TOCs/LeetCode.md",
+    "Cards/永久笔记/LeetCode Rust - 242 - 有效的字母异位词.md",
     "Inbox/New/LeetCode Rust - 125 - 验证回文串.md",
     "Inbox/New/下载万代南梦宫启动器.md",
     "Inbox/New/下载蓝色协议.md",
     "Inbox/New/我.md",
     "Inbox/New/🤖setup-cli.md",
     "Home.md",
-    "Cards/永久笔记/LeetCode Rust - 242 - 有效的字母异位词.md",
     "Cards/永久笔记/LeetCode Rust - 344 - 反转字符串.md",
     "Cards/永久笔记/LeetCode Rust - 7 - 整数反转.md",
     "Cards/永久笔记/LeetCode Rust - 387 - 字符串中的第一个唯一字符.md",
