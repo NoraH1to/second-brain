@@ -21,20 +21,19 @@
             }
           },
           {
-            "id": "49b48f7eb2774e14",
+            "id": "d73cef913a158f08",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/New/CSS NoteBook.md",
+                "file": "Inbox/New/JS 事件循环.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -101,7 +100,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/New/CSS NoteBook.md"
+                "file": "Atlas/TOCs/技术.md"
               }
             }
           }
@@ -118,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/New/CSS NoteBook.md",
+                "file": "Atlas/TOCs/技术.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/New/CSS NoteBook.md",
+                "file": "Atlas/TOCs/技术.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,15 +167,16 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "49b48f7eb2774e14",
+  "active": "ad467f2e65e9eb02",
   "lastOpenFiles": [
+    "Inbox/New/JS 事件循环.md",
     "Atlas/TOCs/技术.md",
     "Inbox/New/CSS NoteBook.md",
-    "Inbox/New/CSS.md",
     "Home.md",
+    "Cards/永久笔记/Rust NoteBook.md",
+    "Inbox/New/CSS.md",
     "Inbox/New/LeetCode Rust - 8 - 字符串转换整数 (atoi).md",
     "Atlas/TOCs/LeetCode.md",
-    "Cards/永久笔记/Rust NoteBook.md",
     "Inbox/New/LeetCode Rust - 125 - 验证回文串.md",
     "Cards/永久笔记/LeetCode Rust - 242 - 有效的字母异位词.md",
     "Inbox/New/下载万代南梦宫启动器.md",
@@ -195,7 +195,6 @@
     "Cards/永久笔记/LeetCode Rust - 1 - 两数之和.md",
     "Cards/永久笔记/LeetCode Rust - 48 - 旋转图像.md",
     "Cards/永久笔记/LeetCode Rust - 36 - 有效的数独.md",
-    "Cards/永久笔记/LeetCode Rust - 283 - 移动零.md",
     "未命名.canvas",
     "Templates",
     "Pasted image 20230705140816.png",
