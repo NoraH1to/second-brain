@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/New/LeetCode Rust - 8 - 字符串转换整数 (atoi).md",
+                "file": "Cards/永久笔记/Rust NoteBook.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/New/LeetCode Rust - 8 - 字符串转换整数 (atoi).md"
+                "file": "Cards/永久笔记/Rust NoteBook.md"
               }
             }
           }
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/New/LeetCode Rust - 8 - 字符串转换整数 (atoi).md",
+                "file": "Cards/永久笔记/Rust NoteBook.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/New/LeetCode Rust - 8 - 字符串转换整数 (atoi).md",
+                "file": "Cards/永久笔记/Rust NoteBook.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,22 +156,22 @@
   },
   "active": "ad467f2e65e9eb02",
   "lastOpenFiles": [
+    "Atlas/TOCs/技术.md",
+    "Home.md",
     "Atlas/TOCs/LeetCode.md",
-    "Inbox/New/LeetCode Rust - 8 - 字符串转换整数 (atoi).md",
     "Inbox/New/LeetCode Rust - 125 - 验证回文串.md",
+    "Inbox/New/LeetCode Rust - 8 - 字符串转换整数 (atoi).md",
     "Cards/永久笔记/LeetCode Rust - 242 - 有效的字母异位词.md",
     "Inbox/New/下载万代南梦宫启动器.md",
     "Inbox/New/下载蓝色协议.md",
     "Inbox/New/我.md",
     "Inbox/New/🤖setup-cli.md",
-    "Home.md",
     "Cards/永久笔记/LeetCode Rust - 344 - 反转字符串.md",
     "Cards/永久笔记/LeetCode Rust - 7 - 整数反转.md",
     "Cards/永久笔记/LeetCode Rust - 387 - 字符串中的第一个唯一字符.md",
     "Inbox/New/注册万代南梦宫账号.md",
     "Inbox/New/Antd NoteBook.md",
     "Inbox/New/LaTeX NoteBook.md",
-    "Atlas/TOCs/技术.md",
     "Inbox/New/().md",
     "Templates/LeetCode origin.md",
     "Templates/LeetCode time&space.md",
