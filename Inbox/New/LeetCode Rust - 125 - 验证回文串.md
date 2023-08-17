@@ -46,4 +46,7 @@ pub fn is_palindrome(s: String) -> bool {
 ```
 
 时间：$O(n)$
+
+> $n$ 为字符串长度
+
 空间：$O(1)$
