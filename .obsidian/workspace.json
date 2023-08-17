@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Atlas/TOCs/LeetCode.md",
+                "file": "Cards/永久笔记/LeetCode Rust - 344 - 反转字符串.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -33,8 +33,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -101,7 +100,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/New/LeetCode Rust - 125 - 验证回文串.md"
+                "file": "Cards/永久笔记/LeetCode Rust - 344 - 反转字符串.md"
               }
             }
           }
@@ -118,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/New/LeetCode Rust - 125 - 验证回文串.md",
+                "file": "Cards/永久笔记/LeetCode Rust - 344 - 反转字符串.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/New/LeetCode Rust - 125 - 验证回文串.md",
+                "file": "Cards/永久笔记/LeetCode Rust - 344 - 反转字符串.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,11 +167,13 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "ad467f2e65e9eb02",
+  "active": "9ea1e30f0e5ba6e8",
   "lastOpenFiles": [
     "Atlas/TOCs/LeetCode.md",
-    "Inbox/New/LeetCode Rust - 125 - 验证回文串.md",
+    "Cards/永久笔记/LeetCode Rust - 7 - 整数反转.md",
+    "Cards/永久笔记/LeetCode Rust - 387 - 字符串中的第一个唯一字符.md",
     "Cards/永久笔记/LeetCode Rust - 242 - 有效的字母异位词.md",
+    "Inbox/New/LeetCode Rust - 125 - 验证回文串.md",
     "Home.md",
     "Inbox/New/🤖setup-cli.md",
     "Inbox/New/我.md",
@@ -187,10 +188,8 @@
     "Templates/LeetCode time&space.md",
     "Cards/永久笔记/Rust NoteBook.md",
     "Cards/永久笔记/LeetCode Rust - 1 - 两数之和.md",
-    "Cards/永久笔记/LeetCode Rust - 7 - 整数反转.md",
     "Cards/永久笔记/LeetCode Rust - 48 - 旋转图像.md",
     "Cards/永久笔记/LeetCode Rust - 344 - 反转字符串.md",
-    "Cards/永久笔记/LeetCode Rust - 387 - 字符串中的第一个唯一字符.md",
     "Cards/永久笔记/LeetCode Rust - 36 - 有效的数独.md",
     "Cards/永久笔记/LeetCode Rust - 283 - 移动零.md",
     "Cards/永久笔记/LeetCode Rust - 26 - 删除有序数组中的重复项.md",
