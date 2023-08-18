@@ -11,7 +11,10 @@ js 是单线程语言，浏览器中 js 主线程会阻塞渲染，因此需要�
 
 在事件循环中，我们将待执行的任务分为两大类：
 
-- 宏任务：setTimeout、setInterval、setImmediate、requestAnimationFrame、I/O、UI 渲染
+- **宏任务**：setTimeout、setInterval、setImmediate、requestAnimationFrame、I/O、UI 渲染
+- **微任务**：process.nextTick、Promise、MutationObserver、[queueMicrotask](https://developer.mozilla.org/zh-CN/docs/Web/API/queueMicrotask)
+
+有两个对应的队列负责存放这两种任务，浏览器在执行wo'm
 
 ## 调用栈
 
