@@ -101,8 +101,10 @@ Object.hasOwn(foo, 'toString'); // false
 foo.toString // ƒ toString() { [native code] }
 ```
 
-查找顺序：
+具体查找逻辑就是沿着原型链一路往上找
 
-- 查找当前实例有无属性
-	- 如果有就直接返回
-	- 否则在 `fo.__proto__`
+`foo.__proto__` -> `foo.__proto__.__proto__` -> ... -> `Object.prototype.__proto__`
+
+## 经典老图
+
+![](https://vercel-proxy.norah1to.com/proxy/raw.githubusercontent.com/NoraH1to/cdn/master/img/20230818171845.png)
