@@ -12,4 +12,20 @@ date modified: 2023-08-18
 
 ### 普通对象
 
-就是我们常识中的对象，所有普通du
+就是我们常识中的对象，所有普通对象都持有 `__proto__` 属性，该属性指向**构建该实例的函数对象的原型**
+
+常见的普通对象如下：
+
+- `{}` 字面量对象，`Object` 的实例
+```javascript
+({}).__proto__ === Object.prototype; // true
+```
+- `foo = new Foo()`，`foo` 就是普通对象，是 `Foo` 的实例
+```javascript
+function Foo() {}
+new Foo().__proto__ === Foo.prototype; // true
+```
+- `"abc"`，`String` 的实例
+```javascript
+
+```
