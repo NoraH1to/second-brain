@@ -59,12 +59,29 @@ new Foo().__proto__ === Foo.prototype; // true
 
 ## 所有函数对象都是 `Function` 的实例
 
+`Function` 本身也是函数对象，所以它是它自身的实例
+
 ```javascript
 function Foo() {}
 Foo.__proto__ === Function.prototype; // true
 String.__proto__ === Function.prototype; //true
 Object.__proto__ === Function.prototype; //true
 Function.__proto__ === Function.prototype; // true
+```
+
+## 所有原型都是 `Object` 的实例
+
+```javascript
+function Foo() {}
+Foo.prototype.__proto__ === Object.prototype; // true
+String.prototype.__proto__ === Object.prototype; // true
+Function.prototype.__proto__ === Object.prototype; // true
+```
+
+但 `Object` 自身的原型并不是任何函数对象的实例，因此
+
+```javascript
+Object.prototype.__proto__; // null
 ```
 
 
