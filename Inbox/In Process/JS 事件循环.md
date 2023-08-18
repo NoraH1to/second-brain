@@ -9,12 +9,18 @@ js 是单线程语言，浏览器中 js 主线程会阻塞渲染，因此需要�
 
 浏览器为了在主线程中能够协调各种异步事件（网络、用户操作），引入了事件循环模型
 
-在事件循环中，我们将待执行的任务分为两大类：
+在事件循环中，我们将待执行的任务分为两大类，有两个对应的队列负责存放这两种任务：
 
 - **宏任务**：setTimeout、setInterval、setImmediate、requestAnimationFrame、I/O、UI 渲染
 - **微任务**：process.nextTick、Promise、MutationObserver、[queueMicrotask](https://developer.mozilla.org/zh-CN/docs/Web/API/queueMicrotask)
 
-有两个对应的队列负责存放这两种任务，浏览器在执行wo'm
+时间循环大致流程：
+
+- 浏览器在执行我们代码的过程中，会将生成的任务加入其对应的队列
+- 代码执行完毕后（[[#调用栈]]为空），循环取chu**微任务队列**，直到该队列为空
+> [!NOTE] 微任务
+> 微任务执行的时候也能产生任务，如果递归执行微任务，会阻塞整个页面
+- 
 
 ## 调用栈
 
