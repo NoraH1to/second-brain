@@ -13,28 +13,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Atlas/TOCs/技术.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e3a91ab0f88eec89",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Atlas/TOCs/技术.md",
+                "file": "Cards/永久笔记/JS 比较运算符.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -101,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Atlas/TOCs/技术.md"
+                "file": "Cards/永久笔记/JS 比较运算符.md"
               }
             }
           }
@@ -118,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Atlas/TOCs/技术.md",
+                "file": "Cards/永久笔记/JS 比较运算符.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Atlas/TOCs/技术.md",
+                "file": "Cards/永久笔记/JS 比较运算符.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,17 +154,17 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "e3a91ab0f88eec89",
+  "active": "ad467f2e65e9eb02",
   "lastOpenFiles": [
-    "Inbox/New/JS 原型链.md",
     "Atlas/TOCs/技术.md",
+    "Inbox/New/JS 原型链.md",
+    "Cards/永久笔记/JS 事件循环.md",
     "Home.md",
     "Cards/永久笔记/JS 比较运算符.md",
     "Atlas/TOCs/蓝色协议（日服）.md",
     "Atlas/TOCs/我的作品.md",
     "Atlas/TOCs/LeetCode.md",
     "Atlas/TOCs/Obsidian.md",
-    "Cards/永久笔记/JS 事件循环.md",
     "f3336598e23442abab2a31d6d97338a7~tplv-k3u1fbpfcp-zoom-in-crop-mark_1512_0_0_0.awebp",
     "Cards/永久笔记/注册日本邮箱.md",
     "Cards/永久笔记/科学上网.md",

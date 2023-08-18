@@ -4,6 +4,8 @@ date created: 2023-08-18
 date modified: 2023-08-18
 ---
 
+> 原文：[比较运算符 | 乱炖锅 (norah1to.com)](https://www.norah1to.com/2022/06/13/basic/javascript/comparison-operator/)
+
 比较运算符可以简单分为两类：
 
 - 严格比较

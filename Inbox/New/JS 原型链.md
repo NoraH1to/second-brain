@@ -4,6 +4,8 @@ date created: 2023-08-18
 date modified: 2023-08-18
 ---
 
+> 原文：[原型链 | 乱炖锅 (norah1to.com)](https://www.norah1to.com/2022/06/07/basic/javascript/prototype-chain/)
+
 ## 所有东西都是对象
 
 在 JS 中，除了 `null`, `undefined` 以外**所有数据类型**都是对象

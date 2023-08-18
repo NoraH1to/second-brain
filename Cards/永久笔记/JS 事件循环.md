@@ -3,6 +3,8 @@ title: JS 事件循环
 date created: 2023-08-17
 date modified: 2023-08-18
 ---
+
+> 原文：[事件循环 | 乱炖锅 (norah1to.com)](https://www.norah1to.com/2022/06/17/basic/javascript/event-loop/)
 ## 事件循环
 
 js 是单线程语言，浏览器中 js 主线程会阻塞渲染，因此需要将一些耗时的任务放到别的线程去作为异步任务执行
