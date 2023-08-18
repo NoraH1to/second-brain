@@ -9,7 +9,7 @@ js 是单线程语言，浏览器中 js 主线程会阻塞渲染，因此需要�
 
 浏览器为了在主线程中能够协调各种异步事件（网络、用户操作），引入了事件循环模型
 
-![](https://vercel-proxy.norah1to.com/proxy/raw.githubusercontent.com/NoraH1to/cdn/master/img/20230818150156.png)
+![](https://vercel-proxy.norah1to.com/proxy/raw.githubusercontent.com/NoraH1to/cdn/master/img/ezgif.com-optimize.gif)
 
 在事件循环中，我们将待执行的任务分为两大类，有两个对应的队列负责存放这两种任务：
 
