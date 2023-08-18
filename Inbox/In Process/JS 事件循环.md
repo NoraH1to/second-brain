@@ -11,17 +11,23 @@ js 是单线程语言，浏览器中 js 主线程会阻塞渲染，因此需要�
 
 在事件循环中，我们将待执行的任务分为两大类，有两个对应的队列负责存放这两种任务：
 
-- **宏任务**：setTimeout、setInterval、setImmediate、requestAnimationFrame、I/O、UI 渲染、用户交互
+- **宏任务**：setTimeout、setInterval、setImmediate、[[#requestAnimationFrame]]、I/O、UI 渲染、用户交互
 - **微任务**：process.nextTick、Promise、MutationObserver、[queueMicrotask](https://developer.mozilla.org/zh-CN/docs/Web/API/queueMicrotask)
 
 事件循环大致流程：
 
 1. 浏览器在执行我们代码的过程中，会将生成的任务加入其对应的队列
 2. 代码执行完毕后（[[#调用栈]]为空），循环取出**微任务队列**中**最早**的任务并执行，直到该队列为空
-3. 取出**一个宏任务队列**中**最早**的任务并执行，回到第二步
+3. 取出**一个宏任务队列**中**最早**的任务并执行，执行完毕（[[#调用栈]]为空）后回到第二步
 
 > [!NOTE] 任务执行
 > 任务执行的时候也能产生任务，如果递归执行微任务，会阻塞整个页面
+
+### requestAnimationFrame
+
+这个方法产生的宏任务有些特殊，可以认为这类任务有一个专用的队列，我暂且称为 `帧任务队列`
+
+它会在每一帧开始渲染前执行（不是每次事件循环dou），从任务调度来看，它的执行顺序是：`微任务 -> 帧任务（如果是一帧的开始） —> 其它宏任务`
 
 ## 调用栈
 
