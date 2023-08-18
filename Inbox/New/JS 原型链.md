@@ -86,13 +86,23 @@ Object.prototype.__proto__; // null
 
 ## 实例本身不存在的属性，会尝试在原型上找
 
-下面的 `foo` 实例本身并没有 `toString`，但是读取时可以读到，这是因为 `Object.pro`
+当我们访问实例属性时，如果实例上没找到，会在构造实例的函数对象的原型上找
+
+下面的 `foo` 实例本身并没有 `toString`，但是读取时可以读到，这是因为 `Object.prototype` 上有这个属性
 
 ```javascript
 function Foo() {}
 var foo = new Foo();
 Object.hasOwn(foo, 'toString'); // false
 foo.toString // ƒ toString() { [native code] }
+```
+
+查找顺序：`foo` 没有 `toString` ，去 `foo.__proto__` 即 `Object.prototype` 找，找到返回
+
+如果我们此时找一个原型上也不存在的属性
+
+```javascript
+
 ```
 
 
