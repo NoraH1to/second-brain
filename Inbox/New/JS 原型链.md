@@ -99,10 +99,6 @@ foo.toString // ƒ toString() { [native code] }
 
 查找顺序：`foo` 没有 `toString` ，去 `foo.__proto__` 即 `Object.prototype` 找，找到返回
 
-如果我们此时找一个原型上也不存在的属性
-
-```javascript
-
-```
+如果找到 `Object.prototype`
 
 
