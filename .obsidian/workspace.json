@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
+                "file": "Inbox/In Process/JS 事件循环.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md"
+                "file": "Inbox/In Process/JS 事件循环.md"
               }
             }
           }
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "Inbox/In Process/JS 事件循环.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "Inbox/In Process/JS 事件循环.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,8 +167,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "e1df2e0187875336",
+  "active": "ad467f2e65e9eb02",
   "lastOpenFiles": [
+    "Atlas/TOCs/技术.md",
+    "Home.md",
     "Cards/永久笔记/注册日本邮箱.md",
     "Cards/永久笔记/科学上网.md",
     "Cards/永久笔记/国际邮箱.md",
@@ -185,9 +187,7 @@
     "Inbox/In Process/Vue3响应式系统.md",
     "Inbox/New/YAML.md",
     "Inbox/New/🤖pdf.js.md",
-    "Atlas/TOCs/技术.md",
     "Inbox/New/CSS NoteBook.md",
-    "Home.md",
     "Cards/永久笔记/Rust NoteBook.md",
     "Inbox/New/CSS.md",
     "Inbox/New/LeetCode Rust - 8 - 字符串转换整数 (atoi).md",
