@@ -84,5 +84,15 @@ Function.prototype.__proto__ === Object.prototype; // true
 Object.prototype.__proto__; // null
 ```
 
+## 实例本身不存在的属性，会尝试在原型上找
+
+下面的 `foo` 实例本身并没有 `toString`，但是读取时可以读到，这是因为 `Object.pro`
+
+```javascript
+function Foo() {}
+var foo = new Foo();
+Object.hasOwn(foo, 'toString'); // false
+foo.toString // ƒ toString() { [native code] }
+```
 
 
