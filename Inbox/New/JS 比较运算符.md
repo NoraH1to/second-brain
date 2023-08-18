@@ -37,7 +37,22 @@ date modified: 2023-08-18
 	- 如果一个操作数是一个**对象**，而另一个操作数是一个**数字或字符串**，则使用[[#对象转换规则]]将该对象转换为原始值，再使用转换后的值比较
 	- 在以上的其他情况下，操作数都不相等
 
-比较大小只有一点不同：在最后不通过比较值是否相等，而是根据运算符的逻辑来返回结果，例如 `a >= b` 在 `a` 的值大于或者等于 `b` 的值的时候返回 `true`，否则返回 `false`
+比较大小只有一点不同：全部值都会转成数字，比较数字大小返回结果，例如：
+
+```javascript
+function Foo() {}
+Foo.prototype.toString = () => '0';
+function Bar() {}
+Bar.prototype.toString = () => '1';
+function _NaN() {}
+_NaN.prototype.toString = () => 'a';
+
+new Foo() == 0; // true
+new Foo() == false; // true
+new Foo() < '1'; // true
+new Foo() < new Bar(); // true
+new Foo() < new _NaN(); //_
+```
 
 ## 对象转换规则
 
