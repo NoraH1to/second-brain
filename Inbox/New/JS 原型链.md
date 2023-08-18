@@ -84,6 +84,10 @@ Function.prototype.__proto__ === Object.prototype; // true
 Object.prototype.__proto__; // null
 ```
 
+## 原型链
+
+使用 `__proto__` 串起原型，就是原型链了，顶端即 `Object.prototype.__proto__`，为 `null`
+
 ## 实例本身不存在的属性，会尝试在原型上找
 
 当我们访问实例属性时，如果实例上没找到，会在构造实例的函数对象的原型上找
@@ -97,8 +101,8 @@ Object.hasOwn(foo, 'toString'); // false
 foo.toString // ƒ toString() { [native code] }
 ```
 
-查找顺序：`foo` 没有 `toString` ，去 `foo.__proto__` 即 `Object.prototype` 找，找到返回
+查找顺序：
 
-如果找到 `Object.prototype`
-
-
+- 查找当前实例有无属性
+	- 如果有就直接返回
+	- 否则在 `fo.__proto__`
