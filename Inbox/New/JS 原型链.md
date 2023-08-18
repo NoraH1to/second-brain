@@ -16,16 +16,19 @@ date modified: 2023-08-18
 
 常见的普通对象如下：
 
-- `{}` 字面量对象，`Object` 的实例
-```javascript
-({}).__proto__ === Object.prototype; // true
-```
-- `foo = new Foo()`，`foo` 就是普通对象，是 `Foo` 的实例
+- 字面量对象 `{}`
+- 字面量字符串 `"abc"`
+- 字面量数值 `123`
+- `foo = new Foo()`，`foo` 就是普通对象
+
+### 函数对象
+
+函数就是函数对象
+
 ```javascript
 function Foo() {}
-new Foo().__proto__ === Foo.prototype; // true
 ```
-- `"abc"`，`String` 的实例
-```javascript
 
-```
+`Foo` 就是一个函数对象
+
+## 
