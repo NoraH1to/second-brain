@@ -3,10 +3,14 @@ title: JS 事件循环
 date created: 2023-08-17
 date modified: 2023-08-18
 ---
+## 事件循环
 
 js 是单线程语言，浏览器中 js 主线程会阻塞渲染，因此需要将一些耗时的任务放到别的线程去作为异步任务执行
 
-浏览器为了在主线程中能够协调各种异步事件（网络、用户操作），引入了事件循环模型来调度这些事件的分发
+浏览器为了在主线程中能够协调各种异步事件（网络、用户操作），引入了事件循环模型
+
+
+
 ## 调用栈
 
 js 使用栈先进后出的特性来保证代码的执行顺序，例如下面代码：
@@ -32,5 +36,3 @@ bar();
 8. `bar()` 执行完毕，出栈：`[]`
 
 具体可以看这个[在线例子](http://latentflip.com/loupe/?code=ZnVuY3Rpb24gZm9vKCkgewoJY29uc29sZS5sb2coJ2ZvbycpOwp9CmZ1bmN0aW9uIGJhcigpIHsKCWZvbygpOwoJY29uc29sZS5sb2coJ2JhcicpOwp9CmJhcigpOw%3D%3D!!!)
-
-## 事件循环
