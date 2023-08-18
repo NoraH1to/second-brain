@@ -57,4 +57,15 @@ function Foo() {}
 new Foo().__proto__ === Foo.prototype; // true
 ```
 
-## 函数对象的原型
+## 所有函数对象都是 `Function` 的实例
+
+```javascript
+function Foo() {}
+Foo.__proto__ === Function.prototype; // true
+String.__proto__ === Function.prototype; //true
+Object.__proto__ === Function.prototype; //true
+Function.__proto__ === Function.prototype; // true
+```
+
+
+
