@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/New/JS 比较运算符.md",
+                "file": "Cards/永久笔记/JS 比较运算符.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/New/JS 比较运算符.md"
+                "file": "Cards/永久笔记/JS 比较运算符.md"
               }
             }
           }
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/New/JS 比较运算符.md",
+                "file": "Cards/永久笔记/JS 比较运算符.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/New/JS 比较运算符.md",
+                "file": "Cards/永久笔记/JS 比较运算符.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,15 +154,15 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "ad467f2e65e9eb02",
+  "active": "e1df2e0187875336",
   "lastOpenFiles": [
     "Atlas/TOCs/技术.md",
     "Atlas/TOCs/蓝色协议（日服）.md",
     "Atlas/TOCs/我的作品.md",
     "Atlas/TOCs/LeetCode.md",
     "Atlas/TOCs/Obsidian.md",
-    "Inbox/New/JS 比较运算符.md",
-    "Inbox/In Process/JS 事件循环.md",
+    "Cards/永久笔记/JS 比较运算符.md",
+    "Cards/永久笔记/JS 事件循环.md",
     "f3336598e23442abab2a31d6d97338a7~tplv-k3u1fbpfcp-zoom-in-crop-mark_1512_0_0_0.awebp",
     "Home.md",
     "Cards/永久笔记/注册日本邮箱.md",
