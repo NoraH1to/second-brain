@@ -90,6 +90,20 @@ Object.prototype.__proto__; // null
 
 使用 `__proto__` 串起原型，就是原型链了，顶端即 `Object.prototype.__proto__`，为 `null`
 
+## instanceof
+
+`instanceof` 用于判断对象类型，其机制正是在原型链上寻找原型：
+
+- `target.__proto__`
+- `target.__proto__.__proto__`
+- 以此类推
+
+## 所有对象都是 Object 类型
+
+```javascript
+
+```
+
 ## 实例本身不存在的属性，会尝试在原型上找
 
 当我们访问实例属性时，如果实例上没找到，会在构造实例的函数对象的原型上找
