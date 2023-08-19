@@ -1,7 +1,7 @@
 ---
 title: JS 原型链
 date created: 2023-08-18
-date modified: 2023-08-18
+date modified: 2023-08-19
 ---
 
 > 原文：[原型链 | 乱炖锅 (norah1to.com)](https://www.norah1to.com/2022/06/07/basic/javascript/prototype-chain/)
@@ -101,8 +101,19 @@ Object.prototype.__proto__; // null
 ## 所有对象都是 Object 类型
 
 ```javascript
-
+function Foo() {};
+Array instanceof Object; // true
+Function instanceof Object; // true
+Foo instanceof Object; // true
 ```
+
+因为函数对象 `Function` 是 `Object` 的派生实例：
+
+```javascript
+Function.__proto__.__proto__ === Object.prototype; // true
+```
+
+且实例都派生自 `Function`，那么肯定也派生自 `Object`
 
 ## 实例本身不存在的属性，会尝试在原型上找
 
