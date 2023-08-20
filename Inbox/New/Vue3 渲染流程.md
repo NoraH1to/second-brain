@@ -122,3 +122,22 @@ const instance: ComponentInternalInstance =
 
 `createComponentInstance` 方法只是一些属性的初始化，没什么好说的，重点是接收该实例的 `setupRenderEffect` 方法
 
+里面定义了组件渲染、更新的方法 `componentUpdateFn`，该方法由两百多行，非常的重要，Vue 使用该方法在这里新建了一个响应式副作用，双向绑定的魔法在此展开
+
+```javascript
+// create reactive effect for rendering
+const effect = (instance.effect = new ReactiveEffect(
+	componentUpdateFn,
+	() => queueJob(update),
+	instance.scope // track it in component's effect scope
+))
+const update: SchedulerJob = (instance.update = () => effect.run())
+update.id = instance.uid
+update() // 执行渲染，渲染过程中使用的响应式变量都会被计入依赖
+```
+
+在 `componentUpdateFn` 中，如果我们是首次渲染，则会调用 `renderComponentRoot` 构建
+
+```javascript
+const subTree = (instance.subTree = renderComponentRoot(instance))
+```
