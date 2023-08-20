@@ -49,5 +49,28 @@ const vnode = createVNode(
 创建 `vnode` 节点后，就是渲染
 
 ```javascript
-
+render(vnode, rootContainer, isSVG)
 ```
+
+`render` 就是官方的浏览器渲染实现，其内部实现如下
+
+```javascript
+const render: RootRenderFunction = (vnode, container, isSVG) => {
+	if (vnode == null) {
+		if (container._vnode) {
+			unmount(container._vnode, null, null, true)
+		}
+	} else {
+		patch(container._vnode || null, vnode, container, null, null, null, isSVG)
+	}
+	flushPostFlushCbs()
+	container._vnode = vnode
+}
+```
+
+- 如果节点为 `null` ，则将节点从当前容器 dom 上卸载
+- 否则就进行 `patch`（打补丁）
+- 最后执行 `Post` 队列中的任务
+	> [!NOTE] Post 队列
+	> 
+	> [`watchEffect`](https://cn.vuejs.org/api/reactivity-core.html#watcheffect) 中的 `flush` 会指定响应依赖的执行时机，`Post` 队列中的任务需要在选然后执行
