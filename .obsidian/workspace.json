@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/New/Vue3 渲染流程.md",
+                "file": "Inbox/In Process/Vue3 渲染流程.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -101,7 +101,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/New/Vue3 渲染流程.md"
+                "file": "Inbox/In Process/Vue3 渲染流程.md"
               }
             }
           }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/New/Vue3 渲染流程.md",
+                "file": "Inbox/In Process/Vue3 渲染流程.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/New/Vue3 渲染流程.md",
+                "file": "Inbox/In Process/Vue3 渲染流程.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,11 +168,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "850312dcc24d7466",
+  "active": "e1df2e0187875336",
   "lastOpenFiles": [
     "Inbox/In Process/Vue3 响应式系统.md",
     "Atlas/TOCs/技术.md",
-    "Inbox/New/Vue3 渲染流程.md",
+    "Inbox/In Process/Vue3 渲染流程.md",
     "Inbox/In Process/Vue3 diff 算法.md",
     "Cards/永久笔记/JS 运算符.md",
     "Inbox/New/JS 原型链.md",
