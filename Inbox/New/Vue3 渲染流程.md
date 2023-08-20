@@ -71,6 +71,41 @@ const render: RootRenderFunction = (vnode, container, isSVG) => {
 - 如果节点为 `null` ，则将节点从当前容器 dom 上卸载
 - 否则就进行 `patch`（打补丁）
 - 最后执行 `Post` 队列中的任务
-	> [!NOTE] Post 队列
-	> 
-	> [`watchEffect`](https://cn.vuejs.org/api/reactivity-core.html#watcheffect) 中的 `flush` 会指定响应依赖的执行时机，`Post` 队列中的任务需要在选然后执行
+
+> [!NOTE] Post 队列
+> 
+> [`watchEffect`](https://cn.vuejs.org/api/reactivity-core.html#watcheffect) 中的 `flush` 会指定响应依赖的执行时机，`Post` 队列中的任务需要在选然后执行
+
+关键就是这里的 `patch`，在这里面会判断 `vnode` 的类型
+
+```javascript
+switch (type) {
+	case Text:
+		...
+		break
+	case Comment:
+		...
+		break
+	case Static:
+		...
+		break
+	case Fragment:
+		...
+		break
+	default:
+		...
+```
+
+由于我们还只是抽象的组件，还未渲染，这里会走到 `default` 中，在这里面判断我们传入的是组件后，会调用 `processComponent` 方法：
+
+```javascript
+if (shapeFlag & ShapeFlags.ELEMENT) {
+	...
+} else if (shapeFlag & ShapeFlags.COMPONENT) {
+	processComponent(...)
+} else {
+	...
+}
+```
+
+接着在里面判断是初次渲染后，会调用 `mountComponent` 方法
