@@ -108,4 +108,17 @@ if (shapeFlag & ShapeFlags.ELEMENT) {
 }
 ```
 
-接着在里面判断是初次渲染后，会调用 `mountComponent` 方法
+接着在里面判断是初次渲染后，会接着调用 `mountComponent` 方法，在里面创建组件实例
+
+```javascript
+const instance: ComponentInternalInstance =
+	compatMountInstance ||
+	(initialVNode.component = createComponentInstance(
+		initialVNode,
+		parentComponent,
+		parentSuspense
+	))
+```
+
+`createComponentInstance` 方法只是一些属性的初始化，没什么好说的，重点是接收该实例的 `setupRenderEffect` 方法
+
