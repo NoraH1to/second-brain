@@ -120,6 +120,10 @@ const instance: ComponentInternalInstance =
 	))
 ```
 
+在 `mountComponent` 中会调用 `setupComponent` 方法，该方法中进行了很多初始化操作
+
+- 
+
 `createComponentInstance` 方法只是一些属性的初始化，没什么好说的，重点是接收该实例的 `setupRenderEffect` 方法
 
 里面定义了组件渲染、更新的方法 `componentUpdateFn`，该方法由两百多行，非常的重要，Vue 使用该方法在这里新建了一个响应式副作用，双向绑定的魔法在此展开
@@ -136,8 +140,12 @@ update.id = instance.uid
 update() // 执行渲染，渲染过程中使用的响应式变量都会被计入依赖
 ```
 
-在 `componentUpdateFn` 中，如果我们是首次渲染，则会调用 `renderComponentRoot` 构建
+在 `componentUpdateFn` 中，如果我们是首次渲染，则会调用 `renderComponentRoot` 构建 `vnode` 树
 
 ```javascript
 const subTree = (instance.subTree = renderComponentRoot(instance))
 ```
+
+在 `renderComponentRoot` 中，进行了如下操作
+
+- 
