@@ -73,7 +73,7 @@ OK，可以着手去找资源了
 
 谁小时候还没有个大姐姐了！
 
-当然，下图里这种骑机车拿贝斯抡人的大姐姐不算在内
+当然，下图里这种骑机车拿贝斯抡人的粉毛大姐姐不算在内
 
 ![](https://vercel-proxy.norah1to.com/proxy/raw.githubusercontent.com/NoraH1to/cdn/master/img/20230827153947.png)
 
@@ -84,3 +84,5 @@ OK，可以着手去找资源了
 甚至还有一点点色气，简直就是少男杀手，这谁不迷糊啊
 
 等等，怎么感觉有点耳熟+眼熟
+
+![](https://vercel-proxy.norah1to.com/proxy/raw.githubusercontent.com/NoraH1to/cdn/master/img/20230827155850.png)
