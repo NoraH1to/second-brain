@@ -73,7 +73,7 @@ OK，可以着手去找资源了
 
 当然，下图里这种骑机车拿贝斯抡人的粉毛大姐姐没有也行
 
-![](https://vercel-proxy.norah1to.com/proxy/raw.githubusercontent.com/NoraH1to/cdn/master/img/20230827153947.png)
+![骑机车拿贝斯随时准备](https://vercel-proxy.norah1to.com/proxy/raw.githubusercontent.com/NoraH1to/cdn/master/img/20230827153947.png)
 
 利用他人达成目的然后一走了之，纯纯的坏女人！可是她真的好好看.jpg
 
@@ -83,7 +83,7 @@ OK，可以着手去找资源了
 
 稍等，怎么感觉有点耳熟+眼熟
 
-![](https://vercel-proxy.norah1to.com/proxy/raw.githubusercontent.com/NoraH1to/cdn/master/img/20230827155947.png)
+![电锯人动画化讨论](https://vercel-proxy.norah1to.com/proxy/raw.githubusercontent.com/NoraH1to/cdn/master/img/20230827155947.png)
 
 OK，坏女人的原型，这下不得不理解一切了，我是〇〇〇的〇.jpg
 
@@ -91,7 +91,8 @@ OK，坏女人的原型，这下不得不理解一切了，我是〇〇〇的〇
 
 晴子的性格则非常奔放，并且有非常鲜明的大姐姐属性，正面且积极向上的感觉，照顾人时散发的母性光辉（笑）在晴子这是白的（玛琪玛则是纯黑
 
-![](https://vercel-proxy.norah1to.com/proxy/raw.githubusercontent.com/NoraH1to/cdn/master/img/20230827162238.png)
+![亚萨西捏](https://vercel-proxy.norah1to.com/proxy/raw.githubusercontent.com/NoraH1to/cdn/master/img/20230827162238.png)
 
-这样的大姐姐，配上张力十足的战斗作画和攒劲的摇滚BGM，真的会让人嗨到不行，我甚至忘了今天还没刷题（
+这样的大姐姐，配上张力十足的作画和攒劲的摇滚BGM，真的会让人嗨到不行，我甚至忘了今天还没刷题（
 
+![](https://vercel-proxy.norah1to.com/proxy/raw.githubusercontent.com/NoraH1to/cdn/master/img/20230827162755.png)
