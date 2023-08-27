@@ -101,7 +101,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/In Process/Vue3 渲染流程.md"
+                "file": "Atlas/TOCs/技术.md"
               }
             }
           }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/In Process/Vue3 渲染流程.md",
+                "file": "Atlas/TOCs/技术.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/In Process/Vue3 渲染流程.md",
+                "file": "Atlas/TOCs/技术.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
