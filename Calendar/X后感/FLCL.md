@@ -101,3 +101,6 @@ OK，坏女人的原型，这下不得不理解一切了，我是〇〇〇的〇
 
 是的没错，这是FLCL，因为在这幅画面出现前
 
+![](https://vercel-proxy.norah1to.com/proxy/raw.githubusercontent.com/NoraH1to/cdn/master/img/20230827163501.png)
+
+![](https://vercel-proxy.norah1to.com/proxy/raw.githubusercontent.com/NoraH1to/cdn/master/img/20230827163818.png)
