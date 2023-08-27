@@ -4,7 +4,7 @@ date created: 2023-08-27
 date modified: 2023-08-27
 ---
 
-一切都要从日推的一首歌说起
+昨天日推里有这样一首歌
 
 ![Ride on shooting star](https://vercel-proxy.norah1to.com/proxy/raw.githubusercontent.com/NoraH1to/cdn/master/img/20230827143137.png)
 
@@ -16,4 +16,4 @@ date modified: 2023-08-27
 
 再仔细一查，哟呵，**世纪初千禧年**的作品，**[[EVA]]班底**制作，可以着手去找资源了
 
-最后选择了
+了解到BD版本细节丢失严重后，选择了**DVD原碟修复**版本： [[hydes] FLCL『The Ultimate Correct Version』[R2 JP DVD Remux][Dual-Audio] + OST, Artbooks, & Storyboard :: Nyaa](https://nyaa.si/view/1328814)
