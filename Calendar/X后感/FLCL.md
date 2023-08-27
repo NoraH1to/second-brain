@@ -73,11 +73,11 @@ OK，可以着手去找资源了
 
 当然，下图里这种骑机车拿贝斯抡人的粉毛大姐姐没有也行
 
-![骑机车拿贝斯随时准备](https://vercel-proxy.norah1to.com/proxy/raw.githubusercontent.com/NoraH1to/cdn/master/img/20230827153947.png)
+![骑机车拿贝斯](https://vercel-proxy.norah1to.com/proxy/raw.githubusercontent.com/NoraH1to/cdn/master/img/20230827153947.png)
 
 利用他人达成目的然后一走了之，纯纯的坏女人！可是她真的好好看.jpg
 
-![](https://vercel-proxy.norah1to.com/proxy/raw.githubusercontent.com/NoraH1to/cdn/master/img/20230827155045.png)
+![色气](https://vercel-proxy.norah1to.com/proxy/raw.githubusercontent.com/NoraH1to/cdn/master/img/20230827155045.png)
 
 甚至还有一点点色气，这谁不迷糊啊
 
@@ -95,4 +95,9 @@ OK，坏女人的原型，这下不得不理解一切了，我是〇〇〇的〇
 
 这样的大姐姐，配上张力十足的作画和攒劲的摇滚BGM，真的会让人嗨到不行，我甚至忘了今天还没刷题（
 
-![](https://vercel-proxy.norah1to.com/proxy/raw.githubusercontent.com/NoraH1to/cdn/master/img/20230827162755.png)
+![三冲？？](https://vercel-proxy.norah1to.com/proxy/raw.githubusercontent.com/NoraH1to/cdn/master/img/20230827162755.png)
+
+迎面而来的冲击感，红色的过剩光、还有头顶那个环到底是什么啊！这不是EVA吧？这是FLCL对吧？监督先生这是FLCL而不是EVA对吧？
+
+是的没错，这是FLCL，因为在这幅画面出现前
+
