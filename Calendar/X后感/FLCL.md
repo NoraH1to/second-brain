@@ -34,7 +34,7 @@ OK，可以着手去找资源了
 > 
 > 要帅有萌，要性感有萌，要萌有萌
 
-主角是一个**小学生**，讲了一堆与：**莫名其妙**的战斗，**莫名其妙**的机器人和**莫名其妙**的同学、老师、大叔，以及**莫名其妙**的**大姐姐**相关的日常（你管这叫日常？
+主角是一个**小学生**，讲了一堆与：**莫名其妙**的战斗，**莫名其妙**的机器人和**莫名其妙**的同学、老师、大叔，以及**莫名其妙**的**大姐姐**相关的怪诞日常（你管这叫日常？
 
 > [!NOTE] 小学生
 > 
@@ -77,12 +77,14 @@ OK，可以着手去找资源了
 
 ![](https://vercel-proxy.norah1to.com/proxy/raw.githubusercontent.com/NoraH1to/cdn/master/img/20230827153947.png)
 
-这人就是个魔鬼，超级坏女人，利用他人达成目的然后一走了之，可是她真的好好看.jpg
+利用他人达成目的然后一走了之，纯纯的坏女人，可是她真的好好看.jpg
 
 ![](https://vercel-proxy.norah1to.com/proxy/raw.githubusercontent.com/NoraH1to/cdn/master/img/20230827155045.png)
 
-甚至还有一点点色气，简直就是少男杀手，这谁不迷糊啊
+甚至还有一点点色气，这谁不迷糊啊
 
-等等，怎么感觉有点耳熟+眼熟
+稍等，怎么感觉有点耳熟+眼熟
 
-![](https://vercel-proxy.norah1to.com/proxy/raw.githubusercontent.com/NoraH1to/cdn/master/img/20230827155850.png)
+![](https://vercel-proxy.norah1to.com/proxy/raw.githubusercontent.com/NoraH1to/cdn/master/img/20230827155947.png)
+
+OK，坏女人的原型，这下不得不理解一切了
