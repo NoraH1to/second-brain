@@ -97,7 +97,9 @@ OK，坏女人的原型，这下不得不理解一切了，我是〇〇〇的〇
 
 ![三冲？？](https://vercel-proxy.norah1to.com/proxy/raw.githubusercontent.com/NoraH1to/cdn/master/img/20230827162755.png)
 
-迎面而来的冲击感，红色的过剩光，还有头顶那个环到底是什么啊！这不是EVA吧？这是FLCL对吧？监督先生这是FLCL而不是EVA对吧？
+画面扑面而来的冲击感，红色的过剩光，还有头顶那个环....？
+
+这到底是什么啊！这是FLCL对吧？这不是EVA吧？监督先生这是FLCL而不是EVA对吧？
 
 是的没错，这是FLCL，因为在这幅画面出现前
 
