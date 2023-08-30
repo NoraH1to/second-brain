@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Calendar/X后感/FLCL.md",
+                "file": "Cards/永久笔记/发布.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Calendar/X后感/FLCL.md"
+                "file": "Cards/永久笔记/发布.md"
               }
             }
           }
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Calendar/X后感/FLCL.md",
+                "file": "Cards/永久笔记/发布.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Calendar/X后感/FLCL.md",
+                "file": "Cards/永久笔记/发布.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,10 +156,11 @@
   },
   "active": "aecf950e646f4189",
   "lastOpenFiles": [
-    "Calendar/X后感/无职转生~到异世界就拿出真本事~.md",
-    "Calendar/X后感/混沌武士.md",
+    "Atlas/TOCs/Obsidian.md",
     "Home.md",
     "Calendar/X后感/FLCL.md",
+    "Calendar/X后感/无职转生~到异世界就拿出真本事~.md",
+    "Calendar/X后感/混沌武士.md",
     "Inbox/In Process/React18 diff 算法.md",
     "Inbox/New/().md",
     "Inbox/In Process/Vue3 响应式系统.md",
@@ -181,7 +182,6 @@
     "Cards/永久笔记/Antd NoteBook.md",
     "Atlas/TOCs/技术.md",
     "Cards/永久笔记/JS 运算符.md",
-    "Cards/永久笔记/JS 原型链.md",
     "f3336598e23442abab2a31d6d97338a7~tplv-k3u1fbpfcp-zoom-in-crop-mark_1512_0_0_0.awebp",
     "未命名.canvas",
     "Templates",
