@@ -96,6 +96,10 @@ Number  Start  End  Size  File system  Name  Flags
 (parted) mkpart opt 2048s 100%
 ```
 
+> [!question] 这两个命令的作用
+> `unit` 用于指定磁盘的计量单位，`unit s` 表示使用磁柱为单位，一般都使用这个
+> `mkpart` 用于新建分区
+
 再次执行 `p` 检查分区信息：
 
 ```bash
@@ -127,4 +131,20 @@ nvme0n1     259:0    0 238.5G  0 disk
 
 ## 格式化分区
 
-``
+执行 `mkfs -t {格式} /dev/{分区名}` 即可
+
+```bash
+norah1to@norah1to-nas-debian:~$ sudo mkfs -t ext4 /dev/sda1
+mke2fs 1.47.0 (5-Feb-2023)
+Creating filesystem with 1953506304 4k blocks and 244191232 inodes
+Filesystem UUID: b0039d64-0828-493f-a4e2-b748e38067f9
+Superblock backups stored on blocks:
+        32768, 98304, 163840, 229376, 294912, 819200, 884736, 1605632, 2654208,
+        4096000, 7962624, 11239424, 20480000, 23887872, 71663616, 78675968,
+        102400000, 214990848, 512000000, 550731776, 644972544, 1934917632
+
+Allocating group tables: done
+Writing inode tables: done
+Creating journal (262144 blocks): done
+Writing superblocks and filesystem accounting information: done
+```
