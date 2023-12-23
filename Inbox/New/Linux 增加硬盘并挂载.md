@@ -164,4 +164,25 @@ sudo mkdir /media/8ta
 sudo mount /dev/sda1 /media/8ta
 ```
 
-查看下
+查看挂载结果：
+
+```bash
+norah1to@norah1to-nas-debian:~$ df -TH
+Filesystem     Type      Size  Used Avail Use% Mounted on
+udev           devtmpfs   17G     0   17G   0% /dev
+tmpfs          tmpfs     3.4G  812k  3.4G   1% /run
+/dev/nvme0n1p2 ext4      250G  2.4G  235G   2% /
+tmpfs          tmpfs      17G     0   17G   0% /dev/shm
+tmpfs          tmpfs     5.3M     0  5.3M   0% /run/lock
+/dev/nvme0n1p1 vfat      536M  6.2M  530M   2% /boot/efi
+tmpfs          tmpfs     3.4G     0  3.4G   0% /run/user/1000
+/dev/sda1      ext4      8.0T   29k  7.6T   1% /media/8ta # 成功
+```
+
+## 开机自动挂载
+
+先获取磁盘分区的 **UUID**：
+
+```bash
+**blkid /dev/vdb1**
+```
