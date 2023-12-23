@@ -196,7 +196,7 @@ UUID="xxxx-xxxx-xxxx-xxxx" BLOCK_SIZE="4096" TYPE="ext4" PARTLABEL="opt" PARTUUI
 然后在 `/etc/fstab` 中添加一行挂载信息：
 
 ```bash
-xxxx-xxxx-xxxx-xxxx /media/8ta ext4 defaults 0 2
+UUID=xxxx-xxxx-xxxx-xxxx /media/8ta ext4 defaults 0 2
 ```
 
 `fstab` 的说明：
