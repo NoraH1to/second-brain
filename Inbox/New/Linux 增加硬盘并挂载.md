@@ -184,5 +184,25 @@ tmpfs          tmpfs     3.4G     0  3.4G   0% /run/user/1000
 先获取磁盘分区的 **UUID**：
 
 ```bash
-**blkid /dev/vdb1**
+sudo blkid /dev/sda1 | grep -o UUID[^\s]*
+UUID="xxxx-xxxx-xxxx-xxxx" BLOCK_SIZE="4096" TYPE="ext4" PARTLABEL="opt" PARTUUID="xxxx-xxxx-xxxx-xxxx"
 ```
+
+然后在 `/etc/fstab` 中添加一行挂载信息：
+
+```bash
+xxxx-xxxx-xxxx-xxxx /media/8ta ext4 defaults 0 2
+```
+
+> [!NOTE] fstab 的说明
+> ```
+> <file system>    <mount point>    <type>    <options>    <dump>    <pass>   
+    1                2              3           4          5         6
+```
+
+1. 指代文件系统的设备名，最初，该字段只包含待挂载分区的设备名（如/dev/sda1）。现在，除设备名外，还可以包含LABEL或UUID
+2. 文件系统挂载点，文件系统包含挂载点下整个目录树结构里的所有数据，除非其中某个目录又挂载了另一个文件系统
+3. 文件系统类型，下面是多数常见文件系统类型（ext3,tmpfs,devpts,sysfs,proc,swap,vfat）
+4. mount命令选项，mount选项包括noauto（启动时不挂载该文件系统）和ro（只读方式挂载文件系统）等。在该字段里添加用户或属主选项，即可允许该用户挂载文件系统。多个选项之间必须用逗号隔开。其他选项的相关信息可参看mount命令手册页（-o选项处）
+5. 转储文件系统，该字段只在用dump备份时才有意义。数字1表示该文件系统需要转储，0表示不需要转储
+6. 文件系统检查，该字段里的数字表示文件系统是否需要用fsck检查。0表示不必检查该文件系统，数字1示意该文件系统需要先行检查（用于根文件系统）。数字2则表示完成根文件系统检查后，再检查该文件系统
