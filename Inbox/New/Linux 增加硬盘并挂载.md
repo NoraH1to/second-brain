@@ -89,8 +89,42 @@ Number  Start  End  Size  File system  Name  Flags
 
 `Partition Table: gpt` ，磁盘分区类型设置完毕
 
-最后依次执行 `` 新建分区：
+最后依次执行 `unit s`，`mkpart opt 2048s 100%` 新建分区：
 
 ```bash
 (parted) unit s
+(parted) mkpart opt 2048s 100%
 ```
+
+再次执行 `p` 检查分区信息：
+
+```bash
+(parted) p
+Model: ATA ST8000VN004-3CP1 (scsi)
+Disk /dev/sda: 15628053168s
+Sector size (logical/physical): 512B/4096B
+Partition Table: gpt
+Disk Flags:
+
+Number  Start  End           Size          File system  Name  Flags
+ 1      2048s  15628052479s  15628050432s               opt
+```
+
+执行 `q` 退出 `parted`，接着执行 `lsblk` 检查磁盘分区信息：
+
+```bash
+norah1to@norah1to-nas-debian:~$ lsblk
+NAME        MAJ:MIN RM   SIZE RO TYPE MOUNTPOINTS
+sda           8:0    0   7.3T  0 disk
+└─sda1        8:1    0   7.3T  0 part
+nvme0n1     259:0    0 238.5G  0 disk
+├─nvme0n1p1 259:1    0   512M  0 part /boot/efi
+├─nvme0n1p2 259:2    0   237G  0 part /
+└─nvme0n1p3 259:3    0   977M  0 part [SWAP]
+```
+
+可以看到 `sda` 磁盘新增了一个分区 `sda1`，`1` 对应我们上面的分区号，至此分区成功
+
+## 格式化分区
+
+``

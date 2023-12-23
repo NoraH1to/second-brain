@@ -84,7 +84,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "53cf5748408e4c74",
@@ -156,7 +157,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 330.5
+    "width": 330.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -168,7 +170,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "0361f5247de8567b",
+  "active": "3054686891240236",
   "lastOpenFiles": [
     "Cards/永久笔记/发布.md",
     "Inbox/New/Linux 增加硬盘并挂载.md",
