@@ -99,7 +99,7 @@ Number  Start  End  Size  File system  Name  Flags
 > [!question] 这两个命令的作用
 > `unit` 用于指定磁盘的计量单位，`unit s` 表示使用磁柱为单位，一般都使用这个
 > 
-> `mkpart` 用于新建分区，具体参数为 `mkpart {分区类型} {文件类型} {分区起点} {分区终点}`。这里的 `opt` 表示
+> `mkpart` 用于新建分区，具体参数为 `mkpart {分区类型} {文件类型} {分区起点} {分区终点}`
 
 再次执行 `p` 检查分区信息：
 
@@ -149,3 +149,19 @@ Writing inode tables: done
 Creating journal (262144 blocks): done
 Writing superblocks and filesystem accounting information: done
 ```
+
+## 挂载分区
+
+先新建一个文件夹作为挂载点：
+
+```bash
+sudo mkdir /media/8ta
+```
+
+挂载：
+
+```bash
+sudo mount /dev/sda1 /media/8ta
+```
+
+查看下
