@@ -39,9 +39,9 @@ nvme0n1     259:0    0 238.5G  0 disk
 **大于 2T** 时，则需要使用 `parted`
 
 > [!question] 为什么
-> 容量大于 2T 时，需要使用 **GPT** 分区方式，而 `fdisk` 并不支持
+> 容量大于 2T 时，需要使用 **GPT** 格式分区，而 `fdisk` 并不支持
 > 
-> GPT 分区最大支持 **18EB** 容量
+> GPT 格式分区最大支持 **18EB** 容量
 
 先安装 `parted`：
 
@@ -74,7 +74,7 @@ Disk Flags:
 
 `Partition Table: unknown` ，说明该磁盘并没有分区表
 
-执行 `mklabel gpt` 将磁盘分区类型设置为 `gpt`，再次执行 `p`：
+执行 `mklabel gpt` 将磁盘分区表类型设置为 `gpt`，再次执行 `p`：
 
 ```bash
 (parted) p
@@ -87,7 +87,7 @@ Disk Flags:
 Number  Start  End  Size  File system  Name  Flags
 ```
 
-`Partition Table: gpt` ，磁盘分区类型设置完毕
+`Partition Table: gpt` ，磁盘分区表类型设置完毕
 
 最后依次执行 `unit s`，`mkpart opt 2048s 100%` 新建分区：
 
@@ -98,7 +98,8 @@ Number  Start  End  Size  File system  Name  Flags
 
 > [!question] 这两个命令的作用
 > `unit` 用于指定磁盘的计量单位，`unit s` 表示使用磁柱为单位，一般都使用这个
-> `mkpart` 用于新建分区
+> 
+> `mkpart` 用于新建分区，具体参数为 `mkpart {分区类型} {文件类型} {分区起点} {分区终点}`。这里的 `opt` 表示
 
 再次执行 `p` 检查分区信息：
 
