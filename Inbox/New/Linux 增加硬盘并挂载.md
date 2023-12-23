@@ -1,3 +1,8 @@
+---
+title: Linux 增加硬盘并挂载
+date created: 2023-12-23
+date modified: 2023-12-23
+---
 
 ## 背景
 
@@ -194,11 +199,10 @@ UUID="xxxx-xxxx-xxxx-xxxx" BLOCK_SIZE="4096" TYPE="ext4" PARTLABEL="opt" PARTUUI
 xxxx-xxxx-xxxx-xxxx /media/8ta ext4 defaults 0 2
 ```
 
-> [!NOTE] fstab 的说明
-> ```
-> <file system>    <mount point>    <type>    <options>    <dump>    <pass>   
-    1                2              3           4          5         6
-```
+`fstab` 的说明：
+
+<file system>    <mount point>    <type>    <options>    <dump>    <pass>   
+        1                      2                 3             4               5             6
 
 1. 指代文件系统的设备名，最初，该字段只包含待挂载分区的设备名（如/dev/sda1）。现在，除设备名外，还可以包含LABEL或UUID
 2. 文件系统挂载点，文件系统包含挂载点下整个目录树结构里的所有数据，除非其中某个目录又挂载了另一个文件系统
