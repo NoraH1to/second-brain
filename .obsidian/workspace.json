@@ -19,8 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0361f5247de8567b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inbox/New/Linux 增加硬盘并挂载.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -87,7 +101,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cards/永久笔记/发布.md"
+                "file": "Inbox/New/Linux 增加硬盘并挂载.md"
               }
             }
           }
@@ -104,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cards/永久笔记/发布.md",
+                "file": "Inbox/New/Linux 增加硬盘并挂载.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cards/永久笔记/发布.md",
+                "file": "Inbox/New/Linux 增加硬盘并挂载.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,11 +168,12 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "aecf950e646f4189",
+  "active": "0361f5247de8567b",
   "lastOpenFiles": [
+    "Cards/永久笔记/发布.md",
+    "Inbox/New/Linux 增加硬盘并挂载.md",
     "Inbox/In Process/React18 diff 算法.md",
     "Home.md",
-    "Cards/永久笔记/发布.md",
     "Cards/永久笔记/hugo-obsidian 元数据解析问题.md",
     "Atlas/TOCs/Obsidian.md",
     "Calendar/X后感/FLCL.md",
@@ -181,7 +196,6 @@
     "Inbox/New/Rust.md",
     "Inbox/New/React.md",
     "Cards/永久笔记/CSS NoteBook.md",
-    "Cards/永久笔记/Antd NoteBook.md",
     "f3336598e23442abab2a31d6d97338a7~tplv-k3u1fbpfcp-zoom-in-crop-mark_1512_0_0_0.awebp",
     "未命名.canvas",
     "Templates",
