@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/New/Linux 增加硬盘并挂载.md",
+                "file": "Inbox/New/Linux 增加硬盘分区并挂载.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -102,7 +102,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/New/Linux 增加硬盘并挂载.md"
+                "file": "Inbox/New/Linux 增加硬盘分区并挂载.md"
               }
             }
           }
@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/New/Linux 增加硬盘并挂载.md",
+                "file": "Inbox/New/Linux 增加硬盘分区并挂载.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/New/Linux 增加硬盘并挂载.md",
+                "file": "Inbox/New/Linux 增加硬盘分区并挂载.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,10 +170,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "3054686891240236",
+  "active": "0361f5247de8567b",
   "lastOpenFiles": [
     "Cards/永久笔记/发布.md",
-    "Inbox/New/Linux 增加硬盘并挂载.md",
+    "Inbox/New/Linux 增加硬盘分区并挂载.md",
     "Inbox/In Process/React18 diff 算法.md",
     "Home.md",
     "Cards/永久笔记/hugo-obsidian 元数据解析问题.md",
