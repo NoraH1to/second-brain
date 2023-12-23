@@ -60,3 +60,37 @@ sudo parted /dev/sda
 > 
 > 更详细的目录说明可以参考：[Linux基础一：各目录及介绍 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/647466955)
 
+执行 `p` 指令查看当前磁盘分区信息：
+
+```bash
+(parted) p
+Error: /dev/sda: unrecognised disk label
+Model: ATA ST8000VN004-3CP1 (scsi)
+Disk /dev/sda: 8002GB
+Sector size (logical/physical): 512B/4096B
+Partition Table: unknown
+Disk Flags:
+```
+
+`Partition Table: unknown` ，说明该磁盘并没有分区表
+
+执行 `mklabel gpt` 将磁盘分区类型设置为 `gpt`，再次执行 `p`：
+
+```bash
+(parted) p
+Model: ATA ST8000VN004-3CP1 (scsi)
+Disk /dev/sda: 8002GB
+Sector size (logical/physical): 512B/4096B
+Partition Table: gpt
+Disk Flags:
+
+Number  Start  End  Size  File system  Name  Flags
+```
+
+`Partition Table: gpt` ，磁盘分区类型设置完毕
+
+最后依次执行 `` 新建分区：
+
+```bash
+(parted) unit s
+```
