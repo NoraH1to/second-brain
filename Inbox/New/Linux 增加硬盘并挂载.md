@@ -56,4 +56,7 @@ sudo parted /dev/sda
 ```
 
 > [!question] /dev/sda
-> 所有新增的
+> `/dev/sd* `目录为所有 scsi 磁盘驱动程序的接口，因此 `/dev/sda` 就是我们的磁盘的具体位置
+> 
+> 更详细的目录说明可以参考：[Linux基础一：各目录及介绍 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/647466955)
+
