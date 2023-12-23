@@ -40,3 +40,20 @@ nvme0n1     259:0    0 238.5G  0 disk
 
 > [!question] 为什么
 > 容量大于 2T 时，需要使用 **GPT** 分区方式，而 `fdisk` 并不支持
+> 
+> GPT 分区最大支持 **18EB** 容量
+
+先安装 `parted`：
+
+```bash
+sudo apt-get install parted -y
+```
+
+进入 `parted` 命令行交互环境：
+
+```bash
+sudo parted /dev/sda
+```
+
+> [!question] /dev/sda
+> 所有新增的
