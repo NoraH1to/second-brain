@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/New/Docker compose 使用已存在的 volume、network.md",
+                "file": "Cards/永久笔记/Docker compose 使用已存在的 volume、network.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -88,7 +88,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/New/Docker compose 使用已存在的 volume、network.md"
+                "file": "Cards/永久笔记/Docker compose 使用已存在的 volume、network.md"
               }
             }
           }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/New/Docker compose 使用已存在的 volume、network.md",
+                "file": "Cards/永久笔记/Docker compose 使用已存在的 volume、network.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/New/Docker compose 使用已存在的 volume、network.md",
+                "file": "Cards/永久笔记/Docker compose 使用已存在的 volume、network.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,9 +158,9 @@
   },
   "active": "14d6943a45fb54da",
   "lastOpenFiles": [
-    "Inbox/New/Docker compose 使用已存在的 volume、network.md",
+    "Cards/永久笔记/Docker compose 使用已存在的 volume、network.md",
     "Cards/永久笔记/发布.md",
-    "Inbox/New/Linux 增加硬盘分区并挂载.md",
+    "Cards/永久笔记/Linux 增加硬盘分区并挂载.md",
     "Inbox/In Process/React18 diff 算法.md",
     "Home.md",
     "Cards/永久笔记/hugo-obsidian 元数据解析问题.md",
