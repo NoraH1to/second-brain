@@ -21,7 +21,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/New/Linux 用户、用户组指令.md",
+                "file": "Cards/永久笔记/Nextcloud 社区镜像部署踩坑.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a9d89958ab8740d5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inbox/New/MySQL 用户权限管理.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -29,7 +42,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -96,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/New/Linux 用户、用户组指令.md"
+                "file": "Inbox/New/MySQL 用户权限管理.md"
               }
             }
           }
@@ -113,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/New/Linux 用户、用户组指令.md",
+                "file": "Inbox/New/MySQL 用户权限管理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/New/Linux 用户、用户组指令.md",
+                "file": "Inbox/New/MySQL 用户权限管理.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,11 +177,12 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "41ab2517bebfa25b",
+  "active": "a9d89958ab8740d5",
   "lastOpenFiles": [
-    "Inbox/New/Linux 用户、用户组指令.md",
+    "Cards/永久笔记/Nextcloud 社区镜像部署踩坑.md",
+    "Inbox/New/MySQL 用户权限管理.md",
+    "Cards/永久笔记/Linux 用户、用户组指令.md",
     "Cards/永久笔记/Docker compose 使用已存在的 volume、network.md",
-    "Inbox/New/Nextcloud 社区镜像部署踩坑.md",
     "Cards/永久笔记/发布.md",
     "Cards/永久笔记/Linux 增加硬盘分区并挂载.md",
     "Inbox/In Process/React18 diff 算法.md",
@@ -191,7 +205,6 @@
     "Cards/永久笔记/YAML.md",
     "Inbox/New/Webpack.md",
     "Inbox/New/Vue.md",
-    "Inbox/New/Vite.md",
     "f3336598e23442abab2a31d6d97338a7~tplv-k3u1fbpfcp-zoom-in-crop-mark_1512_0_0_0.awebp",
     "未命名.canvas",
     "Templates",
