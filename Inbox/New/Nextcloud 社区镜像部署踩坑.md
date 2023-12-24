@@ -1,3 +1,8 @@
+---
+title: Nextcloud 社区镜像部署踩坑
+date created: 2023-12-24
+date modified: 2023-12-24
+---
 ## 初始化失败
 
 部署时可以选择数据库，我选了使用其他容器中的 mysql，结果在浏览器的起始设置页面报错了：
@@ -70,3 +75,11 @@ index.html  nextcloud.log
 ```sql
 GRANT ALL PRIVILEGES ON nextcloud.* TO nextcloud;
 ```
+
+接着再：
+
+- 清空 Nextcloud 的映射目录的数据
+- 删掉 Nextcloud 的数据库
+- 重启
+
+Done
