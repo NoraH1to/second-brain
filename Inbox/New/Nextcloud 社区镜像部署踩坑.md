@@ -59,4 +59,14 @@ root@nextcloud:/var/www/html/data# ls
 index.html  nextcloud.log
 ```
 
-再看下日志，找到最新的yi
+再看下日志，找到最新的错误：
+
+```
+"An exception occurred while executing a query: SQLSTATE[42000]: Syntax error or access violation: 1142 ALTER command denied to user 'nextcloud'@'172.24.0.4' for table 'oc_properties'"
+```
+
+好家伙，给数据库开的新账户权限不足，干脆不一个个给了，全部拉满：
+
+```sql
+GRANT ALL PRIVILEGES ON nextcloud.* TO nextcloud;
+```
