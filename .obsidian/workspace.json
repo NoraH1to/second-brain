@@ -34,7 +34,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/New/MySQL 用户权限管理.md",
+                "file": "Cards/永久笔记/MySQL 用户权限管理.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/New/MySQL 用户权限管理.md"
+                "file": "Cards/永久笔记/MySQL 用户权限管理.md"
               }
             }
           }
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/New/MySQL 用户权限管理.md",
+                "file": "Cards/永久笔记/MySQL 用户权限管理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/New/MySQL 用户权限管理.md",
+                "file": "Cards/永久笔记/MySQL 用户权限管理.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,10 +177,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "a9d89958ab8740d5",
+  "active": "e1df2e0187875336",
   "lastOpenFiles": [
     "Cards/永久笔记/Nextcloud 社区镜像部署踩坑.md",
-    "Inbox/New/MySQL 用户权限管理.md",
+    "Cards/永久笔记/MySQL 用户权限管理.md",
     "Cards/永久笔记/Linux 用户、用户组指令.md",
     "Cards/永久笔记/Docker compose 使用已存在的 volume、network.md",
     "Cards/永久笔记/发布.md",
