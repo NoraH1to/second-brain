@@ -19,8 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "109a9579c07a4991",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inbox/New/Nextcloud 社区镜像部署踩坑.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -70,8 +84,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "53cf5748408e4c74",
@@ -88,7 +101,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cards/永久笔记/Docker compose 使用已存在的 volume、network.md"
+                "file": "Inbox/New/Nextcloud 社区镜像部署踩坑.md"
               }
             }
           }
@@ -105,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cards/永久笔记/Docker compose 使用已存在的 volume、network.md",
+                "file": "Inbox/New/Nextcloud 社区镜像部署踩坑.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cards/永久笔记/Docker compose 使用已存在的 volume、network.md",
+                "file": "Inbox/New/Nextcloud 社区镜像部署踩坑.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,9 +169,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "14d6943a45fb54da",
+  "active": "109a9579c07a4991",
   "lastOpenFiles": [
     "Cards/永久笔记/Docker compose 使用已存在的 volume、network.md",
+    "Inbox/New/Nextcloud 社区镜像部署踩坑.md",
     "Cards/永久笔记/发布.md",
     "Cards/永久笔记/Linux 增加硬盘分区并挂载.md",
     "Inbox/In Process/React18 diff 算法.md",
@@ -183,7 +197,6 @@
     "Inbox/New/Vue.md",
     "Inbox/New/Vite.md",
     "Inbox/New/Rust.md",
-    "Inbox/New/React.md",
     "f3336598e23442abab2a31d6d97338a7~tplv-k3u1fbpfcp-zoom-in-crop-mark_1512_0_0_0.awebp",
     "未命名.canvas",
     "Templates",
