@@ -1,11 +1,12 @@
+## 初始化失败
+
 部署时可以选择数据库，我选了使用其他容器中的 mysql，结果在浏览器的起始设置页面报错了：
 
 ![](https://vercel-proxy.norah1to.com/proxy/raw.githubusercontent.com/NoraH1to/cdn/master/img/20231224144129.png)
 
 okok，看下容器日志：
 
-```bash
-    
+```log
 Configuring Redis as session handler
 Initializing nextcloud 28.0.1.1 ...
 New nextcloud instance
@@ -32,4 +33,30 @@ AH00558: apache2: Could not reliably determine the server's fully qualified doma
 192.168.0.115 - - [24/Dec/2023:06:25:39 +0000] "-" 408 0 "-" "-"
 ```
 
-捏麻麻滴，只有 **Apache 服务**的日志，然后就是漫长的 google，在某个小伙的提问中我发现能在 Docker 挂载的卷目录下找到日志
+捏麻麻滴，只有 **Apache 服务**的日志，然后就是漫长的 google
+
+在某个小伙的提问中我发现能在 Docker 挂载的卷目录下找到日志：
+
+![](https://vercel-proxy.norah1to.com/proxy/raw.githubusercontent.com/NoraH1to/cdn/master/img/20231224144403.png)
+
+哎呀老高兴了，进去一看，我测，怎么没有：
+
+```log
+root@nextcloud:/var/www/html# ls
+3rdparty       config       dist                      ocs                resources
+AUTHORS        console.php  index.html                ocs-provider       robots.txt
+COPYING        core         index.php                 package-lock.json  status.php
+apps           cron.php     lib                       package.json       themes
+composer.json  custom_apps  nextcloud-init-sync.lock  public.php         version.php
+composer.lock  data         occ                       remote.php
+```
+
+根据我常年踩坑踩出来的直觉，我觉得应该是放到了一个子目录下（我这的 nextcloud 是最新的 28 版本，才出来没几天），于是看了一眼 `data`：
+
+```log
+root@nextcloud:/var/www/html# cd data
+root@nextcloud:/var/www/html/data# ls
+index.html  nextcloud.log
+```
+
+再看下日志，找到最新的yi
