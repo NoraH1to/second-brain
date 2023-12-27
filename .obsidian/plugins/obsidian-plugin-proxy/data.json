@@ -1,5 +1,5 @@
 {
-  "currentProxy": "vercel-proxy",
+  "currentProxy": "ghproxy",
   "defaultProxy": "mirr",
   "proxyList": [
     {
